@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/01652f-fff101-015aaa-24aae1-015825 */
+
+/* CSV */
+01652F,FFF101,015AAA,24AAE1,015825
+
+/* With # */
+#01652F, #FFF101, #015AAA, #24AAE1, #015825
+
+/* Array */
+["01652F","FFF101","015AAA","24AAE1","015825"]
+
+/* Object */
+{"Cadmium Green":"01652F","Canary Yellow":"FFF101","Lapis Lazuli":"015AAA","Cerulean Crayola":"24AAE1","Lincoln Green":"015825"}
+
+/* Extended Array */
+[{"name":"Cadmium Green","hex":"01652F","rgb":[1,101,47],"cmyk":[99,0,53,60],"hsb":[148,99,40],"hsl":[148,98,20],"lab":[37,-39,23]},{"name":"Canary Yellow","hex":"FFF101","rgb":[255,241,1],"cmyk":[0,5,100,0],"hsb":[57,100,100],"hsl":[57,100,50],"lab":[94,-15,92]},{"name":"Lapis Lazuli","hex":"015AAA","rgb":[1,90,170],"cmyk":[99,47,0,33],"hsb":[208,99,67],"hsl":[208,99,34],"lab":[38,9,-49]},{"name":"Cerulean Crayola","hex":"24AAE1","rgb":[36,170,225],"cmyk":[84,24,0,12],"hsb":[197,84,88],"hsl":[197,76,51],"lab":[65,-15,-37]},{"name":"Lincoln Green","hex":"015825","rgb":[1,88,37],"cmyk":[99,0,58,65],"hsb":[145,99,35],"hsl":[145,98,17],"lab":[32,-36,23]}]
+
+/* XML */
+<palette>
+  <color name="Cadmium Green" hex="01652F" r="1" g="101" b="47" />
+  <color name="Canary Yellow" hex="FFF101" r="255" g="241" b="1" />
+  <color name="Lapis Lazuli" hex="015AAA" r="1" g="90" b="170" />
+  <color name="Cerulean Crayola" hex="24AAE1" r="36" g="170" b="225" />
+  <color name="Lincoln Green" hex="015825" r="1" g="88" b="37" />
+</palette>

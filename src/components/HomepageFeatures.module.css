@@ -1,0 +1,24 @@
+/* stylelint-disable docusaurus/copyright-header */
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+  /*background-color: var(--ifm-color-primary) !important;*/
+  background-image: linear-gradient(
+    rgba(0, 92, 211, 1),
+    rgba(255, 235, 59, 1),
+    rgba(0, 139, 0, 1)
+  );
+  border-radius: 50px;
+}
+
+.featureSvg[data-theme="dark"] {
+  background-color: var(--ifm-color-primary) !important;
+}
