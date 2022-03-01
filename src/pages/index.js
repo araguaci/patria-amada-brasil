@@ -39,12 +39,12 @@ function HomepageHeader() {
             className="button button--secondary button--lg buttongradiente"
             to="/docs/1000dias">
             1000 Dias
-          </Link><code>&nbsp;</code>
+          </Link><code>&nbsp;✠&nbsp;</code>
           <Link
             className="button button--secondary button--lg buttongradiente"
             to="/docs/balanco-do-governo">
             Balanço
-          </Link><code>&nbsp;</code>
+          </Link><code>&nbsp;✠&nbsp;</code>
           <Link
             className="button button--secondary button--lg buttongradiente"
             to="/blog">
