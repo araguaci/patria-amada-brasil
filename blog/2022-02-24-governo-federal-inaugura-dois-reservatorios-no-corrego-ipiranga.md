@@ -10,7 +10,7 @@ tags: [Investimento, Saneamento, Enchentes]
 
 Local onde foi proferido o grito de “Independência ou Morte” recebe estruturas para o combate às enchentes na cidade de São Paulo
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 24/02/2022 17h16
 

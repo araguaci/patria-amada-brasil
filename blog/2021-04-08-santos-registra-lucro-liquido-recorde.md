@@ -12,7 +12,7 @@ Valores cresceram 132% em relação ao ano anterior
 
 A Santos Port Authority (SPA), estatal que administra o Porto de Santos, encerrou 2020 com o melhor resultado financeiro de sua história ao registrar lucro líquido de R$ 202,5 milhões - alta de 132% sobre 2019, quando fechou com lucro de R$ 87,3 milhões. Também houve aumento na receita líquida, que cresceu 15%, (R$ 1,1 bilhão), impulsionada pelo desempenho do agronegócio nacional, o que proporcionou novo recorde histórico de movimentação de cargas, avançando 9,4% em relação ao ano anterior e alcançando 146,6 milhões de toneladas.
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 08/04/2021 17h28 Atualizado em 08/04/2021 17h30
 

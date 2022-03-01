@@ -10,7 +10,7 @@ tags: [Viagens, Turismo]
 
 Projetos de infraestrutura turística atenderam as cinco regiões, com investimentos do governo federal que ultrapassaram a marca de R$ 866 milhões
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 11/02/2022 17h50
 

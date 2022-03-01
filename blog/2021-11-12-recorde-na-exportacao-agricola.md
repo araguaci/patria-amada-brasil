@@ -10,7 +10,7 @@ tags: [Investimento, Saneamento, Enchentes]
 
 **Puxadas pelos embarques de milho, algodão e carne, vendas devem registrar crescimento de 5% e atingir 200 mi de toneladas neste ano; setor se apoia em avanços tecnológicos para elevar sua produtividade e ganhar novos mercados no exterior.** 
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 10/12/2019 00h00 Atualizado em 12/11/2021 09h02
 

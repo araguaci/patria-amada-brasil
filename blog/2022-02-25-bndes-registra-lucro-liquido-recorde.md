@@ -10,7 +10,7 @@ tags: [lucro, recorde, bndes]
 
 BNDES registra lucro líquido recorde em 2021 e passa a ter a maior carteira de concessões de infraestrutura do mundo
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 25/02/2022 17h52
 

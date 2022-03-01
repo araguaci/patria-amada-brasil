@@ -6,7 +6,7 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 2.8rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
@@ -18,29 +18,16 @@
   }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .heroBanner {
-  background-image: linear-gradient(
-      rgba(0, 139, 0, 0.5),
-      rgba(0, 92, 211, 0.5)
-      ),
+  background-image: linear-gradient(rgba(0, 139, 0, 0.5), rgba(0, 92, 211, 0.5)),
     url(/img/patriaamadabr.jpg) !important;
-  background-repeat: no-repeat;
   background-size: 100%;
   background-position: 0px;
   /*opacity: 0.1;*/
 }
 
 .heroBanner:hover {
-  background-image: linear-gradient(
-    rgba(0, 139, 0, 0.5),
-    rgba(0, 92, 211, 0.5)
-    ),
+  background-image: linear-gradient(rgba(0, 139, 0, 0.5), rgba(0, 92, 211, 0.5)),
     url(/img/patriaamadabr.jpg) !important;
   /* Firefox */
   -moz-transition: all 3s ease-in;
@@ -57,10 +44,10 @@
   top: 0px;
   left: 0px;
   width: 100%;
-  height: 100px;
 }
 
-.hero__subtitle, .hero__title {
+.hero__subtitle,
+.hero__title {
   font-weight: bold;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -74,4 +61,57 @@
 }
 .hero__subtitle {
   font-size: 30px;
+}
+
+.button:not(a) {
+  border: 0;
+  border-bottom: 0;
+  border-left: 0;
+  font-weight: "900";
+  font-family: "Ubuntu", sans-serif;
+  box-shadow: inset 0 -3.2px rgba(0, 0, 0, 0.12), inset 2px 0 rgba(0, 0, 0, 0.1);
+  outline: none;
+  -webkit-outline: none;
+  -o-outline: none;
+  -moz-outline: none;
+}
+.button:active:not(a),
+.button.active {
+  outline: none;
+  -moz-outline: none;
+  background-image: none;
+  -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
+  position: relative;
+  box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
+  top: 1px;
+  left: -1px;
+}
+.button:focus:not(a) {
+  outline: none;
+  -webkit-outline: none;
+  -moz-outline: none;
+}
+.button-sm {
+  padding-top: 1.5px;
+}
+
+.button {
+  background-image: linear-gradient(
+    rgba(0, 139, 0, 1),
+    rgba(255, 235, 59, 1),
+    rgba(0, 92, 211, 1) 
+  ) !important;
+  color: var(--ifm-navbar-background-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 7px 0px 7px !important;
+}
+
+.buttongradiente {
+  background-image: linear-gradient(
+    rgba(0, 139, 0, 1),
+    rgba(255, 235, 59, 1),
+    rgba(0, 92, 211, 1) 
+  ) !important; 
 }

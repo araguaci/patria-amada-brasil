@@ -12,7 +12,7 @@ Com o resultado, a estatal investiu na modernização da frota de veículos, ati
 
 Ao todo, o Brasil ganhou mais de 1,3 mil quilômetros de rodovias novas e modernizadas
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 18/01/2022 14h56
 

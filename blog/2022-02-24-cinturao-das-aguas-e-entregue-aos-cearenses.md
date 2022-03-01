@@ -12,7 +12,7 @@ tags: [direitoshumanos]
 
 Construída pelo governo do estado, a obra do CAC recebeu investimentos de R$ 1,2 bilhão do Governo Federal
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 24/02/2022 09h03 Atualizado em 24/02/2022 13h59
 

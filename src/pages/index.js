@@ -1,25 +1,18 @@
-import React from "react";
-import clsx from "clsx";
-import Layout from "@theme/Layout";
-import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import styles from "./index.module.css";
-import HomepageFeatures from "../components/HomepageFeatures";
+import React from 'react';
+import clsx from 'clsx';
+import Layout from '@theme/Layout';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import styles from './index.module.css';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Typewriter from "typewriter-effect";
-import { Player, ControlBar } from "video-react";
-/*
-<Player autoPlay loop className="headerbg">
-  <source src={headerbg} />
-  <ControlBar autoHide={true} >
-  </ControlBar>  
-</Player> 
-*/
+
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
+  const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className={clsx("hero__title", styles.hero__title)}>{siteConfig.title}</h1>
+      <h1 className={clsx("hero__title", styles.hero__title)}>{siteConfig.title}</h1>
         <h1 className={clsx("hero__subtitle", styles.hero__subtitle)}>{siteConfig.tagline}</h1>
         <div className={clsx("hero__subtitle", styles.hero__subtitle)}>
           <h1 className="greeting-text">
@@ -41,18 +34,34 @@ function HomepageHeader() {
             />
           </h1>
         </div>
+        <div>
+          <Link
+            className="button button--secondary button--lg buttongradiente"
+            to="/docs/1000dias">
+            1000 Dias
+          </Link><code>&nbsp;</code>
+          <Link
+            className="button button--secondary button--lg buttongradiente"
+            to="/docs/balanco-do-governo">
+            Balanço
+          </Link><code>&nbsp;</code>
+          <Link
+            className="button button--secondary button--lg buttongradiente"
+            to="/blog">
+            Destaques
+          </Link>
+        </div>
       </div>
     </header>
   );
 }
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
+  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
-    >
+      title={`${siteConfig.title}`}
+      description="Entregas do Governo Federal Pátria Amada Brasil <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

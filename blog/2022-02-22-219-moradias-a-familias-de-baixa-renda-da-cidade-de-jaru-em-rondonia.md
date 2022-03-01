@@ -17,7 +17,7 @@ Residencial Primavera, que integra o Programa Casa Verde e Amarela, recebeu R$ 1
 O Governo Federal, por meio do Ministério do Desenvolvimento Regional (MDR), entregou, nessa segunda-feira (21), mais 219 moradias a famílias de baixa renda da cidade de Jaru, em Rondônia (RO).
 
 O Residencial Primavera, que integra o Programa Casa Verde e Amarela, recebeu R$ 14,2 milhões de investimento federal.
-<!--` `truncate` `-->
+<!--truncate-->
 As casas do Residencial Primavera estão localizadas em lotes individuais e contam com infraestrutura completa de água, esgoto, iluminação pública, energia elétrica, pavimentação e drenagem.
 
 ## Casa Verde e Amarela

@@ -10,7 +10,7 @@ tags: [obras, moradias, saneamento, infraestrutura]
 
 Pasta também realizou mudanças estruturantes nas políticas públicas de saneamento, com o novo Marco Legal, e de habitação, com o Programa Casa Verde e Amarela
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Compartilhe:
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/mdr-conclui-6-2-mil-obras-em-2020-e-entrega-410-mil-moradias-em-todo-o-pais)

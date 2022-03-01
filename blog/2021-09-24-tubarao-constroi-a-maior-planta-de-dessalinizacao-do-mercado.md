@@ -10,7 +10,7 @@ tags: [Infraestrutura, Sustentabilidade]
 
 **O maior dessalinizador de água marinha do Brasil começará suas atividades na ArcelorMittal Tubarão neste mês de setembro. O sistema, que é o mais atual do mercado, é fruto de investimentos milionários e conta com uma capacidade inicial de dessalinizar 500 m³ por hora de água e garantirá uma segurança hídrica maior para a empresa e para o estado do Espírito Santo.**
 
-<!--` `truncate` `-->
+<!--truncate-->
 Publicado em 29/09/2021 11h43 Atualizado em 09/11/2021 10h16
 
 Compartilhe: 

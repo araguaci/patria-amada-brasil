@@ -12,7 +12,7 @@ Nas redondezas, o programa vai instalar cerca de 6,3 mil cisternas de polietilen
 
 Ibotirama (BA) - As 823 famílias que vivem na zona rural da cidade baiana às margens do Rio São Francisco, Ibotirama, já contam com acesso à água de qualidade para beber e cozinhar, inclusive durante longos períodos de estiagem. Isso porque, com investimento de R$ 4 milhões, o Água para Todos, programa do governo federal coordenado pelo Ministério da Integração Nacional, instalou cisternas de polietileno nas residências para atender a necessidade emergencial da população.
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 "A chegada das cisternas em Ibotirama não apenas matou a sede do povo como também influenciou positivamente a economia local. Muitos moradores, antes desempregados, foram convidados para trabalhar na instalação dos reservatórios, ou seja, a mão de obra da cidade foi valorizada gerando novos postos de trabalho e renda", ressaltou Andrezza de Cássia Lino, membro do comitê gestor do Água para Todos em Ibotirama.
 

@@ -10,7 +10,7 @@ tags: [lucro, recorde, Finanças, Impostos, Gestão Pública]
 
 Com o resultado, a estatal investiu na modernização da frota de veículos, ativos de tecnologia, automação do tratamento de objetos e ampliação da estrutura operacional no segmento de encomendas
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Publicado em 31/05/2021 11h22
 

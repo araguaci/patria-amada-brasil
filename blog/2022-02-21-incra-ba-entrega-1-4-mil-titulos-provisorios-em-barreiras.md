@@ -13,7 +13,7 @@ Publicado em 21/02/2022 11h47 Atualizado em 21/02/2022 14h29
 Nem as perdas de parte das plantações de mandioca, feijão e milho, devido às chuvas excessivas nos últimos meses na Bahia, tiraram a alegria do agricultor assentado, Erivaldo Medeiros, 51 anos, ao ser contemplado com o seu Contrato de Concessão e Uso da Terra (CCU), que tem valor de título provisório. “Esperei 18 anos por esse momento”, ressalta.
 
 
-<!--` `truncate` `-->
+<!--truncate-->
 
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)

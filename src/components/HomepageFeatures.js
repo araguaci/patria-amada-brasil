@@ -11,7 +11,7 @@ const Component = () => {
 const FeatureList = [
   {
     title: '1000 Dias de Governo',
-    Svg: require( '../../static/img/1000dias.svg').default,
+    Svg: require( '../../static/img/1000diasv.svg').default,
     description: (
       <> 
         Obras realizadas pelo Governo Federal em 1000 dias de Governo.
@@ -19,22 +19,20 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require( '../../static/img/artesdosul_2.svg').default,
+    title: 'Principais Entregas',
+    Svg: require( '../../static/img/balanco-governo-avaliacao.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Principais Entregas e Balanço do Governo do Presidente Bolsonaro
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/artesdosul_3.svg').default,
+    title: 'Destaques',
+    Svg: require('../../static/img/balanco-governo-grafico.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Resultados positivos que nem sempre tem repercursão na imprensa.
       </>
     ),
   },
