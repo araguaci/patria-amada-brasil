@@ -46,6 +46,10 @@ module.exports = {
               to: '/docs/1000dias',
             },
             {
+              label: 'Principais Entregas',
+              to: '/docs',
+            },
+            {
               label: 'Ministério da Agricultura',
               to: '/docs/agricultura',
             },
@@ -56,10 +60,6 @@ module.exports = {
             {
               label: 'Ministério do Turismo',
               to: '/docs/turismo',
-            },
-            {
-              label: 'Principais Entregas',
-              to: '/docs',
             },
           ],
         },

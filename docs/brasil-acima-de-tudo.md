@@ -45,7 +45,7 @@ Ainda assim:
 Só para termos uma ideia do que é gestão, o banco central, mesmo com a pandemia, registrou lucros de 400 bilhões de reais, no primeiro semestre. 
 
 
-Só para termos uma ideia do que é gestão, o banco central, mesmo com a FRAUDEMIA, registrou lucros de 400 bilhões de reais, no primeiro semestre. 
+Só para termos uma ideia do que é gestão, o banco central, mesmo com a covid19, registrou lucros de 400 bilhões de reais, no primeiro semestre. 
 
 O Ministério da Economia quer reduzir nossa dívida pública em 10%, usando esse dinheiro. 
 Isso reduzirá os valores dos  juros a serem pagos, obrigatoriamente, pelo governo,  e com isso sobrará mais dinheiro para investimentos públicos. 
@@ -54,10 +54,6 @@ Os 05 pacotes emergenciais de R$ 600,00 custaram ao governo 60 bilhões, por mê
 São ao todo 390 bilhões dados para o povo brasileiro não morrer de fome. 
 De onde veio esse dinheiro? Pergunta ao GUEDES como ele fez para lucrar 500 bilhões, com a alta do dólar, entre dezembro de 2019 e maio de 2020.
 O  Governo atual, mesmo com os desvios feitos pelos governadores; mesmo com as ações inconstitucionais do STF; mesmo com a ECONOMIA TRAVADA, na maioria dos estados foi definido como o maior investidor nesta pandemia, ficando atrás apenas dos EUA.
-
-Nós, brasileiros, precisamos usar mais a razão, no dia a dia, e esquecermos as ideologias. 
-Temos que considerar e aplaudir os acertos e criticar os erros, sem no entanto, ideologizar os acontecimentos.
-
 
 > Nós, brasileiros, precisamos usar mais a razão, no dia a dia, e esquecermos as ideologias. 
 > Temos que considerar e aplaudir os acertos e criticar os erros, sem no entanto, ideologizar os  acontecimentos.
