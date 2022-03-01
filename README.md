@@ -1,6 +1,13 @@
-# Website
+# Pátria Amada Brasil
+## Seja Bem Vindo
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+**Este é um projeto voluntário.** 
+
+Por décadas fomos sobrecarregados com uma imensa quantidade de escandalos de corrupção, mas nestes três anos, desde 2019 não temos isto, pelo contrário, mesmo assim o que temos de notícias são ataques intensos contra o Governo e nos leva a considerar que nossos jornalistas não tem interesse algum em ver um Brasil Próspero e Justo. 
+
+O que vejo na imprensa é a tentativa de corroer as ações deste governo partindo de pessoas condenadas e de uma impressa que não viu mais de US$ 300 milhões desviados em fraudes, isto somente da Petrobrás. **Motivado pelo desprezo da nossa imprensa com as melhorias conquistadas neste novo governo, resolvi montar este projeto com as principais conquistas e entregas que não são notícia na imprensa.**
+
+**This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.**
 
 ```created bay cmd: 
 npx @docusaurus/init@latest init my-website classic
