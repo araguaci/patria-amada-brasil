@@ -7,6 +7,21 @@ Por décadas fomos sobrecarregados com uma imensa quantidade de escandalos de co
 
 O que vejo na imprensa é a tentativa de corroer as ações deste governo partindo de pessoas condenadas e de uma impressa que não viu mais de US$ 300 milhões desviados em fraudes, isto somente da Petrobrás. **Motivado pelo desprezo da nossa imprensa com as melhorias conquistadas neste novo governo, resolvi montar este projeto com as principais conquistas e entregas que não são notícia na imprensa.**
 
+## Welcome 
+
+**This is a voluntary project.**
+
+This is a voluntary project. For decades we have been burdened with an immense amount of corruption scandals, but in these three years, since 2019 we have not this, on the contrary, even so what we have news are intense attacks against the Government and leads us to consider that our journalists have no interest in seeing a Prosperous and Fair Brazil. 
+
+What I see in the press is the attempt to erode the actions of this government from convicted people and a print that has not seen more than US$ 300 million embezzled in fraud, this is only from Petrobras. **Motivated by the contempt of our press with the improvements achieved in this new government, I decided to set up this project with the main achievements and deliveries that are not news in the press.**
+
+## Todo
+
+  - [ ] Translate
+  - [ ] Images of results that press does not show
+
+## Ferramenta
+
 **This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.**
 
 ```created bay cmd: 
