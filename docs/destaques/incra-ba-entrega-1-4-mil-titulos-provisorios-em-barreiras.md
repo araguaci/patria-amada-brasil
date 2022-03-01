@@ -63,7 +63,7 @@ A ação do [Incra na Bahia](https://www.gov.br/incra/pt-br/composicao/superinte
 
 Além disso, uma equipe do Incra no estado já começou a percorrer os assentamentos contemplados colhendo assinaturas e entregando uma cópia dos contratos. A ação está prevista a seguir até o dia 27 de fevereiro com a finalidade de entregar esta remessa de documentos e conta com o apoio da Unidade Avançada do Oeste.
 
-**Vibração**
+## Vibração 
 
 O agricultor Erivaldo Medeiros faz planos. “Agora me sinto mais seguro. Vou tocar um projeto para plantar milho verde. E continuar a criar as vacas de leite e, como tenho tanque, quero fortalecer a criação de peixe”, explica.
 
@@ -73,23 +73,21 @@ A mesma vibração vem do assentado Luís Rodrigues Amorim, 77 anos, que recebeu
 
 O superintendente regional do Incra na Bahia, Paulo Emmanuel Alves, ressaltou que a agenda é a pedra fundamental para o avanço da regularização fundiária na região Oeste. “Essa é uma das maiores regiões do estado, mas vamos trabalhar pela titulação de assentamentos daqui, para que as famílias possam produzir de maneira segura e com liberdade”, ressaltou, durante o evento.
 
-Assessoria de Comunicação Social do Incra/BA  
-[\[email protected\]](/cdn-cgi/l/email-protection)  
-[www.gov.br/incra](http://www.gov.br/incra)  
-[gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia](http://gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia)  
-[www.facebook.com/incra.ba](https://www.facebook.com/incra.ba)
+## Assessoria de Comunicação Social do Incra/BA  
+ - [www.gov.br/incra](http://www.gov.br/incra)  
+ - [gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia](http://gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia)  
+ - [www.facebook.com/incra.ba](https://www.facebook.com/incra.ba)
 
-Tags: 
+## Tags:
  - [Bahia](https://www.gov.br/incra/pt-br/@@search?Subject%3Alist=Bahia)
  - [CCU](https://www.gov.br/incra/pt-br/@@search?Subject%3Alist=CCU)
  - [Regularização Fundiária](https://www.gov.br/incra/pt-br/@@search?Subject%3Alist=Regulariza%C3%A7%C3%A3o%20Fundi%C3%A1ria)
  - [Assentamentos](https://www.gov.br/incra/pt-br/@@search?Subject%3Alist=Assentamentos)
 
-Compartilhe: 
+## Compartilhe
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
 *    [Twitter](https://twitter.com/share?text=Incra%20entrega%201%2C4%20mil%20t%C3%ADtulos%20provis%C3%B3rios%20em%20Barreiras%20%28BA%29&url=https://www.gov.br/incra/resolveuid/e88147fc83454da1bfe10180697521be)
 *   [Copiar](https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
-
 
 
 [INCRA](/docs/incra)

@@ -145,7 +145,6 @@ sidebar_position: 2
     *   [Chatbot](https://www.gov.br/infraestrutura/pt-br/ouvidoria/conheca-o-maua)
     *   [Whatsapp](https://api.whatsapp.com/send?phone=556120298090)
     *   [FalaBR](https://sistema.ouvidorias.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx?ReturnUrl=%2f)
-    *   [E-mail](/cdn-cgi/l/email-protection#117e646778757e63787051787f7763707462656364656463703f767e673f7363)
     *   [SEI - Peticionamento Eletrônico](https://www.gov.br/infraestrutura/pt-br/servicos/protocolo-eletronico-sei)
     *   [Todos os Canais](https://www.gov.br/infraestrutura/pt-br/ouvidoria/canais-de-atendimento-da-ouvidoria)
     *   [Endereço](https://www.gov.br/infraestrutura/pt-br/canais_atendimento/endereco-1)

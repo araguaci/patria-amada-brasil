@@ -85,10 +85,9 @@ A mesma vibração vem do assentado Luís Rodrigues Amorim, 77 anos, que recebeu
 O superintendente regional do Incra na Bahia, Paulo Emmanuel Alves, ressaltou que a agenda é a pedra fundamental para o avanço da regularização fundiária na região Oeste. “Essa é uma das maiores regiões do estado, mas vamos trabalhar pela titulação de assentamentos daqui, para que as famílias possam produzir de maneira segura e com liberdade”, ressaltou, durante o evento.
 
 Assessoria de Comunicação Social do Incra/BA  
-[\[email protected\]](/cdn-cgi/l/email-protection)  
-[www.gov.br/incra](http://www.gov.br/incra)  
-[gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia](http://gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia)  
-[www.facebook.com/incra.ba](https://www.facebook.com/incra.ba)
+ - [www.gov.br/incra](http://www.gov.br/incra)  
+ - [gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia](http://gov.br/incra/pt-br/composicao/superintendencias-regionais/bahia)  
+ - [www.facebook.com/incra.ba](https://www.facebook.com/incra.ba)
 
 Categoria
 

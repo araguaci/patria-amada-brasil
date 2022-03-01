@@ -20,26 +20,32 @@ A região Sul permanece com reservatórios em cerca de 30% de armazenamento, o q
 
 “O trabalho do CMSE tem garantido a confiabilidade no fornecimento de energia elétrica no País por meio da ação articulada e proativa das instituições que compõem o comitê. As condições de atendimento eletroenergético continuarão a ser avaliadas, uma vez que o atual cenário ainda é de recuperação gradativa dos reservatórios. Permaneceremos atentos às oportunidades de redução do custo total de operação do sistema de acordo com a evolução das condições observadas”, afirma o Secretário de Energia Elétrica do Ministério de Minas e Energia, Christiano Vieira.
 
- **[Acesse aqui a nota](https://www.gov.br/mme/pt-br/assuntos/noticias/cmse-avalia-em-reuniao-extraordinaria-condicoes-de-atendimento-ao-sistema-interligado-nacional-2013-sin-e-reduz-teto-de-custos-para-os-despachos-termeletricos-adicionais) [do CMSE](https://www.gov.br/mme/pt-br/assuntos/noticias/cmse-avalia-em-reuniao-extraordinaria-condicoes-de-atendimento-ao-sistema-interligado-nacional-2013-sin-e-reduz-teto-de-custos-para-os-despachos-termeletricos-adicionais) [na íntegra](https://www.gov.br/mme/pt-br/assuntos/noticias/cmse-avalia-em-reuniao-extraordinaria-condicoes-de-atendimento-ao-sistema-interligado-nacional-2013-sin-e-reduz-teto-de-custos-para-os-despachos-termeletricos-adicionais)** 
+ *   [Acesse aqui a nota](https://www.gov.br/mme/pt-br/assuntos/noticias/cmse-avalia-em-reuniao-extraordinaria-condicoes-de-atendimento-ao-sistema-interligado-nacional-2013-sin-e-reduz-teto-de-custos-para-os-despachos-termeletricos-adicionais) 
+ *   [do CMSE](https://www.gov.br/mme/pt-br/assuntos/noticias/cmse-avalia-em-reuniao-extraordinaria-condicoes-de-atendimento-ao-sistema-interligado-nacional-2013-sin-e-reduz-teto-de-custos-para-os-despachos-termeletricos-adicionais) 
+ *   [na íntegra](https://www.gov.br/mme/pt-br/assuntos/noticias/cmse-avalia-em-reuniao-extraordinaria-condicoes-de-atendimento-ao-sistema-interligado-nacional-2013-sin-e-reduz-teto-de-custos-para-os-despachos-termeletricos-adicionais) 
 
 _Assessoria de Comunicação Social_
 
 [(61) 2032-5620](tel:(61) 2032-5620)
 
-[\[email protected\]](/cdn-cgi/l/email-protection#28495b4b47456845454d064f475e064a5a)  
-[antigo.mme.gov.br](http://antigo.mme.gov.br/)  
-[www.twitter.com/Minas\_Energia](https://www.twitter.com/Minas_Energia)  
-[www.facebook.com/minaseenergia](https://www.facebook.com/minaseenergia)  
-[www.youtube.com](https://www.youtube.com/channel/UCP9gnlS1TeOqrxzNHecNpow)  
-[www.flickr.com/minaseenergia](https://www.flickr.com/photos/128753929@N06)  
-[www.instauram.com/minaseenergia](https://www.instagram.com/minaseenergia/)  
-[br.linkedin.com](https://www.linkedin.com/company/35672369/admin/)
+
+## Link 
+ 
+ - [antigo.mme.gov.br](http://antigo.mme.gov.br/)  
+ - [www.twitter.com/Minas\_Energia](https://www.twitter.com/Minas_Energia)  
+ - [www.facebook.com/minaseenergia](https://www.facebook.com/minaseenergia)  
+ - [www.youtube.com](https://www.youtube.com/channel/UCP9gnlS1TeOqrxzNHecNpow)  
+ - [www.flickr.com/minaseenergia](https://www.flickr.com/photos/128753929@N06)  
+ - [www.instauram.com/minaseenergia](https://www.instagram.com/minaseenergia/)  
+ - [br.linkedin.com](https://www.linkedin.com/company/35672369/admin/)
 
 Categoria
 
 Energia, Minerais e Combustíveis
 
 Compartilhe:
-*   [ Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mme/pt-br/assuntos/noticias/reservatorios-das-hidreletricas-tem-melhora-e-custos-para-geracao-de-energia-diminuem)*    [Twitter](https://twitter.com/share?text=Reservat%C3%B3rios%20de%20hidrel%C3%A9tricas%20t%C3%AAm%20melhora%20e%20custos%20para%20gera%C3%A7%C3%A3o%20de%20energia%20diminuem&url=https://www.gov.br/mme/resolveuid/70ee32e196424bb29d272b80af8b5833 "Twitter")*     [link para Copiar para área de transferência](https://www.gov.br/mme/pt-br/assuntos/noticias/reservatorios-das-hidreletricas-tem-melhora-e-custos-para-geracao-de-energia-diminuem "Copiar para área de transferência")
+*   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mme/pt-br/assuntos/noticias/reservatorios-das-hidreletricas-tem-melhora-e-custos-para-geracao-de-energia-diminuem)*    
+*   [Twitter](https://twitter.com/share?text=Reservat%C3%B3rios%20de%20hidrel%C3%A9tricas%20t%C3%AAm%20melhora%20e%20custos%20para%20gera%C3%A7%C3%A3o%20de%20energia%20diminuem&url=https://www.gov.br/mme/resolveuid/70ee32e196424bb29d272b80af8b5833)
+*   [Copiar](https://www.gov.br/mme/pt-br/assuntos/noticias/reservatorios-das-hidreletricas-tem-melhora-e-custos-para-geracao-de-energia-diminuem)
 
 [Assessoria de Comunicação Social](/docs/minas-e-energia/links)
