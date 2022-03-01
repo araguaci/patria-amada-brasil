@@ -1,5 +1,5 @@
 ---
-sidebar_position: 18
+sidebar_position: 22
 ---
 
 # Departamento Nacional de Obras Contra as Secas
@@ -146,9 +146,3 @@ Redes sociais
 *   [Instagram](https://www.instagram.com/dnocsgovbr)
 *   [Twitter](https://www.twitter.com/dnocsbrasil)
 *   [YouTube](https://www.youtube.com/dnocsoficial)
-
-Todo o conteúdo deste site está publicado sob a licença [Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada](https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR).
-
-[Voltar ao topo da página](#wrapper)
-
-window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-80181585-36', { 'linker': { 'domains': \['www.gov.br', 'vlibras.gov.br'\], 'accept\_incoming': true } });

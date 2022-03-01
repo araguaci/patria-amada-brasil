@@ -2,9 +2,7 @@
 # Principais Entregas
 
 Período: Janeiro/2019 à Fevereiro/2022
-
 ## EIXO I – MODERNIZAÇÃO DO AGRO
-=============================
 
   - 5G em área rural;
   - Regulamentação de Drones na Agropecuária;
@@ -26,7 +24,6 @@ Período: Janeiro/2019 à Fevereiro/2022
 
 
 ## EIXO III – AGRO INTERNACIONAL
-=============================
 
   - 150 Novos Mercados foram abertos e passaram a comprar produtos do agro brasileiro;
   - 28 Adidos agrícolas junto às representações diplomáticas no exterior;
@@ -49,7 +46,6 @@ Período: Janeiro/2019 à Fevereiro/2022
   - Águas do Agro - promover o uso de tecnologias de conservação de água
 
 ## EIXO V – APOIO AO PRODUTOR
-==========================
 
   - Plano Safra 2021/2022 - R$ 251,22 bilhões para apoiar a produção agropecuária nacional;
   - FunCafé - Reserva de 1,3 bilhão para apoiar os cefeicultores de MG, SP e PR.

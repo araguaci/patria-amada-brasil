@@ -18,6 +18,8 @@ MME celebra conclusão da meta da universalização do Ilumina Pantanal - Foto: 
 
 Foi celebrada, na última sexta-feira (18/2), a conclusão da meta de universalização do programa Ilumina Pantanal, que chegou aos moradores do Pantanal sul-mato-grossense que ainda não possuíam acesso ao serviço público de distribuição da energia elétrica. O serviço foi realizado pela distribuidora Energisa MS em parceria com o Ministério de Minas e Energia (MME), Agência Nacional de Energia Elétrica (ANEEL) e Governo do Estado de Mato Grosso do Sul. A partir de agora, o programa terá atendimento contínuo de novos pedidos de ligação.
 
+## Unidades Consumidoras Atendidas
+
 Até fevereiro de 2022, 2.167 unidades consumidoras foram atendidas, sendo 77 famílias por rede de distribuição convencional, e 2.090 clientes por meio do Sistema Individual de Energia Elétrica com Fonte Intermitente (SIGFI), cuja fonte de energia é solar. O resultado foi possível graças ao sexto contrato celebrado com a Energisa MS, que contou com repasse de R$ 76 milhões de recursos da Conta de Desenvolvimento Energético (CDE), representando 60% do custo total das obras. Ao todo, foram investidos R$ 134 milhões nos municípios de Corumbá, Aquidauana, Coxim, Ladário, Porto Murtinho, Rio Verde e Miranda.
 
 Ao ampliar o acesso à energia elétrica, contínua, limpa e renovável no Pantanal sul-mato-grossense, o Ilumina Pantanal tem transformado vidas. As famílias que vivem na região receberam um kit de geração de energia solar, formado por quatro placas fotovoltaicas e uma bateria de lítio, além de tomadas e lâmpadas em LED. Algumas casas receberam também geladeiras novas.
@@ -26,7 +28,7 @@ Para o coordenador do projeto, Heber Selvo, o programa, além da geração de em
 
 “Durante o desenvolvimento do projeto, priorizamos os atendimentos aos serviços públicos, escolas, localidades mais carentes, como os ribeirinhos do rio Paraguai, os colonos do Paiaguás, comunidades indígenas, além dos produtores rurais”, garante Marcelo Vinhaes, diretor-presidente da Energisa Mato Grosso do Sul.
 
-**Ilumina Pantanal**
+## Ilumina Pantanal
 
 A iniciativa de levar energia elétrica para uma das regiões mais remotas de Mato Grosso do Sul nasceu após mais de cinco anos de pesquisas, considerando a preservação do bioma que é Patrimônio Natural da Humanidade.
 

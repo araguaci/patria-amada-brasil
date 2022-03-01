@@ -17,7 +17,7 @@ O que vejo na imprensa é a tentativa de corroer as ações deste governo partin
 > economizando mais de R$1,4 mi aos cofres públicos, se a ação fosse realizada pelos canais 
 > tradicionais de TV." 
 > 
-> ~~Jair Bolsonaro
+> ~~**Jair Bolsonaro**
 
 <div className="video-container">
   <iframe
@@ -43,7 +43,7 @@ O que vejo na imprensa é a tentativa de corroer as ações deste governo partin
 **[`^        back to top        ^`](#)**
 ## Balanço e Perspectivas Econômicas
 
-[![ ](/img/balanco-governo.png)](/docs/economia/balanco-e-perspectivas)
+[![ ](/img/balanco-governo.png)](/docs/economia)
 
 **[`^        back to top        ^`](#)**
 ## Quem Sou

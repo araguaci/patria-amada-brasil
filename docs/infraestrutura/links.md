@@ -162,9 +162,3 @@ Redes sociais
 *   [Facebook](https://www.facebook.com/minfraestrutura)
 *   [Flickr](https://www.flickr.com/photos/129991372@N08)
 *   [Instagram](https://www.instagram.com/minfraestrutura)
-
-Todo o conteúdo deste site está publicado sob a licença [Creative Commons Atribuição-SemDerivações 3.0 Não Adaptada](https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR).
-
-[Voltar ao topo da página](#wrapper)
-
-window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-80181585-36', { 'linker': { 'domains': \['www.gov.br', 'vlibras.gov.br'\], 'accept\_incoming': true } });

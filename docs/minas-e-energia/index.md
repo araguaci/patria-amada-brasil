@@ -1,10 +1,8 @@
-
 ---
 sidebar_position: 1
 ---
 
 # Ministério de Minas e Energia alcança importantes resultados em 2021
-
 
 MME implantou robustas políticas que atraíram bilhões de reais em investimentos para a energia e a mineração do Brasil. Para o próximo ano, as expectativas são ainda maiores.
 

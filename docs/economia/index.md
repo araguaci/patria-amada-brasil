@@ -1,6 +1,5 @@
-
 ---
-sidebar_position: 6
+sidebar_position: 1
 ---
 
 # Balanço e Perspectivas
@@ -11,7 +10,19 @@ Publicado em 23/12/2021 18h01 Atualizado em 21/01/2022 21h16
 
 Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração de empregos, digitalização de serviços oferecidos à população, melhoria do ambiente de negócios, maior acesso ao crédito às micro e pequenas empresas, controle fiscal, liberação de recursos para a compra de vacinas e insumos contra a Covid-19, redução tarifária e facilitação do comércio são apenas alguns exemplos da atuação do Ministério da Economia na busca por um país mais justo e igualitário. Olhando para a frente, o Brasil conta com mais de R$ 822 bilhões¹ em investimentos, assegurando o crescimento em 2022 e no futuro. Para o ministro Paulo Guedes e sua equipe técnica, mais um ano chega, mas já com a certeza de que dias melhores virão.
 
-## Os dados em investimentos contratados foram atualizados após a gravação do vídeo do ministro da Economia
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/UDbFDYRlVZQ"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
+
+**Os dados em investimentos contratados foram atualizados após a gravação do vídeo do ministro da Economia**
 
 ![ ](https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/principais-acoes-na-area-economica/balanco-e-perspectivas/balanco-e-perspectivas/@@govbr.institucional.banner/b485da70-6d67-4e78-8231-a3b6f440d283/@@images/6c61435c-c9c0-45a8-953f-46e2e8817fdb.png)
 
@@ -23,12 +34,40 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 > déficit perto de 1%: R$ 90 a R$ 95 bilhões. Ou seja, uma redução de 10 vezes no déficit 
 > apresentado no ano passado, ainda convivendo com a calamidade do coronavírus.
 
+**Esteves Colnago, secretário especial do Tesouro e Orçamento**
+
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/LGsOHHudU-w"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
+
 ### Produtividade e Competitividade 
 
 
 > Só nos últimos três meses, 1 milhão e 400 mil empresas foram criadas em nosso país. Isso tudo foi
 > um grande plano de transformação, com o empreendedor no centro de tudo que nós fazemos. O Brasil 
 > hoje é um país muito melhor para se empreender, o que nós chamamos de melhor ambiente de negócios.
+
+**Carlos Da Costa, secretário especial de Produtividade e Competitividade**
+
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/9UbVr7B5R5k"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
 
 ### Receita Federal
 
@@ -39,6 +78,17 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 
 **José Tostes, secretário especial da Receita Federal**
 
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/RAiT4aDCX4A"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
 
 ### Assuntos Internacionais
 
@@ -51,6 +101,18 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 
 **Roberto Fendt, secretário especial de Comércio Exterior e Assuntos Internacionais**
 
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/4na7NR_RcI0"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
+
 ### Desestatização
 
 > O ano de 2021 para a gente foi excepcional. Tivemos entregas fantásticas, como a aprovação da 
@@ -60,6 +122,18 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 
 **Diogo Mac Cord, secretário especial de Desestatização, Desinvestimento e Mercados**
 
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/0uk94k_rg1s"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
+
 ### Executivo
 
 > Quando criamos este Ministério, colocamos sob a mesma Governança todos os instrumentos necessários 
@@ -68,6 +142,18 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 > causados pelo coronavirus.
 
 **Marcelo Pacheco dos Guaranys, secretário executivo**
+
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/8MD3q5gAiKo"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
 
 ### Programas de investimento
 
@@ -81,6 +167,18 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 
 **Marta Seillier, secretária especial do Programa de Parcerias de Investimentos**
 
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/lDrwL33MHfA"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
+
 ### Política Econômica
 
 > Foi um ano difícil, o Brasil atravessou a maior crise de saúde pública de sua história. Tivemos 
@@ -90,7 +188,19 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 > esperamos um crescimento do emprego, dos investimentos privados, e da renda do trabalhador 
 > brasileiro.
 
-**Adolfo Sachsida, secretário de Política Econômica** 
+**Adolfo Sachsida, secretário de Política Econômica**
+
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/kJHk-mQ3_e4"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
 
 ### Procuradoria
 
@@ -103,6 +213,18 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 
 **Ricardo Soriano de Alencar, procurador-geral da Fazenda Nacional**
 
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/q0NgLU7N5TY" 
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
+
 ### DESBUROCRATIZAÇÃO
 
 > Hoje podemos bater no peito e dizer com orgulho que somos o sétimo governo mais digitalizado do 
@@ -113,6 +235,17 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 
 **Caio Mario Paes de Andrade , secretário especial de Desburocratização, Gestão e Governo Digital**
 
+<div className="video-container">
+  <iframe
+    width="100%"
+    height="400"
+    src="https://www.youtube.com/embed/3BJIH4tN-9g"
+    title="Pátria Amada Brasil"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowFullScreen
+  />
+</div>
 
 ## Notícias
 

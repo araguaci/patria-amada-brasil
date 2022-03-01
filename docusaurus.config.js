@@ -23,7 +23,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'index',
           position: 'left',
           label: 'Entregas do Governo',
         },
@@ -51,19 +51,19 @@ module.exports = {
             },
             {
               label: 'Ministério da Agricultura',
-              to: '/docs/agricultura/principais-entregas',
+              to: '/docs/agricultura',
             },
             {
               label: 'Ministério da Infraestrutura',
-              to: '/docs/infraestrutura/principais-entregas',
+              to: '/docs/infraestrutura',
             },
             {
               label: 'Ministério do Turismo',
-              to: '/docs/turismo/principais-entregas',
+              to: '/docs/turismo',
             },
             {
               label: 'Entregas do Governo',
-              to: '/docs/balanco-do-governo',
+              to: '/docs',
             },
           ],
         },
@@ -102,7 +102,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `✠ Projeto Voluntário © ${new Date().getFullYear()} Artes do Sul ✠ Brasil Acima de Tudo ✠ DEUS ACIMA DE TODOS ✠`,
+      copyright: `✠ Projeto Voluntário ✠ © ${new Date().getFullYear()} Artes do Sul ✠ Brasil Acima de Tudo ✠ DEUS ACIMA DE TODOS ✠`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -117,9 +117,6 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           editLocalizedFiles: false,
           editCurrentVersion: false,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

@@ -42,7 +42,7 @@ function HomepageHeader() {
           </Link><code>&nbsp;✠&nbsp;</code>
           <Link
             className="button button--secondary button--lg buttongradiente"
-            to="/docs/balanco-do-governo">
+            to="/docs">
             Balanço
           </Link><code>&nbsp;✠&nbsp;</code>
           <Link
