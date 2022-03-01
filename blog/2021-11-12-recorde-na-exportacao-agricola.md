@@ -88,4 +88,4 @@ Compartilhe:
 *    [Twitter](https://twitter.com/share?text=Pesquisa%20e%20tecnologia%20fazem%20o%20Pa%C3%ADs%20bater%20recorde%20na%20exporta%C3%A7%C3%A3o%20agr%C3%ADcola&url=https://www.gov.br/fundaj/resolveuid/3ce463288f3b4480b5120137a1387a78)
 *   [Copiar](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
 
-[Assessoria de Comunicação Governo Federal](/docs/links)
+[Assessoria de Comunicação Governo Federal](/docs/govbr)

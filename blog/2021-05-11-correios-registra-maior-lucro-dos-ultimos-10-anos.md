@@ -55,4 +55,4 @@ Compartilhe:
 
 Fonte: [infraestrutura](https://www.gov.br/pt-br)
 
-[Assessoria de Comunicação Governo Federal](/docs/links)
+[Assessoria de Comunicação Governo Federal](/docs/govbr)
