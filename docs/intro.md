@@ -52,7 +52,7 @@ Sou um analista de sistemas e desenvolvedor que transformou anos de freelancer e
 
 Tenho mais de 28 anos de **experiência adquirida** na execução diversos projetos na forma de prestação de serviço na iniciativa privada, grandes **grupos nacionais**, **multinacionais**, [Curriculum Vitae](/docs/cv)).
 
-[O que me motiva...](/doc/perfil)
+[O que me motiva...](/docs/perfil)
 
 Criador de soluções em sistemas e websites qualidade que tem como meta atender os **ideais** de seus **Clientes** e **superar** suas **expectativas**.
 

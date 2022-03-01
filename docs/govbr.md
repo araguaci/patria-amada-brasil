@@ -60,7 +60,7 @@ Principais links de acesso a serviços, aplicativos, informação, notícias e s
 *   [Navegação](https://www.gov.br/pt-br/navegacao)
     *   [Acessibilidade](https://www.gov.br/governodigital/pt-br/acessibilidade-digital)
     *   [Mapa do Site](https://www.gov.br/pt-br/sitemap)
-    *   [Termos de Uso](/pt-br/termos-de-uso)
+    *   [Termos de Uso](https://www.gov.br/pt-br/termos-de-uso)
     *   [Sobre o gov.br](https://gov.br/sobre)
 *   [Acesse sua conta gov.br](http://solicitacao.servicos.gov.br/)
 *   [Órgãos do Governo](https://www.gov.br/pt-br/orgaos-do-governo)
@@ -72,14 +72,14 @@ Principais links de acesso a serviços, aplicativos, informação, notícias e s
     *   [Ajuda para Navegar o Portal](https://www.gov.br/pt-br/por-dentro-do-govbr/ajuda-para-navegar-o-portal)
     *   [Conheça os elementos do Portal](https://www.gov.br/pt-br/por-dentro-do-govbr/conheca-os-elementos-do-portal)
     *   [Política de e-participação](https://www.gov.br/participamaisbrasil/sobre)
-    *   [Termos de Uso](/pt-br/termos-de-uso)
+    *   [Termos de Uso](https://www.gov.br/pt-br/termos-de-uso)
     *   [Governo Digital](https://www.gov.br/governodigital/pt-br)
     *   [Guia de Edição de Serviços do Portal Gov.br](https://www.gov.br/pt-br/guia-de-edicao-de-servicos-do-gov.br/bem-vindo-editor)
 *   [Dados do Governo Federal](https://www.gov.br/pt-br/dados-do-governo-federal)
-    *   [Dados Abertos](/governodigital/pt-br/dados-abertos)
-    *   [Painel Estatístico de Pessoal](/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal)
+    *   [Dados Abertos](https://www.gov.br/pt-br/governodigital/pt-br/dados-abertos)
+    *   [Painel Estatístico de Pessoal](https://www.gov.br/economia/pt-br/acesso-a-informacao/servidores/servidores-publicos/painel-estatistico-de-pessoal)
     *   [Painel de Compras do Governo Federal](http://paineldecompras.economia.gov.br)
-    *   [Acesso à Informação](/acessoainformacao/pt-br)
+    *   [Acesso à Informação](https://www.gov.br/acessoainformacao/pt-br)
 
 ## Links Úteis
 
