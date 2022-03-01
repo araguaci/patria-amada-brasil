@@ -1,5 +1,5 @@
 
-# MDR conclui 6,2 mil obras em 2020 e entrega 410 mil moradias em todo o País 
+# 6,2 mil obras em 2020 e 410 mil moradias em todo o País 
 
 Pasta também realizou mudanças estruturantes nas políticas públicas de saneamento, com o novo Marco Legal, e de habitação, com o Programa Casa Verde e Amarela
 

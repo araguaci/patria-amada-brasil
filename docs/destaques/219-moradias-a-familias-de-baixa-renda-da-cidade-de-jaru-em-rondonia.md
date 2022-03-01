@@ -1,4 +1,4 @@
-# Governo Federal entrega 219 moradias a famílias de baixa renda da cidade de Jaru (RO)
+# 219 moradias a famílias de baixa renda da cidade de Jaru (RO)
 
 Publicado em 22/02/2022 14h44
 

@@ -1,6 +1,6 @@
 ---
 slug: 2022-02-11-turismo-conclui-mais-de-760-obras-no-pais-em-2021
-title: Projetos de infraestrutura turística atenderam as cinco regiões, com investimentos do governo federal que ultrapassaram a marca de R$ 866 milhões
+title: Investimentos em turismo ultrapassaram a marca de R$ 866 milhões
 author: govbr
 author_title: Ministério do Turismo
 author_url: https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021

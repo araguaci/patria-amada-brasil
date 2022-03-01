@@ -1,5 +1,5 @@
 
-# No ano do bicentenário da Independência, Governo Federal inaugura dois reservatórios no Córrego Ipiranga
+# Dois reservatórios inaugurados no Córrego Ipiranga
 
 Local onde foi proferido o grito de “Independência ou Morte” recebe estruturas para o combate às enchentes na cidade de São Paulo
 

@@ -34,6 +34,11 @@ function HomepageHeader() {
             />
           </h1>
         </div>
+      </div>
+    </header>
+  );
+}
+/*
         <div>
           <Link
             className="button button--secondary button--lg buttongradiente"
@@ -51,11 +56,7 @@ function HomepageHeader() {
             Destaques
           </Link>
         </div>
-      </div>
-    </header>
-  );
-}
-
+*/
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (

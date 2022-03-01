@@ -27,7 +27,7 @@ module.exports = {
           position: 'left',
           label: 'Entregas do Governo',
         },
-        {to: '/blog', label: 'Notícias', position: 'left'},
+        {to: '/blog', label: 'Destaques', position: 'left'},
         {
           href: 'http://www.artesdosul.com/',
           label: 'artesdosul',
@@ -113,6 +113,37 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           editLocalizedFiles: false,
           editCurrentVersion: false,
+        },
+        blog: {
+          path: 'blog',
+          // Simple use-case: string editUrl
+          // editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          // Advanced use-case: functional editUrl
+          //editUrl: ({locale, blogDirPath, blogPath, permalink}) =>
+          //  `https://github.com/facebook/docusaurus/edit/main/website/${blogDirPath}/${blogPath}`,
+          editLocalizedFiles: false,
+          blogTitle: 'Principais Destaques',
+          blogDescription: 'Blog',
+          blogSidebarCount: 20,
+          blogSidebarTitle: 'Principais Destaques',
+          routeBasePath: 'blog',
+          include: ['**/*.{md,mdx}'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
+          postsPerPage: 10,
+          blogListComponent: '@theme/BlogListPage',
+          blogPostComponent: '@theme/BlogPostPage',
+          blogTagsListComponent: '@theme/BlogTagsListPage',
+          blogTagsPostsComponent: '@theme/BlogTagsPostsPage',
+          rehypePlugins: [],
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
+          truncateMarker: /<!--s*(truncate)s*-->/,
+          showReadingTime: true,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

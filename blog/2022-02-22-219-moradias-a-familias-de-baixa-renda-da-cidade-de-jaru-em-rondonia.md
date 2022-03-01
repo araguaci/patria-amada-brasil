@@ -1,6 +1,6 @@
 ---
 slug: 2022-02-22-219-moradias-a-familias-de-baixa-renda-da-cidade-de-jaru-em-rondonia
-title: Governo Federal entrega 219 moradias a famílias de baixa renda da cidade de Jaru (RO)
+title: Entrega de 219 moradias a famílias da cidade de Jaru (RO)
 author: govbr
 author_title: Ministério Desenvolvimento Regional
 author_url: https://www.gov.br/mdr/pt-br/acesso-a-informacao/acoes-e-programas
@@ -8,16 +8,16 @@ author_image_url: /img/nossobrasil.png
 tags: [obras, moradias, infraestrutura]
 ---
 
-Publicado em 22/02/2022 14h44
-
-![ ](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2022/fevereiro/governo-federal-entrega-219-moradias-a-familias-de-baixa-renda-da-cidade-de-jaru-em-rondonia/26553986-19a6-4917-9d5a-ca965ee02d4f.jpeg/@@images/785fe02d-1f78-4292-8bd8-0b80b013f666.jpeg)
-
 Residencial Primavera, que integra o Programa Casa Verde e Amarela, recebeu R$ 14,2 milhões de investimento federal - Foto: Caixa
 
 O Governo Federal, por meio do Ministério do Desenvolvimento Regional (MDR), entregou, nessa segunda-feira (21), mais 219 moradias a famílias de baixa renda da cidade de Jaru, em Rondônia (RO).
 
-O Residencial Primavera, que integra o Programa Casa Verde e Amarela, recebeu R$ 14,2 milhões de investimento federal.
 <!--truncate-->
+
+Publicado em 22/02/2022 14h44
+
+![ ](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2022/fevereiro/governo-federal-entrega-219-moradias-a-familias-de-baixa-renda-da-cidade-de-jaru-em-rondonia/26553986-19a6-4917-9d5a-ca965ee02d4f.jpeg/@@images/785fe02d-1f78-4292-8bd8-0b80b013f666.jpeg)
+
 As casas do Residencial Primavera estão localizadas em lotes individuais e contam com infraestrutura completa de água, esgoto, iluminação pública, energia elétrica, pavimentação e drenagem.
 
 ## Casa Verde e Amarela

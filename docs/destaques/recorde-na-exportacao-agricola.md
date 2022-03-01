@@ -1,5 +1,5 @@
 
-# Pesquisa e tecnologia fazem o País bater recorde na exportação agrícola
+# País bate recorde na exportação agrícola
 
 Compartilhe: 
 *   [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)

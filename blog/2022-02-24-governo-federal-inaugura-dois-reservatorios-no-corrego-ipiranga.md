@@ -1,6 +1,6 @@
 ---
 slug: 2022-02-24-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga
-title: No ano do bicentenário da Independência, Governo Federal inaugura dois reservatórios no Córrego Ipiranga
+title: Governo Federal inaugura dois reservatórios no Córrego Ipiranga
 author: govbr
 author_title: Banco Nacional do Desenvolvimento (BNDES) 
 author_url: https://www.bndes.gov.br/wps/portal/site/home
@@ -8,7 +8,7 @@ author_image_url: /img/nossobrasil.png
 tags: [Investimento, Saneamento, Enchentes]
 ---
 
-Local onde foi proferido o grito de “Independência ou Morte” recebe estruturas para o combate às enchentes na cidade de São Paulo
+No ano do bicentenário da Independência, local onde foi proferido o grito de “Independência ou Morte” recebe estruturas para o combate às enchentes na cidade de São Paulo
 
 <!--truncate-->
 

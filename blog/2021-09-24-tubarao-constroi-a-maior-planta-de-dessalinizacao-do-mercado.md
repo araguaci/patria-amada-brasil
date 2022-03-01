@@ -1,6 +1,6 @@
 ---
 slug: 2021-09-24-tubarao-constroi-a-maior-planta-de-dessalinizacao-do-mercado
-title: Arcelormittal Tubarão constrói a maior planta de dessalinização do mercado brasileiro capaz de abastecer 80 mil pessoas por dia
+title: Maior planta de dessalinização do mercado brasileiro para 80 mil pessoas por dia
 author: govbr
 author_title: Santos Port Authority (SPA)_
 author_url: https://www.gov.br/infraestrutura/pt-br/assuntos/noticias/curtas-infraestrutura/2021/4/santos-registra-lucro-liquido-recorde-de-r-202-5-milhoes-em-2020

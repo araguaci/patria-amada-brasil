@@ -1,5 +1,5 @@
 
-# Ministério do Turismo conclui mais de 760 obras no país em 2021
+# Mais de 760 obras turisticas concluídas no Brasil em 2021
 
 Projetos de infraestrutura turística atenderam as cinco regiões, com investimentos do governo federal que ultrapassaram a marca de R$ 866 milhões
 

@@ -1,5 +1,5 @@
 
-# Água para Todos universaliza acesso à água em Ibotirama
+# Água para Todos universaliza acesso à água
 
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/agua-para-todos-universaliza-acesso-a-agua-em-ibotirama)
