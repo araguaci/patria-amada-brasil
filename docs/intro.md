@@ -38,7 +38,7 @@ O que vejo na imprensa é a tentativa de corroer as ações deste governo partin
 **[`^        back to top        ^`](#)**
 ## Principais Entregas Governo
 
-[![ ](/img/balanco-governo-grafico.png)](/docs/balanco-do-governo)
+[![ ](/img/balanco-governo-grafico.png)](/docs)
 
 **[`^        back to top        ^`](#)**
 ## Balanço e Perspectivas Econômicas
