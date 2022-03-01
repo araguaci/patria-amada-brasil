@@ -63,37 +63,41 @@ module.exports = {
             },
             {
               label: 'Entregas do Governo',
-              to: '/docs/intro',
+              to: '/docs/balanco-do-governo',
             },
           ],
         },
         {
-          title: 'Contato',
+          title: 'Informações',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Sobre o Projeto',
+              href: '/docs/intro',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Criação e Design',
+              href: 'http://www.artesdosul.com/',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Colabore com um Cafezinho',
+              href: 'https://www.buymeacoffee.com/araguaci',
             },
           ],
         },
         {
-          title: 'Compartilhando',
+          title: 'Outros Projetos',
           items: [
             {
-              label: 'Notícias',
-              to: '/blog',
+              label: 'Brasil Pela Liberdade',
+              href: 'https://brasil-pela-liberdade.vercel.app/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Jornada Seja Grato',
+              href: 'https://jornada-seja-grato-araguaci.vercel.app/',
+            },
+            {
+              label: 'Pela Paz na Terra',
+              href: 'http://gaia.artesdosul.com/',
             },
           ],
         },
@@ -111,6 +115,8 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          editLocalizedFiles: false,
+          editCurrentVersion: false,
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
