@@ -468,3 +468,8 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
 .navbar[data-theme='dark']  {
   background-color: #00130c !important; 
 }
+
+code {
+    background-color: transparent !important;
+    border: none;
+}
