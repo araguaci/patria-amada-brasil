@@ -46,10 +46,6 @@ module.exports = {
               to: '/docs/1000dias',
             },
             {
-              label: 'Balanço de 3 Anos de Governo ',
-              to: '/docs/balanco-do-governo',
-            },
-            {
               label: 'Ministério da Agricultura',
               to: '/docs/agricultura',
             },
@@ -62,7 +58,7 @@ module.exports = {
               to: '/docs/turismo',
             },
             {
-              label: 'Entregas do Governo',
+              label: 'Principais Entregas',
               to: '/docs',
             },
           ],
