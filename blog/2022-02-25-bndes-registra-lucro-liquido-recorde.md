@@ -3,7 +3,7 @@ slug: 2022-02-25-bndes-registra-lucro-liquido-recorde
 title: BNDES registra lucro líquido recorde em 2021
 author: govbr
 author_title: Banco Nacional do Desenvolvimento (BNDES) 
-author_url: https://www.bndes.gov.br/wps/portal/site/home
+author_url: https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo
 author_image_url: /img/nossobrasil.png
 tags: [lucro, recorde, bndes]
 ---
@@ -68,18 +68,25 @@ O patrimônio líquido atingiu R$ 127,0 bilhões em 31 de dezembro de 2021, aume
 
 Fundado em 1952 e atualmente vinculado ao Ministério da Economia, o BNDES é o principal instrumento do Governo Federal para promover investimentos de longo prazo na economia brasileira. Suas ações têm foco no impacto socioambiental e econômico no Brasil. O Banco oferece condições especiais para micro, pequenas e médias empresas, além de linhas de investimentos sociais, direcionadas para educação e saúde, agricultura familiar, saneamento básico e transporte urbano. Em situações de crise, o Banco atua de forma anticíclica e auxilia na formulação das soluções para a retomada do crescimento da economia.
 
-_Com informações do [BNDES](https://www.bndes.gov.br/wps/portal/site/home)_
+## Fonte
+ - [BNDES](https://www.bndes.gov.br/wps/portal/site/home)_
 
-Categoria
+## Categoria
 
 [Finanças, Impostos e Gestão Pública](https://www.gov.br/pt-br/categorias/financas-impostos-e-gestao-publica)
 
-Tags: [Ministério da Economia](https://www.gov.br/pt-br/@@search?Subject%3Alist=Minist%C3%A9rio%20da%20Economia)[BNDES](https://www.gov.br/pt-br/@@search?Subject%3Alist=BNDES)[Lucro Líquido](https://www.gov.br/pt-br/@@search?Subject%3Alist=Lucro%20L%C3%ADquido)
+## Tags 
+ - [Ministério da Economia](https://www.gov.br/pt-br/@@search?Subject%3Alist=Minist%C3%A9rio%20da%20Economia)
+ - [BNDES](https://www.gov.br/pt-br/@@search?Subject%3Alist=BNDES)
+ - [Lucro Líquido](https://www.gov.br/pt-br/@@search?Subject%3Alist=Lucro%20L%C3%ADquido)
 
 ## Conteúdo relacionado
---------------------
 
 *   [Receita Federal alcança mais de R$ 235 bilhões em janeiro de 2022](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/receita-federal-alcanca-mais-de-r-235-bilhoes-em-janeiro-de-2022)
 *   [Declaração do Imposto de Renda 2022 vai de 7 de março a 29 de abril](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/declaracao-do-imposto-de-renda-2022-vai-de-7-de-marco-a-29-de-abril)
 *   [Parcerias de investimentos impulsionarão projetos de R$ 1,3 trilhão em 30 anos](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/parcerias-de-investimentos-impulsionarao-projetos-de-r-1-3-trilhao-em-30-anos)
 
+## Compartilhe: 
+ - [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo) 
+ - [Twitter](https://twitter.com/share?text=BNDES%20registra%20lucro%20l%C3%ADquido%20recorde%20em%202021%20e%20passa%20a%20ter%20a%20maior%20carteira%20de%20concess%C3%B5es%20de%20infraestrutura%20do%20mundo&url=https://www.gov.br/resolveuid/ad3d946366a848eebb596f41997cf2b0) 
+ - [Copiar](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo)

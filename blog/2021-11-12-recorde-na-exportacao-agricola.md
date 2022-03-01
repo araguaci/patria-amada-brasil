@@ -1,16 +1,25 @@
+---
+slug: 2021-11-12-recorde-na-exportacao-agricola
+title: Pesquisa e tecnologia fazem o País bater recorde na exportação agrícola
+author: govbr
+author_title: Banco Nacional do Desenvolvimento (BNDES) 
+author_url: https://www.bndes.gov.br/wps/portal/site/home
+author_image_url: /img/nossobrasil.png
+tags: [Investimento, Saneamento, Enchentes]
+---
 
-# Pesquisa e tecnologia fazem o País bater recorde na exportação agrícola
+**Puxadas pelos embarques de milho, algodão e carne, vendas devem registrar crescimento de 5% e atingir 200 mi de toneladas neste ano; setor se apoia em avanços tecnológicos para elevar sua produtividade e ganhar novos mercados no exterior.** 
+
+<!--` `truncate` `-->
+
+Publicado em 10/12/2019 00h00 Atualizado em 12/11/2021 09h02
 
 Compartilhe: 
 *   [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
 *    [Twitter](https://twitter.com/share?text=Pesquisa%20e%20tecnologia%20fazem%20o%20Pa%C3%ADs%20bater%20recorde%20na%20exporta%C3%A7%C3%A3o%20agr%C3%ADcola&url=https://www.gov.br/fundaj/resolveuid/3ce463288f3b4480b5120137a1387a78)
 *   [Copiar](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
 
-Publicado em 10/12/2019 00h00 Atualizado em 12/11/2021 09h02
-
-**Puxadas pelos embarques de milho, algodão e carne, vendas devem registrar crescimento de 5% e atingir 200 mi de toneladas neste ano; setor se apoia em avanços tecnológicos para elevar sua produtividade e ganhar novos mercados no exterior.** 
-
-[https://economia.estadao.com.br/noticias/geral,pesquisa-e-tecnologia-fazem-o-pais-bater-recorde\-na-exportacao-agricola,70003117433](https://economia.estadao.com.br/noticias/geral,pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola,70003117433) 
+[recorde-na-exportacao-agricola](https://economia.estadao.com.br/noticias/geral,pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola,70003117433) 
 
 **O Estado de São Paulo** 
 
@@ -46,7 +55,7 @@ Ranking mundial – 2018
 
 ![ ](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/tecnologias-de-convivencias-com-as-secas-imagens/IMG97.png)
 
-\*Previsão
+## Previsão
 
 FonteMinistério da Agricultura/Brasil 
 

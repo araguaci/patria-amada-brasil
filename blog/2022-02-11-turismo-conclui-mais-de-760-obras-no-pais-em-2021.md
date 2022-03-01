@@ -1,14 +1,25 @@
-
-# Ministério do Turismo conclui mais de 760 obras no país em 2021
+---
+slug: 2022-02-11-turismo-conclui-mais-de-760-obras-no-pais-em-2021
+title: Projetos de infraestrutura turística atenderam as cinco regiões, com investimentos do governo federal que ultrapassaram a marca de R$ 866 milhões
+author: govbr
+author_title: Ministério do Turismo
+author_url: https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021
+author_image_url: /img/nossobrasil.png
+tags: [Viagens, Turismo]
+---
 
 Projetos de infraestrutura turística atenderam as cinco regiões, com investimentos do governo federal que ultrapassaram a marca de R$ 866 milhões
+
+<!--` `truncate` `-->
+
+Publicado em 11/02/2022 17h50
 
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
 *    [Twitter](https://twitter.com/share?text=Minist%C3%A9rio%20do%20Turismo%20conclui%20mais%20de%20760%20obras%20no%20pa%C3%ADs%20em%202021&url=https://www.gov.br/turismo/resolveuid/856d4719c4ba4571bed83d3414b479b3)
 *   [Copiar](https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
 
-Publicado em 11/02/2022 17h50
+
 
 ![ ](https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021/11-02-22-materia-balanco-obras-03.png/@@images/c9116a82-31f2-44a2-8a1a-6b97ed3e19eb.png)
 
