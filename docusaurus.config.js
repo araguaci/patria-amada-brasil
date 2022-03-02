@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Pátria Amada Brasil',
   tagline: 'Entregas do Governo Federal',
-  url: 'https://brasil-pela-liberdade.vercel.app/',
+  url: 'https://patria-amada-brasil.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
