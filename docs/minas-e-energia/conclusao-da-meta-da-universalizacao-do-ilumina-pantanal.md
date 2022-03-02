@@ -1,6 +1,9 @@
+---
+sidebar_position: 3
+---
+# Conclusão da Meta
 
-# MME celebra conclusão da meta da universalização do Ilumina Pantanal
-====================================================================
+**MME celebra conclusão da meta da universalização do Ilumina Pantanal**
 
 Programa chega a comunidades indígenas depois de levar energia solar a ribeirinhos e produtores do Pantanal sul-mato-grossense. Até fevereiro de 2022, 2.167 unidades consumidoras foram atendidas.
 

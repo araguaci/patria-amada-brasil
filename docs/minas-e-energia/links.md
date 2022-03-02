@@ -1,7 +1,6 @@
 ---
-sidebar_position: 5
+sidebar_position: 10
 ---
-
 # Links Ministério Minas e Energia
 
 Acesso aos principais canais de comunicação do Ministério de Minas e Energia

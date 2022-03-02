@@ -1,7 +1,9 @@
 ---
 sidebar_position: 4
 ---
-# Empresas da iniciativa RedEE Indústrias economizam 38,12 GWh/ano com ações de eficiência energética
+# Economiza de 38 GWh com Eficiência
+
+**Empresas da iniciativa RedEE Indústrias economizam 38,12 GWh/ano com ações de eficiência energética**
 
 A iniciativa ofereceu acompanhamento técnico e análise do consumo de energia para implementação de medidas de eficiência energética e uso de fontes renováveis.
 

@@ -1,8 +1,9 @@
 ---
-sidebar_position: 3
+sidebar_position: 5
 ---
+# Melhora na Geração de Energia
 
-# Reservatórios de hidrelétricas têm melhora e custos para geração de energia diminuem
+**Reservatórios de hidrelétricas têm melhora e custos para geração de energia diminuem**
 
 Armazenamento das hidrelétricas do Sistema Interligado Nacional alcançou de 60,9%. Região Sul permanece com reservatórios em cerca de 30%.
 

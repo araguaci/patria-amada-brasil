@@ -1,9 +1,8 @@
-
 ---
 sidebar_position: 2
 ---
-
-# Ministro faz balanço de 2021 e destaca oportunidades de negócios
+# Balanço de 2021  
+**Ministro faz balanço de 2021 e destaca oportunidades de negócios**
 
 Em entrevista ao portal Petronotícias, Bento Albuquerque ressalta oportunidades nos setores de petróleo, gás, mineração e energia elétrica.
 
