@@ -177,13 +177,85 @@ Período: Janeiro/2019 à Fevereiro/2022
 
   86. Sistema Balcão Único – abrir empresas em poucas horas 
 
-
-## Compilação
+### Compilação
 
  - [**Rafael Lougon**](https://www.entregasdogoverno.com/2022/02/balanco-do-governo-bolsonaro-principais.html)
 
-## Fontes
+### Fontes
 
   - [fazenda](https://www.gov.br/fazenda/pt-br/orgaos/spe/estudos-economicos) 
 
   - [secom](https://www.gov.br/secom/pt-br)
+
+## 5,5 mil Obras e Projetos em 2021
+
+O Governo Federal finalizou 2021 com 5,5 mil obras e projetos entregues à população em todas as regiões do país. São ações de pequeno, médio e grande porte que receberam R$ 10,6 BILHÕES em investimentos, incluindo Orçamento Geral da União e financiamentos.
+
+Ao todo, as ações comandadas pelo Ministério do Desenvolvimento Regional foram responsáveis pela geração de 700 mil empregos diretos e indiretos, além de permitirem a conclusão de infraestruturas históricas, como o Projeto de Integração do Rio São Francisco, finalizado 13 anos após o início das obras físicas.
+
+### Moradias
+
+De janeiro a novembro, foram entregues mais de 345,6 mil moradias, beneficiando 1,4 milhão de pessoas em todos os cantos do país. Com isso, o Governo do Brasil chegou à marca de mais de 1,2 milhão de residências inauguradas desde 2019 e mais de 4 milhões de brasileiros realizando o sonho da casa própria.
+
+### Mobilidade Urbana
+
+Ao longo do ano também foram entregues 3,5 mil obras de infraestrutura e mobilidade urbana, em um investimento de cerca de R$ 3,5 bilhões, e 138 obras e projetos de abastecimento de água, tratamento de esgoto, saneamento integrado, urbanização e drenagem de águas pluviais (R$ 2,1 bilhões).
+
+E os recursos não param por aí! Com os leilões da Cedae (blocos 1, 2 e 4), Amapá, Cedae (bloco 3) e Alagoas (blocos B e C), foi garantida a contratação de R$ 37,6 bilhões em investimentos para o setor de saneamento, com a possibilidade de atender mais de 15 milhões de pessoas com água e esgoto tratados.
+
+Compartilhe a verdade!
+
+SecomVc
+
+ - [Presidente Bolsonaro](https://t.me/jairbolsonarobrasil/3341)
+
+## Invasões a Propriedade
+
+Em 3 anos o Governo Federal neutralizou as invasões de terra por todo o país.
+
+Confira algumas ações responsáveis por reduzir drasticamente o número de invasões a propriedade:
+
+- Mais de 300 mil títulos de terras foram entregues pelo Governo Federal a cidadãos que esperaram por muitos anos para ter acesso a terras legalizadas em seu nome. (Fonte: INCRA/MAPA)
+
+- 460.651 novas armas legalizadas estão em circulação. O Governo Federal facilitou o acesso a armas legalizadas para cidadãos que cumprem os requisitos necessários, garantindo assim a legítima defesa. (Fonte: MJSP)
+
+- Economia de mais de 100 milhões de reais em dinheiro público que nas gestões passadas eram destinados pelo Governo Federal a ONGs ligadas a invasões. (Fonte: INCRA/MAPA)
+
+Durante os 3 anos de Governo, nenhuma propriedade rural foi desapropriada e + de 300 mil famílias de baixa renda assentadas tiveram sua posse regularizada.
+
+Com o título em mãos, eles têm a garantia de acesso ao empréstimo para produtor rural com condições especiais.
+
+Na atual gestão, foram registradas até agora apenas 28 invasões de terras, o que dá uma média de 9,3 invasões por ano.
+
+Para fins de comparação, nos 23 anos anteriores, a média era de 236,2 invasões por ano: 25x mais que no atual Governo.
+
+As medidas adotadas pelo Governo Federal incentivam o trabalho do pequeno produtor rural, a geração de empregos, a produção de carne e grãos e, consequentemente, o aumento do poder aquisitivo da população.
+
+ - [Presidente Bolsonaro](https://t.me/jairbolsonarobrasil/3349)
+
+## Investimentos no Esporte Brasileiro em 2021
+
+R$ 872,33 milhões ( valor correspondente a praticamente 100% do orçamento de programas e projetos atendidos pelo Governo Federal.
+
+R$ 470,84 milhões para implementação e modernização de infraestrutura para o ESPORTE EDUCACIONAL, recreativo e lazer.
+
+R$ 208,28 milhões para o desenvolvimento de atividades e apoio a projetos de educacao, lazer e INCLUSÃO SOCIAL:
+
+ - Programa Segundo Tempo
+ - Programa Brincando com o esporte
+ - Programa Esporte e Lazer da Cidade
+ - Depois de mais de uma década, a volta dos Jogos Escolares Brasileiros (JEBs)
+
+Secretaria Especial do Esporte
+Ministério da Cidadania
+ - [Presidente Bolsonaro](https://t.me/jairbolsonarobrasil/3400)
+
+## 384,1 mil moradias em 2021
+
+Mais 1,5 MILHÃO de brasileiros mais necessitados alcançados: Governo Federal entregou 384,1 mil moradias em 2021.
+
+Foram investidos R$ 49 BILHÕES no setor de Habitação, com obras sendo concluídas e retomadas por meio do Programa Casa Verde e Amarela.
+
+Ministério do Desenvolvimento Regional
+SecomVc
+ - [Presidente Bolsonaro](https://t.me/jairbolsonarobrasil/3369)
