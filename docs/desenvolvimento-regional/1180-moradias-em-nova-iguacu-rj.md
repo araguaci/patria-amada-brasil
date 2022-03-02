@@ -9,7 +9,7 @@ Residencial Parque Laranjeiras recebeu investimento de cerca de R$ 192 milhões 
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-1-180-moradias-em-nova-iguacu-rj-nesta-sexta-feira-19)
 *    [Twitter](https://twitter.com/share?text=MDR%20entrega%201.180%20moradias%20em%20Nova%20Igua%C3%A7u%20%28RJ%29%20nesta%20sexta-feira%20%2819%29&url=https://www.gov.br/mdr/resolveuid/927c3fa4c2294a0d87deebd735ea0f5a)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-1-180-moradias-em-nova-iguacu-rj-nesta-sexta-feira-19)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-1-180-moradias-em-nova-iguacu-rj-nesta-sexta-feira-19)
 
 Publicado em 18/03/2021 14h52
 
@@ -27,7 +27,7 @@ Endereço: Rua Passa Vinte, bairro Campo Alegre – Nova Iguaçu (RJ)
 Compartilhe:
 *   [ Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-1-180-moradias-em-nova-iguacu-rj-nesta-sexta-feira-19)
 *    [Twitter](https://twitter.com/share?text=MDR%20entrega%201.180%20moradias%20em%20Nova%20Igua%C3%A7u%20%28RJ%29%20nesta%20sexta-feira%20%2819%29&url=https://www.gov.br/mdr/resolveuid/927c3fa4c2294a0d87deebd735ea0f5a)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-1-180-moradias-em-nova-iguacu-rj-nesta-sexta-feira-19)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-1-180-moradias-em-nova-iguacu-rj-nesta-sexta-feira-19)
 
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

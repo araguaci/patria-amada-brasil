@@ -19,7 +19,7 @@ Publicado em 18/01/2022 14h56
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/01/dnit-encerra-2021-com-diversas-entregas-pelo-pais)
 *    [Twitter](https://twitter.com/share?text=DNIT%20encerra%202021%20com%20diversas%20entregas%20pelo%20pa%C3%ADs&url=https://www.gov.br/resolveuid/9850fd849d9e4678a77e5c1e782a2d41)
-*   [Copiar](https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/01/dnit-encerra-2021-com-diversas-entregas-pelo-pais)
+*   [Fonte](https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/01/dnit-encerra-2021-com-diversas-entregas-pelo-pais)
 
 
 ![ ](https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/01/dnit-encerra-2021-com-diversas-entregas-pelo-pais/retrospectiva.png/@@images/8d544503-2b60-452d-a859-e918e81341c3.png)
@@ -122,5 +122,5 @@ Tags:
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/01/dnit-encerra-2021-com-diversas-entregas-pelo-pais)
 *    [Twitter](https://twitter.com/share?text=DNIT%20encerra%202021%20com%20diversas%20entregas%20pelo%20pa%C3%ADs&url=https://www.gov.br/resolveuid/9850fd849d9e4678a77e5c1e782a2d41)
-*   [Copiar](https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/01/dnit-encerra-2021-com-diversas-entregas-pelo-pais)
+*   [Fonte](https://www.gov.br/pt-br/noticias/transito-e-transportes/2022/01/dnit-encerra-2021-com-diversas-entregas-pelo-pais)
 

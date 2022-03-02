@@ -17,7 +17,7 @@ Publicado em 10/12/2019 00h00 Atualizado em 12/11/2021 09h02
 Compartilhe: 
 *   [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
 *    [Twitter](https://twitter.com/share?text=Pesquisa%20e%20tecnologia%20fazem%20o%20Pa%C3%ADs%20bater%20recorde%20na%20exporta%C3%A7%C3%A3o%20agr%C3%ADcola&url=https://www.gov.br/fundaj/resolveuid/3ce463288f3b4480b5120137a1387a78)
-*   [Copiar](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
+*   [Fonte](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
 
 [recorde-na-exportacao-agricola](https://economia.estadao.com.br/noticias/geral,pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola,70003117433) 
 
@@ -86,6 +86,6 @@ Na carne suína, a situação é semelhante. O produtor Frederick Wolters ­ - q
 Compartilhe: 
 *   [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
 *    [Twitter](https://twitter.com/share?text=Pesquisa%20e%20tecnologia%20fazem%20o%20Pa%C3%ADs%20bater%20recorde%20na%20exporta%C3%A7%C3%A3o%20agr%C3%ADcola&url=https://www.gov.br/fundaj/resolveuid/3ce463288f3b4480b5120137a1387a78)
-*   [Copiar](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
+*   [Fonte](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/pesquisa-e-tecnologia-fazem-o-pais-bater-recorde-na-exportacao-agricola)
 
 [Assessoria de Comunicação Governo Federal](/docs/govbr)

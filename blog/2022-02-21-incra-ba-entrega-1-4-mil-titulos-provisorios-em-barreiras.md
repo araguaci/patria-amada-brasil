@@ -18,7 +18,7 @@ Nem as perdas de parte das plantações de mandioca, feijão e milho, devido às
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
 *    [Twitter](https://twitter.com/share?text=Incra%20entrega%201%2C4%20mil%20t%C3%ADtulos%20provis%C3%B3rios%20em%20Barreiras%20%28BA%29&url=https://www.gov.br/incra/resolveuid/e88147fc83454da1bfe10180697521be)
-*   [Copiar](https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
+*   [Fonte](https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
 
 ![ ](https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras/ba_ccu_210222.jfif/@@images/2e9d6ad4-7256-4d76-b3ac-0f3e5e897798.jpeg)
 
@@ -98,5 +98,5 @@ Tags: [Bahia](https://www.gov.br/incra/pt-br/@@search?Subject%3Alist=Bahia)[CCU]
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
 *    [Twitter](https://twitter.com/share?text=Incra%20entrega%201%2C4%20mil%20t%C3%ADtulos%20provis%C3%B3rios%20em%20Barreiras%20%28BA%29&url=https://www.gov.br/incra/resolveuid/e88147fc83454da1bfe10180697521be)
-*   [Copiar](https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
+*   [Fonte](https://www.gov.br/incra/pt-br/assuntos/noticias/incra-ba-entrega-1-4-mil-titulos-provisorios-em-barreiras)
 

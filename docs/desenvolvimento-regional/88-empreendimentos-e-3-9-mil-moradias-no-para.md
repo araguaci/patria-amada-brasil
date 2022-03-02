@@ -64,7 +64,7 @@ A obra, que recebeu investimento de R$ 9 milhões, tem como principais objetivos
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entregou-88-empreendimentos-e-3-9-mil-moradias-no-para)
 *    [Twitter](https://twitter.com/share?text=Em%202021%2C%20MDR%20entregou%2088%20empreendimentos%20e%203%2C9%20mil%20moradias%20no%20Par%C3%A1&url=https://www.gov.br/mdr/resolveuid/3dbda4bf8822402e98f8d3eb79b67020)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entregou-88-empreendimentos-e-3-9-mil-moradias-no-para)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entregou-88-empreendimentos-e-3-9-mil-moradias-no-para)
 
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

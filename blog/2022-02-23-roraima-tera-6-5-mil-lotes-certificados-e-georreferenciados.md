@@ -47,4 +47,4 @@ Agricultura e Pecuária
 
  - [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/incra/pt-br/assuntos/noticias/roraima-tera-6-5-mil-lotes-certificados-e-georreferenciados) 
  - [Twitter](https://twitter.com/share?text=Roraima%20ter%C3%A1%206%2C5%20mil%20lotes%20certificados%20e%20georreferenciados&url=https://www.gov.br/incra/resolveuid/a68b4f975c1945218057db83621bb5fd)
- - [Copiar](https://www.gov.br/incra/pt-br/assuntos/noticias/roraima-tera-6-5-mil-lotes-certificados-e-georreferenciados)
+ - [Fonte](https://www.gov.br/incra/pt-br/assuntos/noticias/roraima-tera-6-5-mil-lotes-certificados-e-georreferenciados)

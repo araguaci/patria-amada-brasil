@@ -30,6 +30,6 @@ Outras cidades passam, neste momento, pelo processo de cadastramento de seus mor
 ## Compartilhe
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/agua-para-todos-universaliza-acesso-a-agua-em-ibotirama)
 *    [Twitter](https://twitter.com/share?text=%C3%81gua%20para%20Todos%20universaliza%20acesso%20%C3%A0%20%C3%A1gua%20em%20Ibotirama&url=https://www.gov.br/mdr/resolveuid/0c30b32674317781d160d2e8357d1606e9de0b9a)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/agua-para-todos-universaliza-acesso-a-agua-em-ibotirama)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/agua-para-todos-universaliza-acesso-a-agua-em-ibotirama)
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

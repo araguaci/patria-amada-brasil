@@ -50,6 +50,6 @@ Energia, Minerais e Combustíveis
 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mme/pt-br/assuntos/noticias/reservatorios-das-hidreletricas-tem-melhora-e-custos-para-geracao-de-energia-diminuem)*    
 *   [Twitter](https://twitter.com/share?text=Reservat%C3%B3rios%20de%20hidrel%C3%A9tricas%20t%C3%AAm%20melhora%20e%20custos%20para%20gera%C3%A7%C3%A3o%20de%20energia%20diminuem&url=https://www.gov.br/mme/resolveuid/70ee32e196424bb29d272b80af8b5833)
-*   [Copiar](https://www.gov.br/mme/pt-br/assuntos/noticias/reservatorios-das-hidreletricas-tem-melhora-e-custos-para-geracao-de-energia-diminuem)
+*   [Fonte](https://www.gov.br/mme/pt-br/assuntos/noticias/reservatorios-das-hidreletricas-tem-melhora-e-custos-para-geracao-de-energia-diminuem)
 
 [Assessoria de Comunicação Social](/docs/minas-e-energia/links)

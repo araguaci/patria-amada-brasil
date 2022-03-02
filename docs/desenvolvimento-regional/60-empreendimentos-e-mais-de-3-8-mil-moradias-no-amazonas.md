@@ -1,7 +1,6 @@
 ---
 sidebar_position: 1
 ---
-
 # Em 2021, MDR entrega 60 empreendimentos e mais de 3,8 mil moradias no Amazonas
 
 
@@ -10,7 +9,7 @@ Investimento no estado foi de R$ 267,5 milhões, entre recursos do Orçamento Ge
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-60-empreendimentos-e-mais-de-3-8-mil-moradias-no-amazonas)
 *    [Twitter](https://twitter.com/share?text=Em%202021%2C%20MDR%20entrega%2060%20empreendimentos%20e%20mais%20de%203%2C8%20mil%20moradias%20no%20Amazonas&url=https://www.gov.br/mdr/resolveuid/f04be3dc886e43e5a3e9842a63eaa480)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-60-empreendimentos-e-mais-de-3-8-mil-moradias-no-amazonas)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-60-empreendimentos-e-mais-de-3-8-mil-moradias-no-amazonas)
 
 Publicado em 15/02/2022 11h22
 
@@ -67,7 +66,7 @@ O MDR também atuou nas ações de proteção e defesa civil no estado para miti
 ## Compartilhe
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-60-empreendimentos-e-mais-de-3-8-mil-moradias-no-amazonas)
 *    [Twitter](https://twitter.com/share?text=Em%202021%2C%20MDR%20entrega%2060%20empreendimentos%20e%20mais%20de%203%2C8%20mil%20moradias%20no%20Amazonas&url=https://www.gov.br/mdr/resolveuid/f04be3dc886e43e5a3e9842a63eaa480)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-60-empreendimentos-e-mais-de-3-8-mil-moradias-no-amazonas)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-60-empreendimentos-e-mais-de-3-8-mil-moradias-no-amazonas)
 
 ## Links
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

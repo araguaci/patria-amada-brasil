@@ -63,7 +63,7 @@ Já a Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba (C
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entregou-242-empreendimentos-e-2-2-mil-moradias-em-tocantins)
 *    [Twitter](https://twitter.com/share?text=Em%202021%2C%20MDR%20entregou%20242%20empreendimentos%20e%202%2C2%20mil%20moradias%20em%20Tocantins&url=https://www.gov.br/mdr/resolveuid/d1b5ad3b7fce4438ad5003e384bd58a7)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entregou-242-empreendimentos-e-2-2-mil-moradias-em-tocantins)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entregou-242-empreendimentos-e-2-2-mil-moradias-em-tocantins)
 
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

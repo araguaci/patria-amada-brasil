@@ -43,6 +43,6 @@ Compartilhe:
 *    [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/casacivil/pt-br/assuntos/noticias/2022/fevereiro/governo-federal-entrega-219-moradias-a-familias-de-baixa-renda-da-cidade-de-jaru-em-rondonia)
 *    [Twitter](https://twitter.com/share?text=Governo%20Federal%20entrega%20219%20moradias%20a%20fam%C3%ADlias%20de%20baixa%20renda%20da%20cidade%20de%20Jaru%20%28RO%29&url=https://www.gov.br/casacivil/resolveuid/1145bf9cfb7b4ceb9c8270c64645528c)
 
-*   [Copiar](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2022/fevereiro/governo-federal-entrega-219-moradias-a-familias-de-baixa-renda-da-cidade-de-jaru-em-rondonia)
+*   [Fonte](https://www.gov.br/casacivil/pt-br/assuntos/noticias/2022/fevereiro/governo-federal-entrega-219-moradias-a-familias-de-baixa-renda-da-cidade-de-jaru-em-rondonia)
 
 

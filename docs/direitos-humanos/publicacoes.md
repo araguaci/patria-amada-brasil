@@ -74,5 +74,5 @@ os objetivos da CMB destaca-se sua missão na interrupção do ciclo da violên
 Compartilhe: 
 *   [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/mdh/pt-br/navegue-por-temas/politicas-para-mulheres/publicacoes-1/publicacoes%202019)
 *    [Twitter](https://twitter.com/share?text=Publica%C3%A7%C3%B5es&url=https://www.gov.br/mdh/resolveuid/33758fa5a6a34050b331e936840066dd)
-*    [Copiar](https://www.gov.br/mdh/pt-br/navegue-por-temas/politicas-para-mulheres/publicacoes-1/publicacoes%202019)
+*    [Fonte](https://www.gov.br/mdh/pt-br/navegue-por-temas/politicas-para-mulheres/publicacoes-1/publicacoes%202019)
 

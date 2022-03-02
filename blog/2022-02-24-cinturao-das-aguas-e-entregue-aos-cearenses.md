@@ -19,7 +19,7 @@ Publicado em 24/02/2022 09h03 Atualizado em 24/02/2022 13h59
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/dnocs/pt-br/assuntos/noticias/cinturao-das-aguas-e-entregue-aos-cearenses)
 *    [Twitter](https://twitter.com/share?text=Cintur%C3%A3o%20das%20%C3%81guas%20%C3%A9%20entregue%20aos%20cearenses&url=https://www.gov.br/dnocs/resolveuid/81d7c47c50f8495ab6f6e75a68f9f95a)
-*   [Copiar](https://www.gov.br/dnocs/pt-br/assuntos/noticias/cinturao-das-aguas-e-entregue-aos-cearenses)
+*   [Fonte](https://www.gov.br/dnocs/pt-br/assuntos/noticias/cinturao-das-aguas-e-entregue-aos-cearenses)
 
 
 ![ ](https://www.gov.br/dnocs/pt-br/assuntos/noticias/cinturao-das-aguas-e-entregue-aos-cearenses/capa.jfif/@@images/61f8d9db-8fee-427b-a40d-7cdf6401969a.jpeg)
@@ -43,4 +43,4 @@ Em todo o projeto, são 145,3 km de caminhamento, compreendendo segmentos de can
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/dnocs/pt-br/assuntos/noticias/cinturao-das-aguas-e-entregue-aos-cearenses)
 *    [Twitter](https://twitter.com/share?text=Cintur%C3%A3o%20das%20%C3%81guas%20%C3%A9%20entregue%20aos%20cearenses&url=https://www.gov.br/dnocs/resolveuid/81d7c47c50f8495ab6f6e75a68f9f95a)
-*   [Copiar](https://www.gov.br/dnocs/pt-br/assuntos/noticias/cinturao-das-aguas-e-entregue-aos-cearenses)
+*   [Fonte](https://www.gov.br/dnocs/pt-br/assuntos/noticias/cinturao-das-aguas-e-entregue-aos-cearenses)

@@ -17,7 +17,7 @@ Publicado em 31/05/2021 11h22
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021/05/correios-registra-maior-lucro-dos-ultimos-10-anos)
 *    [Twitter](https://twitter.com/share?text=Correios%20registra%20maior%20lucro%20dos%20%C3%BAltimos%2010%20anos&url=https://www.gov.br/resolveuid/e8b6f4afa10b4328851832d552b788cb)
-*   [Copiar](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021/05/correios-registra-maior-lucro-dos-ultimos-10-anos)
+*   [Fonte](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021/05/correios-registra-maior-lucro-dos-ultimos-10-anos)
 
 ![ ](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021/05/correios-registra-maior-lucro-dos-ultimos-10-anos/ffraz_abr_18091923264.jpg/@@images/2429fb18-e1a9-4ffc-8981-72a178c2625e.jpeg)
 
@@ -50,7 +50,7 @@ Tags:
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021/05/correios-registra-maior-lucro-dos-ultimos-10-anos)
 *    [Twitter](https://twitter.com/share?text=Correios%20registra%20maior%20lucro%20dos%20%C3%BAltimos%2010%20anos&url=https://www.gov.br/resolveuid/e8b6f4afa10b4328851832d552b788cb)
-*   [Copiar](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021/05/correios-registra-maior-lucro-dos-ultimos-10-anos)
+*   [Fonte](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2021/05/correios-registra-maior-lucro-dos-ultimos-10-anos)
 
 
 Fonte: [infraestrutura](https://www.gov.br/pt-br)

@@ -89,4 +89,4 @@ Fundado em 1952 e atualmente vinculado ao Ministério da Economia, o BNDES é o 
 ## Compartilhe: 
  - [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo) 
  - [Twitter](https://twitter.com/share?text=BNDES%20registra%20lucro%20l%C3%ADquido%20recorde%20em%202021%20e%20passa%20a%20ter%20a%20maior%20carteira%20de%20concess%C3%B5es%20de%20infraestrutura%20do%20mundo&url=https://www.gov.br/resolveuid/ad3d946366a848eebb596f41997cf2b0) 
- - [Copiar](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo)
+ - [Fonte](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo)

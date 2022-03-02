@@ -10,7 +10,7 @@ Investimento federal no estado foi de R$ 122 milhões, entre recursos do Orçame
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-117-empreendimentos-e-5-1-mil-moradias-em-mato-grosso)
 *    [Twitter](https://twitter.com/share?text=Em%202021%2C%20MDR%20entrega%20117%20empreendimentos%20e%205%2C1%20mil%20moradias%20em%20Mato%20Grosso&url=https://www.gov.br/mdr/resolveuid/6f4a014fb1f74cc2a9d81da5a5318313)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-117-empreendimentos-e-5-1-mil-moradias-em-mato-grosso)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-117-empreendimentos-e-5-1-mil-moradias-em-mato-grosso)
 
 Publicado em 14/02/2022 17h56
 
@@ -73,7 +73,7 @@ Na área de segurança hídrica, foram concluídas obras para implantação de s
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-117-empreendimentos-e-5-1-mil-moradias-em-mato-grosso)
 *    [Twitter](https://twitter.com/share?text=Em%202021%2C%20MDR%20entrega%20117%20empreendimentos%20e%205%2C1%20mil%20moradias%20em%20Mato%20Grosso&url=https://www.gov.br/mdr/resolveuid/6f4a014fb1f74cc2a9d81da5a5318313)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-117-empreendimentos-e-5-1-mil-moradias-em-mato-grosso)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/em-2021-mdr-entrega-117-empreendimentos-e-5-1-mil-moradias-em-mato-grosso)
 
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

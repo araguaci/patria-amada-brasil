@@ -15,7 +15,7 @@ Pasta também realizou mudanças estruturantes nas políticas públicas de sanea
 Compartilhe:
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/mdr-conclui-6-2-mil-obras-em-2020-e-entrega-410-mil-moradias-em-todo-o-pais)
 *    [Twitter](https://twitter.com/share?text=MDR%20conclui%206%2C2%20mil%20obras%20em%202020%20e%20entrega%20410%20mil%20moradias%20em%20todo%20o%20Pa%C3%ADs&url=https://www.gov.br/mdr/resolveuid/03b3d530d6834a81b32b577bdabc7195)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/mdr-conclui-6-2-mil-obras-em-2020-e-entrega-410-mil-moradias-em-todo-o-pais)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/mdr-conclui-6-2-mil-obras-em-2020-e-entrega-410-mil-moradias-em-todo-o-pais)
 
 
 Publicado em 22/12/2020 11h13 Atualizado em 22/12/2020 17h29
@@ -83,7 +83,7 @@ Neste ano, o MDR avançou, também, na reestruturação e modernização de pol�
 ## Compartilhe
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/mdr-conclui-6-2-mil-obras-em-2020-e-entrega-410-mil-moradias-em-todo-o-pais)
 *    [Twitter](https://twitter.com/share?text=MDR%20conclui%206%2C2%20mil%20obras%20em%202020%20e%20entrega%20410%20mil%20moradias%20em%20todo%20o%20Pa%C3%ADs&url=https://www.gov.br/mdr/resolveuid/03b3d530d6834a81b32b577bdabc7195)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/mdr-conclui-6-2-mil-obras-em-2020-e-entrega-410-mil-moradias-em-todo-o-pais)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/mdr-conclui-6-2-mil-obras-em-2020-e-entrega-410-mil-moradias-em-todo-o-pais)
 
 ## Links
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

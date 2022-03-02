@@ -10,7 +10,7 @@ Programa chega a comunidades indígenas depois de levar energia solar a ribeirin
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mme/pt-br/assuntos/noticias/mme-celebra-conclusao-da-meta-da-universalizacao-do-ilumina-pantanal)
 *    [Twitter](https://twitter.com/share?text=MME%20celebra%20conclus%C3%A3o%20da%20meta%20da%20universaliza%C3%A7%C3%A3o%20do%20Ilumina%20Pantanal&url=https://www.gov.br/mme/resolveuid/c9c3f065eedb41f19ca1c1f06975af49)
-*   [Copiar](https://www.gov.br/mme/pt-br/assuntos/noticias/mme-celebra-conclusao-da-meta-da-universalizacao-do-ilumina-pantanal)
+*   [Fonte](https://www.gov.br/mme/pt-br/assuntos/noticias/mme-celebra-conclusao-da-meta-da-universalizacao-do-ilumina-pantanal)
 
 
 Publicado em 21/02/2022 18h05
@@ -46,6 +46,6 @@ Energia, Minerais e Combustíveis
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mme/pt-br/assuntos/noticias/mme-celebra-conclusao-da-meta-da-universalizacao-do-ilumina-pantanal)
 *    [Twitter](https://twitter.com/share?text=MME%20celebra%20conclus%C3%A3o%20da%20meta%20da%20universaliza%C3%A7%C3%A3o%20do%20Ilumina%20Pantanal&url=https://www.gov.br/mme/resolveuid/c9c3f065eedb41f19ca1c1f06975af49)
-*   [Copiar](https://www.gov.br/mme/pt-br/assuntos/noticias/mme-celebra-conclusao-da-meta-da-universalizacao-do-ilumina-pantanal)
+*   [Fonte](https://www.gov.br/mme/pt-br/assuntos/noticias/mme-celebra-conclusao-da-meta-da-universalizacao-do-ilumina-pantanal)
 
 [Assessoria de Comunicação Social](/docs/minas-e-energia/links)

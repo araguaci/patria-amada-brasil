@@ -35,4 +35,4 @@ Viagens e Turismo
 Compartilhe:
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/turismo/pt-br/assuntos/noticias/mtur-registra-conclusao-de-mais-122-obras-no-pais-em-setembro-e-outubro)
 *   [Twitter](https://twitter.com/share?text=MTur%20registra%20conclus%C3%A3o%20de%20mais%20122%20obras%20no%20pa%C3%ADs%20em%20setembro%20e%20outubro&url=https://www.gov.br/turismo/resolveuid/fdfd9166e870449e896c68e89ec9937d)
-*   [Copiar](https://www.gov.br/turismo/pt-br/assuntos/noticias/mtur-registra-conclusao-de-mais-122-obras-no-pais-em-setembro-e-outubro "Copiar para área de transferência")
+*   [Fonte](https://www.gov.br/turismo/pt-br/assuntos/noticias/mtur-registra-conclusao-de-mais-122-obras-no-pais-em-setembro-e-outubro "Copiar para área de transferência")

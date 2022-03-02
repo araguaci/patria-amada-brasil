@@ -126,7 +126,7 @@ Energia, Minerais e Combustíveis
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mme/pt-br/assuntos/noticias/ministerio-de-minas-e-energia-alcanca-importantes-resultados-em-2021)
 *    [Twitter](https://twitter.com/share?text=Minist%C3%A9rio%20de%20Minas%20e%20Energia%20alcan%C3%A7a%20importantes%20resultados%20em%202021&url=https://www.gov.br/mme/resolveuid/473ec6f3f9c04c78949b3a49498dde10)
-*   [Copiar](https://www.gov.br/mme/pt-br/assuntos/noticias/ministerio-de-minas-e-energia-alcanca-importantes-resultados-em-2021)
+*   [Fonte](https://www.gov.br/mme/pt-br/assuntos/noticias/ministerio-de-minas-e-energia-alcanca-importantes-resultados-em-2021)
 
 
 [Assessoria de Comunicação Social](/docs/minas-e-energia/links)

@@ -150,6 +150,6 @@ Energia, Minerais e Combustíveis
 ## Compartilhe
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mme/pt-br/assuntos/noticias/ministro-faz-balanco-de-2021-e-destaca-oportunidades-de-negocios)
 *   [Twitter](https://twitter.com/share?text=Ministro%20faz%20balan%C3%A7o%20de%202021%20e%20destaca%20oportunidades%20de%20neg%C3%B3cios&url=https://www.gov.br/mme/resolveuid/5cdf1af300b64a5a8c1fdce31ca5a0aa)
-*   [Copiar](https://www.gov.br/mme/pt-br/assuntos/noticias/ministro-faz-balanco-de-2021-e-destaca-oportunidades-de-negocios)
+*   [Fonte](https://www.gov.br/mme/pt-br/assuntos/noticias/ministro-faz-balanco-de-2021-e-destaca-oportunidades-de-negocios)
 
 [Assessoria de Comunicação Social](/docs/minas-e-energia/links)

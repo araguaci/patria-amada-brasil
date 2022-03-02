@@ -9,7 +9,7 @@ Residencial Francisco Gonçalves I recebeu R$ 36 milhões em investimentos feder
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-moradias-a-650-familias-de-baixa-renda-em-santa-luzia-no-maranhao)
 *    [Twitter](https://twitter.com/share?text=MDR%20entrega%20moradias%20a%20650%20fam%C3%ADlias%20de%20baixa%20renda%20em%20Santa%20Luzia%2C%20no%20Maranh%C3%A3o&url=https://www.gov.br/mdr/resolveuid/aa93d5ddd9474dc5a7024da675853a48)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-moradias-a-650-familias-de-baixa-renda-em-santa-luzia-no-maranhao)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-moradias-a-650-familias-de-baixa-renda-em-santa-luzia-no-maranhao)
 
 Publicado em 23/03/2021 13h45
 
@@ -29,7 +29,7 @@ Endereço: Rua do Ramal, s/n - Santarém
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-moradias-a-650-familias-de-baixa-renda-em-santa-luzia-no-maranhao)
 *    [Twitter](https://twitter.com/share?text=MDR%20entrega%20moradias%20a%20650%20fam%C3%ADlias%20de%20baixa%20renda%20em%20Santa%20Luzia%2C%20no%20Maranh%C3%A3o&url=https://www.gov.br/mdr/resolveuid/aa93d5ddd9474dc5a7024da675853a48)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-moradias-a-650-familias-de-baixa-renda-em-santa-luzia-no-maranhao)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/mdr-entrega-moradias-a-650-familias-de-baixa-renda-em-santa-luzia-no-maranhao)
 
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

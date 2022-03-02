@@ -43,6 +43,6 @@ O investimento federal em Habitação em 2021 foi de R$ 49 bilhões, em recursos
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/em-maceio-al-governo-federal-entrega-480-moradias-a-familias-de-baixa-renda)
 *    [Twitter](https://twitter.com/share?text=Em%20Macei%C3%B3%20%28AL%29%2C%20Governo%20Federal%20entrega%20480%20moradias%20a%20fam%C3%ADlias%20de%20baixa%20renda&url=https://www.gov.br/mdr/resolveuid/fd867b2cdedb4f97b3728f0601bc988a)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/em-maceio-al-governo-federal-entrega-480-moradias-a-familias-de-baixa-renda)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/em-maceio-al-governo-federal-entrega-480-moradias-a-familias-de-baixa-renda)
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)

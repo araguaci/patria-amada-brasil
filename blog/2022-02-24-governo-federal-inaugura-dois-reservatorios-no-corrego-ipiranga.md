@@ -17,7 +17,7 @@ Publicado em 24/02/2022 17h16
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/no-ano-do-bicentenario-da-independencia-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga)
 *    [Twitter](https://twitter.com/share?text=No%20ano%20do%20bicenten%C3%A1rio%20da%20Independ%C3%AAncia%2C%20Governo%20Federal%20inaugura%20dois%20reservat%C3%B3rios%20no%20C%C3%B3rrego%20Ipiranga&url=https://www.gov.br/mdr/resolveuid/5c2274d347ce42aa8ef56b27dac99e46)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/no-ano-do-bicentenario-da-independencia-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/no-ano-do-bicentenario-da-independencia-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga)
 
 
 ![ ](https://www.gov.br/mdr/pt-br/noticias/no-ano-do-bicentenario-da-independencia-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga/whatsapp-image-2022-02-24-at-15-25-32.jpeg/@@images/2da3ead3-f467-4baf-9272-56ec0fcb2832.jpeg)
@@ -49,6 +49,6 @@ Além disso, o Governo Federal investiu R$ 2,1 bilhões em contratos de saneamen
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/mdr/pt-br/noticias/no-ano-do-bicentenario-da-independencia-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga)
 *    [Twitter](https://twitter.com/share?text=No%20ano%20do%20bicenten%C3%A1rio%20da%20Independ%C3%AAncia%2C%20Governo%20Federal%20inaugura%20dois%20reservat%C3%B3rios%20no%20C%C3%B3rrego%20Ipiranga&url=https://www.gov.br/mdr/resolveuid/5c2274d347ce42aa8ef56b27dac99e46)
-*   [Copiar](https://www.gov.br/mdr/pt-br/noticias/no-ano-do-bicentenario-da-independencia-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga)
+*   [Fonte](https://www.gov.br/mdr/pt-br/noticias/no-ano-do-bicentenario-da-independencia-governo-federal-inaugura-dois-reservatorios-no-corrego-ipiranga)
 
 

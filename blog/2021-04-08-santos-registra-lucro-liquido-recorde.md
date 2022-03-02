@@ -19,7 +19,7 @@ Publicado em 08/04/2021 17h28 Atualizado em 08/04/2021 17h30
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/infraestrutura/pt-br/assuntos/noticias/curtas-infraestrutura/2021/4/santos-registra-lucro-liquido-recorde-de-r-202-5-milhoes-em-2020)
 *    [Twitter](https://twitter.com/share?text=Santos%20registra%20lucro%20l%C3%ADquido%20recorde%20de%20R%24%20202%2C5%20milh%C3%B5es%20em%202020&url=https://www.gov.br/infraestrutura/resolveuid/be3345efee704e9ab32e22933f099413)
-*   [Copiar](https://www.gov.br/infraestrutura/pt-br/assuntos/noticias/curtas-infraestrutura/2021/4/santos-registra-lucro-liquido-recorde-de-r-202-5-milhoes-em-2020)
+*   [Fonte](https://www.gov.br/infraestrutura/pt-br/assuntos/noticias/curtas-infraestrutura/2021/4/santos-registra-lucro-liquido-recorde-de-r-202-5-milhoes-em-2020)
 
 As diversas ações de otimização de gastos, revisão de processos e redução de despesas favoreceram o resultado. As despesas administrativas recorrentes tiveram forte recuo e demonstraram queda de 16% na base anual. Os custos operacionais recorrentes cresceram 4,2%, abaixo do incremento verificado nas receitas, o que resultou em ganho de 1,6 ponto percentual na relação custos/receita líquida, indicando maior eficiência operacional.
 
@@ -37,7 +37,7 @@ Infraestrutura, Trânsito e Transportes
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/infraestrutura/pt-br/assuntos/noticias/curtas-infraestrutura/2021/4/santos-registra-lucro-liquido-recorde-de-r-202-5-milhoes-em-2020)
 *    [Twitter](https://twitter.com/share?text=Santos%20registra%20lucro%20l%C3%ADquido%20recorde%20de%20R%24%20202%2C5%20milh%C3%B5es%20em%202020&url=https://www.gov.br/infraestrutura/resolveuid/be3345efee704e9ab32e22933f099413)
-*   [Copiar](https://www.gov.br/infraestrutura/pt-br/assuntos/noticias/curtas-infraestrutura/2021/4/santos-registra-lucro-liquido-recorde-de-r-202-5-milhoes-em-2020)
+*   [Fonte](https://www.gov.br/infraestrutura/pt-br/assuntos/noticias/curtas-infraestrutura/2021/4/santos-registra-lucro-liquido-recorde-de-r-202-5-milhoes-em-2020)
 
 Fonte: [infraestrutura](https://www.gov.br/infraestrutura/pt-br)
 

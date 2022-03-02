@@ -16,7 +16,7 @@ Publicado em 29/09/2021 11h43 Atualizado em 09/11/2021 10h16
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/arcelormittal-tubarao-constroi-a-maior-planta-de-dessalinizacao-do-mercado-brasileiro-capaz-de-abastecer-80-mil-pessoas-por-dia)
 *    [Twitter](https://twitter.com/share?text=Arcelormittal%20Tubar%C3%A3o%20constr%C3%B3i%20a%20maior%20planta%20de%20dessaliniza%C3%A7%C3%A3o%20do%20mercado%20brasileiro%20capaz%20de%20abastecer%2080%20mil%20pessoas%20por%20dia&url=https://www.gov.br/fundaj/resolveuid/fde5f6fdfd6e4e5d89b743a07398cb1a)
-*   [Copiar](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/arcelormittal-tubarao-constroi-a-maior-planta-de-dessalinizacao-do-mercado-brasileiro-capaz-de-abastecer-80-mil-pessoas-por-dia)
+*   [Fonte](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/arcelormittal-tubarao-constroi-a-maior-planta-de-dessalinizacao-do-mercado-brasileiro-capaz-de-abastecer-80-mil-pessoas-por-dia)
 
 **Assista ao vídeo da matéria, no endereço abaixo**
 
@@ -55,5 +55,5 @@ A solução de sal em água que é resultado do processo, a salmoura, será devo
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/arcelormittal-tubarao-constroi-a-maior-planta-de-dessalinizacao-do-mercado-brasileiro-capaz-de-abastecer-80-mil-pessoas-por-dia)
 *    [Twitter](https://twitter.com/share?text=Arcelormittal%20Tubar%C3%A3o%20constr%C3%B3i%20a%20maior%20planta%20de%20dessaliniza%C3%A7%C3%A3o%20do%20mercado%20brasileiro%20capaz%20de%20abastecer%2080%20mil%20pessoas%20por%20dia&url=https://www.gov.br/fundaj/resolveuid/fde5f6fdfd6e4e5d89b743a07398cb1a)
-*   [Copiar](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/arcelormittal-tubarao-constroi-a-maior-planta-de-dessalinizacao-do-mercado-brasileiro-capaz-de-abastecer-80-mil-pessoas-por-dia)
+*   [Fonte](https://www.gov.br/fundaj/pt-br/destaques/observa-fundaj-itens/observa-fundaj/tecnologias-de-convivencias-com-as-secas/arcelormittal-tubarao-constroi-a-maior-planta-de-dessalinizacao-do-mercado-brasileiro-capaz-de-abastecer-80-mil-pessoas-por-dia)
 

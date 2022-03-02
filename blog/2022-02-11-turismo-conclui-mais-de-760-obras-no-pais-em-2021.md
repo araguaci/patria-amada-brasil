@@ -17,7 +17,7 @@ Publicado em 11/02/2022 17h50
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
 *    [Twitter](https://twitter.com/share?text=Minist%C3%A9rio%20do%20Turismo%20conclui%20mais%20de%20760%20obras%20no%20pa%C3%ADs%20em%202021&url=https://www.gov.br/turismo/resolveuid/856d4719c4ba4571bed83d3414b479b3)
-*   [Copiar](https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
+*   [Fonte](https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
 
 
 
@@ -52,6 +52,6 @@ Viagens e Turismo
 Compartilhe: 
 *   [Facebook](https://www.facebook.com/sharer.php?u=https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
 *    [Twitter](https://twitter.com/share?text=Minist%C3%A9rio%20do%20Turismo%20conclui%20mais%20de%20760%20obras%20no%20pa%C3%ADs%20em%202021&url=https://www.gov.br/turismo/resolveuid/856d4719c4ba4571bed83d3414b479b3)
-*   [Copiar](https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
+*   [Fonte](https://www.gov.br/turismo/pt-br/assuntos/noticias/ministerio-do-turismo-conclui-mais-de-760-obras-no-pais-em-2021)
 
 [Assessoria de Comunicação Social](/docs/turismo/links)
