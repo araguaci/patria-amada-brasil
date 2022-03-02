@@ -4,10 +4,9 @@ sidebar_position: 2
 
 # Principais Entregas Governo 
 
-**Balanço do governo do Presidente Bolsonaro**
+## Balanço do Governo do Presidente Bolsonaro
 
 Período: Janeiro/2019 à Fevereiro/2022
-
 
   1. Reforma da Previdência
 
