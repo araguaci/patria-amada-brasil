@@ -35,7 +35,7 @@ module.exports = {
         },
         {
           href: 'http://www.artesdosul.com/',
-          label: 'Artes Do Sul',
+          label: 'Artes do Sul',
           position: 'right',
         },
       ],

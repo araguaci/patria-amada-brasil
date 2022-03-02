@@ -11,7 +11,7 @@ const Component = () => {
 
 const FeatureList = [
   {
-    title: '1000 Dias',
+    title: '1000 Dias de Governo',
     Svg: require( '../../static/img/1000diasv.svg').default,
     to: "/docs/1000dias",
     tolabel: "Ver Resultados",
@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Entregas',
+    title: 'Principais Entregas',
     to: "/docs",
     tolabel: "Ver Entregas",
     Svg: require( '../../static/img/balanco-governo-avaliacao.svg').default,
