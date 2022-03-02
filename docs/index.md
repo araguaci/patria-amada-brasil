@@ -153,7 +153,7 @@ Período: Janeiro/2019 à Fevereiro/2022
 
   73. 34 Aeroportos Privatizados
 
-  74. + 90 Ativos da União Vendidos
+  74. `+` 90 Ativos da União Vendidos
 
   75. Escritório de Representação do Ministério da Economia em Washington (EUA)
 
@@ -177,12 +177,12 @@ Período: Janeiro/2019 à Fevereiro/2022
 
   86. Sistema Balcão Único – abrir empresas em poucas horas 
 
-  
+
+## Compilação
+
+ - [**Rafael Lougon**](https://www.entregasdogoverno.com/2022/02/balanco-do-governo-bolsonaro-principais.html)
+
 ## Fontes
-
-Compilação: **Rafael Lougon**
-
- - [entregasdogoverno](https://www.entregasdogoverno.com/2022/02/balanco-do-governo-bolsonaro-principais.html)
 
   - [fazenda](https://www.gov.br/fazenda/pt-br/orgaos/spe/estudos-economicos) 
 

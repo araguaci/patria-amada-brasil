@@ -83,6 +83,10 @@ module.exports = {
               label: 'Colabore com um Cafezinho',
               href: 'https://www.buymeacoffee.com/araguaci',
             },
+            {
+              label: 'Incentive Outros Projetos',
+              href: 'https://www.patreon.com/artesdosul',
+            },
           ],
         },
         {
@@ -93,17 +97,26 @@ module.exports = {
               href: 'https://brasil-pela-liberdade.vercel.app/',
             },
             {
-              label: 'Jornada Seja Grato',
-              href: 'https://jornada-seja-grato-araguaci.vercel.app/',
+              label: 'S.O.S. Terra',
+              href: 'https://healing-sound-of-the-earth.vercel.app/',
             },
             {
               label: 'Pela Paz na Terra',
               href: 'http://gaia.artesdosul.com/',
             },
+            {
+              label: 'Jornada Seja Grato',
+              href: 'https://jornada-seja-grato-araguaci.vercel.app/',
+            },
           ],
         },
       ],
-      copyright: `✠ Projeto Voluntário ✠ © ${new Date().getFullYear()} Artes do Sul ✠ Brasil Acima de Tudo ✠ DEUS ACIMA DE TODOS ✠`,
+      logo: {
+        alt: 'Pátria Amada Brasil',
+        src: 'img/brasila.svg',
+        href: '/',
+      },
+      copyright: `<p><b>Pátria Amada Brasil - Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa.</b></p>✠ Projeto Voluntário ✠ © ${new Date().getFullYear()} Artes do Sul ✠ Brasil Acima de Tudo ✠ DEUS ACIMA DE TODOS ✠`,
     },
     prism: {
       theme: lightCodeTheme,

@@ -103,6 +103,18 @@ Para meditação com Tzolkin Noosfera e uma música produzida em 432hz (estude s
   - [Terra em Noosfera](http://gaia.artesdosul.com/)
 
 **[`^        back to top        ^`](#)**
+
+### O SOM CURATIVO DA TERRA
+
+**S.O.S. Terra**
+
+O SOM CURATIVO DA TERRA - THE HEALING SOUND OF THE EARTH - Produzida em 432hz
+
+[![ ](/img/sosterra.jpg)](https://healing-sound-of-the-earth.vercel.app/)
+
+  - [S.O.S. Terra](https://healing-sound-of-the-earth.vercel.app/)
+
+**[`^        back to top        ^`](#)**
 ### Jornada Seja Grato
 
 Seja grato, fatos esquecidos em uma breve jornada de 200 anos.

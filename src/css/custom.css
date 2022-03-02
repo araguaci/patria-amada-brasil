@@ -467,6 +467,11 @@ html[data-theme="dark"] .docusaurus-highlight-code-line {
   padding: var(--ifm-footer-padding-vertical)
     var(--ifm-footer-padding-horizontal);
 }
+
+.footer p {
+  color: rgba(255, 235, 59, 1);
+}
+
 .navbar[data-theme="dark"] {
   background-color: #00130c !important;
 }

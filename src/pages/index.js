@@ -62,7 +62,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Principais Entregas Governo Federal">
+      description="Melhorias e Entregas do Governo Federal">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

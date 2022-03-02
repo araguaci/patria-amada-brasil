@@ -3,8 +3,16 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 3rem 0;
   width: 100%;
+  /*
+  background-image: url("/img/flag-header.png");
+  background-repeat: no-repeat;*/
+  background-image: linear-gradient(
+    rgba(0, 139, 0, 0.3),
+    rgba(255, 235, 59, 0.3),
+    rgba(0, 92, 211, 0.3)
+  );
 }
 
 .featureSvg {
@@ -12,15 +20,20 @@
   width: 307px;
   /*background-color: var(--ifm-color-primary) !important;*/
   background-image: linear-gradient(
-    rgba(0, 139, 0, 1),
-    rgba(255, 235, 59, 1),
-    rgba(0, 92, 211, 1)
+    rgba(0, 139, 0, 0.7),
+    rgba(255, 235, 59, 0.7),
+    rgba(0, 92, 211, 0.7)
   );
   border-radius: 50px;
 }
 
 .featureSvg[data-theme="dark"] {
   background-color: var(--ifm-color-primary) !important;
+  background-image: linear-gradient(
+    rgba(0, 139, 0, 0.3),
+    rgba(255, 235, 59, 0.3),
+    rgba(0, 92, 211, 0.3)
+  );
 }
 
 .button:not(a) {

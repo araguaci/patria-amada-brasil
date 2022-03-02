@@ -1,7 +1,7 @@
 ---
 sidebar_position: 6
 ---
-# Tributos reduzidos 
+# Tributos Reduzidos 
 
 ## Lista de tributos reduzidos pelo governo
  
@@ -12,8 +12,9 @@ sidebar_position: 6
  5. Redução de 10% da TEC (Tarifa Externa Comum) do MERCOSUL;
  6. Redução de 25% do IPI (Imposto sobre Produtos Industrializados)
 
-Compilação: **Rafael Lougon**
+## Compilação
 
 > Se a velha mídia não te mostra, nós te mostramos. Reunimos todas as entregas do governo Bolsonaro.
 
- - [Fonte](https://www.entregasdogoverno.com/2022/02/lista-de-tributos-reduzidos-pelo.html)
+ - [**Rafael Lougon**](https://www.entregasdogoverno.com/2022/02/lista-de-tributos-reduzidos-pelo.html)
+
