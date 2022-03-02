@@ -29,8 +29,13 @@ module.exports = {
         },
         {to: '/blog', label: 'Destaques', position: 'left'},
         {
+          href: 'https://www.patreon.com/artesdosul',
+          label: 'Patreon',
+          position: 'right',
+        },
+        {
           href: 'http://www.artesdosul.com/',
-          label: 'artesdosul',
+          label: 'Artes Do Sul',
           position: 'right',
         },
       ],

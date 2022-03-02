@@ -57,9 +57,9 @@ function Feature({Svg, to, tolabel, title, description}) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-        <div className="text--center marginButton">
+        <div className="text--center">
           <Link
-              className="button button--primary button--lg buttongradiente"
+              className="button button--primary button--lg rightBottom marginButton"
               to={to}>
               {tolabel}
           </Link>

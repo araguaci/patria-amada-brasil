@@ -14,7 +14,7 @@
   background-image: linear-gradient(
     rgba(0, 139, 0, 1),
     rgba(255, 235, 59, 1),
-    rgba(0, 92, 211, 1) 
+    rgba(0, 92, 211, 1)
   );
   border-radius: 50px;
 }
@@ -22,7 +22,6 @@
 .featureSvg[data-theme="dark"] {
   background-color: var(--ifm-color-primary) !important;
 }
-
 
 .button:not(a) {
   border: 0;
@@ -60,47 +59,11 @@
   background-image: linear-gradient(
     rgba(0, 139, 0, 1),
     rgba(255, 235, 59, 1),
-    rgba(0, 92, 211, 1) 
+    rgba(0, 92, 211, 1)
   ) !important;
   color: var(--ifm-navbar-background-color);
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0px 7px 0px 7px !important;
-}
-
-.buttongradiente {
-  background-image: linear-gradient(
-    rgba(0, 139, 0, 1),
-    rgba(255, 235, 59, 1),
-    rgba(0, 92, 211, 1) 
-  ) !important; 
-}
-
-.button {
-  display: inline-block;
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-    background-color: #538fbe;
-    padding: 20px 70px;
-    font-size: 24px;
-    border: 1px solid #2d6898;
-    background-image: linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-    background-image: -o-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-    background-image: -moz-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-    background-image: -webkit-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-    background-image: -ms-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
- 
-    background-image: -webkit-gradient(
-        linear,
-        left bottom,
-        left top,
-        color-stop(0, rgb(73,132,180)),
-        color-stop(1, rgb(97,155,203))
-    );
-}
-
-.marginButton {
-  margin-bottom: 5px;
+  border-radius: 7px;
 }

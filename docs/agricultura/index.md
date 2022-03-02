@@ -56,4 +56,10 @@ Período: Janeiro/2019 à Fevereiro/2022
   - Águas da União - 231 contratos de cessão de uso de águas da união foram firmados.
 
 
-Fonte: [retrospectiva-2021](https://www.gov.br/agricultura/pt-br/campanhas/retrospectiva-2021) 
+## Fontes
+
+Compilação: **Rafael Lougon**
+
+ - [entregasdogoverno](https://www.entregasdogoverno.com/2022/02/ministerio-da-agricultura-principais_27.html)
+
+ - [retrospectiva-2021](https://www.gov.br/agricultura/pt-br/campanhas/retrospectiva-2021) 

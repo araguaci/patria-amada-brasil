@@ -178,7 +178,12 @@ Período: Janeiro/2019 à Fevereiro/2022
   86. Sistema Balcão Único – abrir empresas em poucas horas 
 
   
+## Fontes
 
-Fontes: 
+Compilação: **Rafael Lougon**
+
+ - [entregasdogoverno](https://www.entregasdogoverno.com/2022/02/balanco-do-governo-bolsonaro-principais.html)
+
   - [fazenda](https://www.gov.br/fazenda/pt-br/orgaos/spe/estudos-economicos) 
+
   - [secom](https://www.gov.br/secom/pt-br)
