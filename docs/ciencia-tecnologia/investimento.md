@@ -1,7 +1,6 @@
 ---
 sidebar_position: 6
 ---
-
 # Investimentos em Inovação e Pesquisa
 
 **O Governo Federal tem ampliado os investimentos em inovação e pesquisa nas áreas de ciência e tecnologia. Já foram R$ 1 BILHÃO garantidos em 2022.**
