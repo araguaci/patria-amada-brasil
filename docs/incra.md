@@ -1,8 +1,12 @@
 ---
-sidebar_position: 21
+sidebar_position: 22
 ---
 
-# Instituto Nacional de Colonização e Reforma Agrária
+# INCRA
+
+## Instituto Nacional de Colonização e Reforma Agrária
+
+Links de acesso a informação e serviços INCRA
 
 ## Assuntos
 

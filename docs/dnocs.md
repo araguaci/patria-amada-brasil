@@ -1,8 +1,12 @@
 ---
-sidebar_position: 22
+sidebar_position: 23
 ---
 
-# Departamento Nacional de Obras Contra as Secas
+# DNOCS
+
+## Departamento Nacional de Obras Contra as Secas
+
+Links de acesso a informações e serviços DNOCS
 
 
 *   [Serviços](https://www.gov.br/dnocs/pt-br/servicos)

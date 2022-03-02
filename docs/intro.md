@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 100
 ---
 
-# Pátria Amada Brasil
+# Sobre Pátria Amada Brasil
 ## Seja Bem Vindo
 
 **Este é um projeto voluntário.** 

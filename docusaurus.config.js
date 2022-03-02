@@ -22,6 +22,10 @@ module.exports = {
       },
       items: [
         {
+          type: 'search',
+          position: 'right',
+        },
+        {
           type: 'doc',
           docId: 'index',
           position: 'left',
@@ -118,6 +122,7 @@ module.exports = {
       },
       copyright: `<p><b>Pátria Amada Brasil - Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa.</b></p>✠ Projeto Voluntário ✠ © ${new Date().getFullYear()} Artes do Sul ✠ Brasil Acima de Tudo ✠ DEUS ACIMA DE TODOS ✠`,
     },
+    metadata: [{name: 'twitter:card', content: 'Pátria Amada Brasil - Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa.'}],
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,

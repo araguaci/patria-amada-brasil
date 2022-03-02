@@ -862,3 +862,35 @@
   flex-shrink: 0;
   padding: 3rem 1.5rem;
 }
+
+.col .text--right .col--3 a {
+  color: #fff;
+  font-weight: bold;
+  background-color: rgba(0, 92, 211, 1);
+  border: 1px solid #2d6898;
+  background-image: linear-gradient(
+    bottom,
+    rgb(0, 92, 211) 0%,
+    rgb(97, 155, 203) 100%
+  );
+  background-image: -o-linear-gradient(
+    bottom,
+    rgb(0, 92, 211) 0%,
+    rgb(97, 155, 203) 100%
+  );
+  background-image: -moz-linear-gradient(
+    bottom,
+    rgb(0, 92, 211) 0%,
+    rgb(97, 155, 203) 100%
+  );
+  background-image: -webkit-linear-gradient(
+    bottom,
+    rgb(0, 92, 211) 0%,
+    rgb(97, 155, 203) 100%
+  );
+  background-image: -ms-linear-gradient(
+    bottom,
+    rgb(0, 92, 211) 0%,
+    rgb(97, 155, 203) 100%
+  );
+}
