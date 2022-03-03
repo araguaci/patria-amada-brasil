@@ -5,35 +5,38 @@
   align-items: center;
   padding: 3rem 0;
   width: 100%;
-  /*
-  background-image: url("/img/flag-header.png");
-  background-repeat: no-repeat;*/
-  background-image: linear-gradient(
-    rgba(0, 139, 0, 0.2),
-    rgba(255, 235, 59, 0.2),
-    rgba(0, 92, 211, 0.2)
-  );
 }
 
 .featureSvg {
-  height: 163px;
-  width: 307px;
+  padding: 10px;
+  height: 183px;
+  width: 317px;
   /*background-color: var(--ifm-color-primary) !important;*/
-  background-image: linear-gradient(
-    rgba(0, 139, 0, 0.7),
-    rgba(255, 235, 59, 0.7),
-    rgba(0, 92, 211, 0.7)
-  );
   border-radius: 50px;
+  background-image: linear-gradient(
+    rgba(0, 139, 0, 0.8),
+    rgba(255, 235, 59, 0.8),
+    rgba(0, 139, 0, 0.8)
+  );
 }
 
+
 .featureSvg[data-theme="dark"] {
-  background-color: var(--ifm-color-primary) !important;
   background-image: linear-gradient(
-    rgba(0, 139, 0, 0.3),
-    rgba(255, 235, 59, 0.3),
-    rgba(0, 92, 211, 0.3)
-  );
+    rgba(0, 92, 211, 0.8),
+    rgba(255, 255, 255, 0.8),
+    rgba(0, 92, 211, 0.8)
+  ) !important;
+}
+
+
+.featureSvg:hover {
+  padding: 0px;
+  background-image: linear-gradient(
+    rgba(0, 92, 211, 0.8),
+    rgba(255, 255, 255, 0.8),
+    rgba(0, 92, 211, 0.8)
+  ) !important;
 }
 
 .button:not(a) {
@@ -48,6 +51,7 @@
   -o-outline: none;
   -moz-outline: none;
 }
+
 .button:active:not(a),
 .button.active {
   outline: none;
@@ -59,11 +63,13 @@
   top: 1px;
   left: -1px;
 }
+
 .button:focus:not(a) {
   outline: none;
   -webkit-outline: none;
   -moz-outline: none;
 }
+
 .button-sm {
   padding-top: 1.5px;
 }

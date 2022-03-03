@@ -28,7 +28,8 @@
     "remark-math": "^5.1.1",
     "typewriter-effect": "^2.18.2",
     "url-loader": "^4.1.1",
-    "video-react": "^0.15.0"
+    "video-react": "^0.15.0",
+    "web-social-share": "^8.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.3",
