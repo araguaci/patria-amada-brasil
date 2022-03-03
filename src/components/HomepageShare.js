@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 const ShareList = [
     {
         title: "whatsapp",
-        img: "/img/BaseShare/whatsapp.svg",
+        img: "/img/BaseShare/whatsapp.png",
         link: "https://web.whatsapp.com/send?text=P%C3%A1tria%20Amada%20Brasil%0Ahttps%3A%2F%2Fpatria-amada-brasil.vercel.app%2F",
     },
     {
