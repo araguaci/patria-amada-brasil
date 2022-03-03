@@ -1,0 +1,19 @@
+.sharebtn {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 0;
+  width: 100%;
+}
+
+.sharebtn div {
+  text-align: center;
+  width: 100%;
+}
+
+.sharebtn img,
+.sharebtn a {
+  height: 38px;
+  background-color: transparent !important;
+  margin-left: 3px;
+  margin-right: 3px;
+}
