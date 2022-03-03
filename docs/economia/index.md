@@ -271,3 +271,4 @@ Ricardo Soriano afirmou que a instituição promoveu a digitalização da totali
 Secretaria Especial de Comércio Exterior e Assuntos Internacionais fecha o ano com sucesso em medidas de redução de tarifas de importação, desburocratização e reforma do crédito à exportação
 
 [Mais notícias…](https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/principais-acoes-na-area-economica/balanco-e-perspectivas/noticias/noticias-1)
+

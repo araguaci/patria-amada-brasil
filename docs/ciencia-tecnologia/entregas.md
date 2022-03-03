@@ -1,9 +1,54 @@
+---
+sidebar_position: 1
+---
+# Principais Entregas
 
-# Entregas 2021
+**MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÕES**
 
-MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÕES
+## Entregas 2019
 
-**PRINCIPAIS ENTREGAS 2021**
+ - CTTD – Centro de Testes de Tecnologia de Dessalinização;
+ - PCE – Programa Ciência na Escola;
+ - Projeto Água Atmosfera (bebendo água do Ar);
+ - Plano Nacional de Internet das Coisas (Cidades Inteligentes, Saúde 4.0, Agro 4.0 e Indústria 4.0;
+ - Alteração no Decreto da Biodiversidade para Simplificação do Processo de Pesquisas;
+ - Projeto Amazonia Integrada e Sustentável – Fibra Ótica de 100gb na Amazônia;
+ - Câmara Brasileira da Industria 4.0;
+ - Portaria dos Fundos Patrimoniais e Endowment para CT&I;
+ - Câmara do Agro 4.0 (em parceria com o Ministério da Agricultura);
+ - Conecta Brasil – Conexão via Satélite em áreas remotas.;
+ - Acordo de Salvaguardas Tecnológicas com os EUA;
+ - Programa Centelha – apoio à geração de Empreendimentos Inovadores;
+ - Lançamento dos Satélites Brasileiros CBERS-4A e Floripasant;
+ - Centros de Pesquisa Aplicada em Inteligência Artificial;
+ - Nova Lei de Informática.
+
+
+## Entregas 2020
+
+ - Reinauguração da Estação Antártica Comandante Ferraz – EACF;
+ - Projeto REGINA (Rare Earth Global Industry and New Applications) com o Governo da Alemanha;
+ - Conecta Startup Brasil – Financiamento de projetos;
+ - Projeto Mulheres Inovadoras;
+ - Sistema de Esterilização de Transportes Públicos por UVC254 – COVID-19
+ - Desenvolvimento de testes em Elisa e Lateral Flow para diagnóstico do COVID-19
+ - Desenvolvimento de Vacinas VLP Bivalente Contra Sars-Cov2
+ - Sistema para Acompanhamento de Leitos De Campanha (COVID-19)
+ - CNPq/MCTI Facilita Importação De Insumos Para Ventilador Pulmonar – COVID-19;
+ - Programa Cadeias Produtivas da Bioeconomia;
+ - Projeto Quarta Comunicação Nacional – Ações voltadas ao Clima;
+ - Projeto Biogás;
+ - Portaria de incentivo à Nanotecnologia Brasileira;
+ - Laboratório de Materiais Avançados e Minerais Estratégicos;
+ - Estudo de Mapeamento dos Ecossistemas de Fotônica no Brasil;
+ - Enfrentamento ao Derramamento de Óleo na Costa Brasileira;
+ - Decreto de Politica Nacional de Inovação
+ - Renovação da Utilização do Observatório Gemni
+ - Renovação de Utilização do Telescópio SOAR;
+ - Rede de Aparelhos Sismográficos para Monitoramento de Sismos no Fundo Oceânico;
+ - Construção do Instrumento Astronômico J-Pas a 2ª Câmera Astronômica Do Mundo.
+
+## Entregas 2021
 
  - Concessão de 6 Patentes de Tecnologias;
  - Investimento para Qualificação de Pescadores;
@@ -63,6 +108,22 @@ MINISTÉRIO DA CIÊNCIA, TECNOLOGIA E INOVAÇÕES
  - Ampliação do Monitoramento Ambiental na Antártica;
  - Destinação de 100 milhões para Infraestrutura de Laboratórios;
  - Com apoio do MCTI, Pesquisador descobre Exoplanetas.
+
+## Entregas 2022
+
+ - Lançamento da Vacina Brasileira de RNA – COVID-19;
+ - Técnicas para Redução de Valores de Medicamentos;
+ - Testes de Variabilidade da Velocidade da Luz com Observações Cosmológicas;
+ - Projeto de Implantação do Laboratório de Materiais Avançados e Minerais Estratégicos;
+ - Apoio no Desenvolvimento de Tecnologia de Condicionamento de Ar Livre de Gases do Efeito Estufa;
+ - Apoio na Inovação em Diagnóstico Remoto para COVID-19 e outras doenças;
+ - Destinação de R$ 90 milhões para a região Amazônica;
+ - Viabilização da Participação Brasileira no CERN – maior colisor de partículas do mundo;
+ - Desenvolvimento de Portal Unificado para PROUNI, FIES e SISU;
+ - Destinação de R$ 8 milhões para protótipo de Foguete.
+
+
+<hr/>
 
 Compilação: **Rafael Lougon**
 

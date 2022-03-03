@@ -14,3 +14,11 @@ Período: Janeiro/2019 à Fevereiro/2022
 Fonte: [infraestrutura](https://www.gov.br/infraestrutura/pt-br)
 
 [Assessoria de Comunicação Social](/docs/infraestrutura/links)
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes/)
+ - [**Banco Central**](/docs/economia/banco-central)

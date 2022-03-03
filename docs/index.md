@@ -185,6 +185,7 @@ Período: Janeiro/2019 à Fevereiro/2022
 
   - [secom](https://www.gov.br/secom/pt-br)
 
+
 ## 5,5 mil Obras e Projetos em 2021
 
 O Governo Federal finalizou 2021 com 5,5 mil obras e projetos entregues à população em todas as regiões do país. São ações de pequeno, médio e grande porte que receberam R$ 10,6 BILHÕES em investimentos, incluindo Orçamento Geral da União e financiamentos.
@@ -257,6 +258,16 @@ Foram investidos R$ 49 BILHÕES no setor de Habitação, com obras sendo conclu�
 Ministério do Desenvolvimento Regional
 SecomVc
  - [Presidente Bolsonaro](https://t.me/jairbolsonarobrasil/3369)
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes/)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Banco Central**](/docs/economia/banco-central)
+
 
 ## Principais Destaques e Entregas
 

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 1
 ---
 # 10 Fatos Recentes da Economia 
 
@@ -37,3 +37,11 @@ Compilação: **Rafael Lougon**
  - [desempenho-fiscal-2021-e-comparacao-internacional](https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes/conjuntura-economica/estudos-economicos/2022/ni-desempenho-fiscal-2021-e-comparacao-internacional.pdf/view)
 
  - [trajetorias-com-e-sem-reformas](https://www.gov.br/fazenda/pt-br/centrais-de-conteudos/publicacoes/conjuntura-economica/estudos-economicos/2022/ni-trajetorias-com-e-sem-reformas.pdf/view)
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Banco Central**](/docs/economia/banco-central)

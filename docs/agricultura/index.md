@@ -63,3 +63,11 @@ Compilação: **Rafael Lougon**
  - [entregasdogoverno](https://www.entregasdogoverno.com/2022/02/ministerio-da-agricultura-principais_27.html)
 
  - [retrospectiva-2021](https://www.gov.br/agricultura/pt-br/campanhas/retrospectiva-2021) 
+
+## Entregas por Ministério/Instituição
+
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes/)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Banco Central**](/docs/economia/banco-central)

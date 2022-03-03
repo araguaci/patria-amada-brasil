@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 2
 ---
 
 # Banco Central
@@ -204,3 +204,12 @@ Aperfeiçoamento do Processo de Supervisão de Risco Social, Ambiental e Climát
  - [**Rafael Lougon**](https://www.entregasdogoverno.com/2022/03/banco-central-principais-entregas.html)
  - Colaborou nesta Lista: 
    - Renato Neto - Servidor Publico Federal do BACEN.
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes/)
+ - [**Infraestutura**](/docs/infraestrutura)
+ 

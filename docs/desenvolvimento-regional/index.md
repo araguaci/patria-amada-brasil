@@ -401,3 +401,12 @@ sidebar_position: 9
 Fonte: [Ministério do Desenvolvimento Regional](https://www.gov.br/mdr/pt-br/search?SearchableText=entregou)
 
 [Assessoria de Comunicação Social](/docs/desenvolvimento-regional/links)
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
+ - [**Economia**](/docs/economia/fatos-recentes/)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Banco Central**](/docs/economia/banco-central)
+

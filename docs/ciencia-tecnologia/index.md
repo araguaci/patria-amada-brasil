@@ -58,7 +58,6 @@ O ministro Marcos Pontes concluiu o balanço das ações falando sobre a economi
 Categoria
 
 Ciência e Tecnologia
-
 ## Tags
  - [CIDADES INTELIGENTES](https://www.gov.br/mcti/pt-br/@@search?Subject%3Alist=CIDADES%20INTELIGENTES)
  - [ENERGIAS RENOVÁVEIS](https://www.gov.br/mcti/pt-br/@@search?Subject%3Alist=ENERGIAS%20RENOV%C3%81VEIS)
@@ -71,3 +70,10 @@ Ciência e Tecnologia
  - [Twitter](https://twitter.com/share?text=S%C3%A9rie%20%E2%80%9CRealiza%C3%A7%C3%B5es%202021%E2%80%9D%20traz%20iniciativas%20do%20MCTI%20em%20Tecnologias%20para%20o%20Desenvolvimento%20Sustent%C3%A1vel&url=https://www.gov.br/mcti/resolveuid/6fbdb3d05179412caffca39fcfa5bc93 "Twitter") 
  - [Fonte](https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/noticias/2021/12/serie-201crealizacoes-2021201d-traz-iniciativas-do-mcti-em-tecnologias-para-o-desenvolvimento-sustentavel "ir para fonte")
 
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes/)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Banco Central**](/docs/economia/banco-central)
