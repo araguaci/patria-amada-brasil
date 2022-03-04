@@ -37,7 +37,7 @@ MINISTÉRIO DA INFRAESTRUTURA JÁ SOMA MAIS DE 10 ENTREGAS NO INÍCIO DE 2022: (
 
 - 23/02 - Restauração de 21,7 km da BR-280/SC, em Canoinhas;
 
-- 24/2 - Entrega da Travessia Urbana de São José do Rio Preto, na BR-153/SP;
+- 24/02 - Entrega da Travessia Urbana de São José do Rio Preto, na BR-153/SP;
 
 - 25/02 - Restauração de 18 km de pista no lote 1 da BR-470/SC, no Vale do Itajai;
 
