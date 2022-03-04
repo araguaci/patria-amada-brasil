@@ -58,3 +58,8 @@ Lista de tributos reduzidos pelo governo
 ## Fonte 2021, 2020, 2019
 
  - [Brasil Agora](https://brasilagora.net.br/saiba-todos-os-impostos-reduzidos-ou-zerados-pelo-governo-bolsonaro/)
+
+## SECOM
+
+ - [Presidente divulga novos produtos com impostos zerados](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2019/09/impostos-zerados)
+ - [Governo trabalha para redução de impostos nos preços dos combustíveis](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2021/02/governo-trabalha-para-reducao-de-impostos-nos-precos-dos-combustiveis)
