@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Minas e Energia - Principais Entregas
+# Principais Entregas Minas e Energia
 
 Período: de Janeiro/2019 à Fevereiro/2022
 
@@ -64,4 +64,17 @@ O MME aprovou a Nova Lei do Gás, que já aumentou a produção de gás natural 
 
 ## Compilação
 
- - [0Rafael Lougon](https://www.entregasdogoverno.com/2022/03/ministerio-de-minas-e-energia.html)
+ - [Rafael Lougon](https://www.entregasdogoverno.com/2022/03/ministerio-de-minas-e-energia.html)
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Amazônia**](/docs/amazonia)
+ - [**Banco Central**](/docs/economia/banco-central)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/entregas)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Meio Ambiente**](/docs/meioambiente/)
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
+ - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
