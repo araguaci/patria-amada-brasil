@@ -16,7 +16,7 @@ Lista de tributos reduzidos pelo governo
  5. Redução de 10% da TEC (Tarifa Externa Comum) do MERCOSUL;
  6. Redução de 25% do IPI (Imposto sobre Produtos Industrializados)
 
-## Compilação
+### Compilação
 
 > Se a velha mídia não te mostra, nós te mostramos. Reunimos todas as entregas do governo Bolsonaro.
 
@@ -55,7 +55,7 @@ Lista de tributos reduzidos pelo governo
  - Imposto de importação de Soja e Milho zerados até janeiro de 2021;
  - Nova redução de impostos sobre jogos eletrônicos e videogames;
 
-## Fonte 2021, 2020, 2019
+### Fonte 2021, 2020, 2019
 
  - [Brasil Agora](https://brasilagora.net.br/saiba-todos-os-impostos-reduzidos-ou-zerados-pelo-governo-bolsonaro/)
 
