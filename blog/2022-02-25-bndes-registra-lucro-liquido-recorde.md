@@ -86,7 +86,22 @@ Fundado em 1952 e atualmente vinculado ao Ministério da Economia, o BNDES é o 
 *   [Declaração do Imposto de Renda 2022 vai de 7 de março a 29 de abril](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/declaracao-do-imposto-de-renda-2022-vai-de-7-de-marco-a-29-de-abril)
 *   [Parcerias de investimentos impulsionarão projetos de R$ 1,3 trilhão em 30 anos](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/parcerias-de-investimentos-impulsionarao-projetos-de-r-1-3-trilhao-em-30-anos)
 
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Amazônia**](/docs/amazonia)
+ - [**Banco Central**](/docs/economia/banco-central)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/entregas)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Meio Ambiente**](/docs/meioambiente/)
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
+ - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
+
 ## Compartilhe: 
  - [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo) 
  - [Twitter](https://twitter.com/share?text=BNDES%20registra%20lucro%20l%C3%ADquido%20recorde%20em%202021%20e%20passa%20a%20ter%20a%20maior%20carteira%20de%20concess%C3%B5es%20de%20infraestrutura%20do%20mundo&url=https://www.gov.br/resolveuid/ad3d946366a848eebb596f41997cf2b0) 
  - [Fonte](https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo)
+

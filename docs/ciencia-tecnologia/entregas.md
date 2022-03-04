@@ -134,10 +134,11 @@ Compilação: **Rafael Lougon**
 ## Entregas por Ministério/Instituição
 
  - [**Agricultura**](/docs/agricultura)
+ - [**Amazônia**](/docs/amazonia)
  - [**Banco Central**](/docs/economia/banco-central)
  - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
  - [**Economia**](/docs/economia/fatos-recentes)
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
-
+ - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)

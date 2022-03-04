@@ -208,11 +208,11 @@ Aperfeiçoamento do Processo de Supervisão de Risco Social, Ambiental e Climát
 ## Entregas por Ministério/Instituição
 
  - [**Agricultura**](/docs/agricultura)
- - [**Banco Central**](/docs/economia/banco-central)
+ - [**Amazônia**](/docs/amazonia)
  - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/entregas)
  - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
- - [**Economia - Balanços e Perspectivas**](/docs/economia/index.md)
+ - [**Economia**](/docs/economia/fatos-recentes)
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
- 
+ - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)

@@ -269,7 +269,9 @@ SecomVc
  - [**Economia**](/docs/economia/fatos-recentes)
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
- - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional) 
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
+ - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
+
 
 ## Principais Destaques 
 
