@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Minas e Energia - Principais Entrgas
+# Minas e Energia - Principais Entregas
 
 Período: de Janeiro/2019 à Fevereiro/2022
 
