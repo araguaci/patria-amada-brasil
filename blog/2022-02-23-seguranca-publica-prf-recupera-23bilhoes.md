@@ -1,14 +1,12 @@
 ---
 slug: 2022-02-23-seguranca-publica-prf-recupera-23bilhoes
 title: PRF recupera R$ 23,1 bilhões em apreensões relacionadas ao crime organizado
-author: govbr
+author: SECON
 author_title: SECON
 author_url: https://www.gov.br/secom/pt-br/assuntos/noticias/2022/02/prf-recupera-r-23-1-bilhoes-em-apreensoes-relacionadas-ao-crime-organizado
 author_image_url: /img/nossobrasil.png
 tags: [prf, segurançapública, crimeorganizado]
 ---
-
-## PRF recupera R$ 23,1 bilhões em apreensões relacionadas ao crime organizado
 
 Em Cerimônia de Entregas Institucionais, a PRF apresentou ainda uma série de medidas que vão trazer benefícios para a população
 

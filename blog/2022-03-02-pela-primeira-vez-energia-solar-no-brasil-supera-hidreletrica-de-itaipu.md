@@ -1,7 +1,7 @@
 ---
 slug: 2022-03-02-pela-primeira-vez-energia-solar-no-brasil-supera-hidreletrica-de-itaipu
 title: Pela primeira vez, energia solar no Brasil supera hidrelétrica de Itaipu
-author: govbr
+author: Exame
 author_title: Exame
 author_url: https://onovonormal.blog/2022/03/02/pela-primeira-vez-energia-solar-no-brasil-supera-hidreletrica-de-itaipu/
 author_image_url: /img/nossobrasil.png
