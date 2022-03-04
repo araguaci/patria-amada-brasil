@@ -262,14 +262,16 @@ SecomVc
 ## Entregas por Ministério/Instituição
 
  - [**Agricultura**](/docs/agricultura)
- - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
- - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
- - [**Economia**](/docs/economia/fatos-recentes/)
- - [**Infraestutura**](/docs/infraestrutura)
+ - [**Amazônia**](/docs/amazonia)
  - [**Banco Central**](/docs/economia/banco-central)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/entregas)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Meio Ambiente**](/docs/meioambiente/)
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional) 
 
-
-## Principais Destaques e Entregas
+## Principais Destaques 
 
 *   [BNDES registra lucro líquido recorde em 2021](/blog/2022-02-25-bndes-registra-lucro-liquido-recorde)
 *   [Correios registra maior lucro dos últimos 10 anos](/blog/2021-05-11-correios-registra-maior-lucro-dos-ultimos-10-anos)

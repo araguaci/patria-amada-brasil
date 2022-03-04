@@ -37,6 +37,7 @@ html[data-theme="dark"] {
     hue-rotate(149deg) brightness(99%) contrast(95%);
   --ifm-code-background: hsla(160, 100%, 10%, 0.1);
 }
+
 .docusaurus-highlight-code-line {
   background-color: rgba(0, 51, 34, 0.1);
   display: block;
@@ -46,6 +47,14 @@ html[data-theme="dark"] {
 
 html[data-theme="dark"] {
   background-color: rgba(34, 86, 37, 0.6);
+}
+
+.featureSvg[data-theme="dark"] {
+  background-image: linear-gradient(
+    rgba(0, 92, 211, 0.8),
+    rgba(255, 255, 255, 0.8),
+    rgba(0, 92, 211, 0.8)
+  ) !important;
 }
 
 /*
@@ -63,7 +72,7 @@ html[data-theme="dark"], html[data-theme="dark"] .docusaurus-highlight-code-line
 }
 
 .footer {
-  background-color: #00130c;
+  background-color: hsl(134, 71%, 17%);
   color: var(--ifm-footer-color);
   padding: var(--ifm-footer-padding-vertical)
     var(--ifm-footer-padding-horizontal);

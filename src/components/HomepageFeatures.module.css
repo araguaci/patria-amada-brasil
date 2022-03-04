@@ -20,15 +20,13 @@
   );
 }
 
-
-.featureSvg[data-theme="dark"] {
+html[data-theme="dark"] .featureSvg {
   background-image: linear-gradient(
-    rgba(0, 92, 211, 0.8),
+    rgba(255, 235, 59, 0.8),
     rgba(255, 255, 255, 0.8),
-    rgba(0, 92, 211, 0.8)
-  ) !important;
+    rgba(255, 235, 59, 0.8)
+  );
 }
-
 
 .featureSvg:hover {
   padding: 0px;

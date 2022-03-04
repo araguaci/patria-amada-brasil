@@ -130,3 +130,14 @@ Compilação: **Rafael Lougon**
 > Se a velha mídia não te mostra, nós te mostramos. Reunimos todas as entregas do governo Bolsonaro.
 
  - [Fonte](https://www.entregasdogoverno.com/2022/02/ministerio-da-ciencia-tecnologia-e.html)
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Banco Central**](/docs/economia/banco-central)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Meio Ambiente**](/docs/meioambiente/)
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
+

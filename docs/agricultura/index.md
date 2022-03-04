@@ -66,8 +66,8 @@ Compilação: **Rafael Lougon**
 
 ## Entregas por Ministério/Instituição
 
- - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/entregas)
  - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
- - [**Economia**](/docs/economia/fatos-recentes/)
+ - [**Economia**](/docs/economia/fatos-recentes)
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Banco Central**](/docs/economia/banco-central)

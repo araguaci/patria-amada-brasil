@@ -41,7 +41,11 @@ Compilação: **Rafael Lougon**
 ## Entregas por Ministério/Instituição
 
  - [**Agricultura**](/docs/agricultura)
- - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/)
- - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
- - [**Infraestutura**](/docs/infraestrutura)
  - [**Banco Central**](/docs/economia/banco-central)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/entregas)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia - Balanços e Perpectivas**](/docs/economia/)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Meio Ambiente**](/docs/meioambiente/)
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
+
