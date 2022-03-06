@@ -77,4 +77,4 @@ O MME aprovou a Nova Lei do Gás, que já aumentou a produção de gás natural 
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
- - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
+ - [**Tributos Reduzidos**](/docs/tributos-reduzidos)

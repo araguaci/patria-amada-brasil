@@ -74,7 +74,7 @@ Compilação: **Rafael Lougon**
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
- - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
+ - [**Tributos Reduzidos**](/docs/tributos-reduzidos)
 
 ## Principais Destaques 
 

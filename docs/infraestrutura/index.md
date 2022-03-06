@@ -107,4 +107,4 @@ MINISTÉRIO DA INFRAESTRUTURA JÁ SOMA MAIS DE 10 ENTREGAS NO INÍCIO DE 2022: (
  - [**Economia**](/docs/economia/fatos-recentes)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
- - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
+ - [**Tributos Reduzidos**](/docs/tributos-reduzidos)

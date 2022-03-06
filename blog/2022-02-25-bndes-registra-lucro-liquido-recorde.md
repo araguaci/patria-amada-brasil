@@ -98,7 +98,7 @@ Fundado em 1952 e atualmente vinculado ao Ministério da Economia, o BNDES é o 
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
- - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
+ - [**Tributos Reduzidos**](/docs/tributos-reduzidos)
 
 ## Compartilhe: 
  - [Facebook](http://www.facebook.com/sharer.php?u=https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/2022/02/bndes-registra-lucro-liquido-recorde-em-2021-e-passa-a-ter-a-maior-carteira-de-concessoes-de-infraestrutura-do-mundo) 

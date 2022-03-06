@@ -215,4 +215,4 @@ Aperfeiçoamento do Processo de Supervisão de Risco Social, Ambiental e Climát
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
- - [**Tributos Reduzidos**](../build/docs/tributos-reduzidos)
+ - [**Tributos Reduzidos**](/docs/tributos-reduzidos)
