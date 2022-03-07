@@ -4,19 +4,6 @@ sidebar_position: 6
 # Tributos Reduzidos 
 
 Desde de sua posse para Presidente Bolsonaro reduziu impostos de diversos itens que vai da área da tecnologia e games a áreas de mais importância como a da Saúde.
-
-<div className="video-container">
-    <iframe
-        width="100%"
-        height="350"
-        src="https://www.youtube.com/embed/n9f82hnk4kg"
-        title="Pátria Amada Brasil"
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowFullScreen
-    />
-</div>
-
 ## 2022
 
 Lista de tributos reduzidos pelo governo
@@ -75,6 +62,19 @@ Lista de tributos reduzidos pelo governo
  - [Brasil Agora](https://brasilagora.net.br/saiba-todos-os-impostos-reduzidos-ou-zerados-pelo-governo-bolsonaro/)
 
 ## SECOM
+
+
+<div className="video-container">
+    <iframe
+        width="100%"
+        height="350"
+        src="https://www.youtube.com/embed/n9f82hnk4kg"
+        title="Pátria Amada Brasil"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+    />
+</div>
 
  - [Presidente divulga novos produtos com impostos zerados](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2019/09/impostos-zerados)
  - [Governo trabalha para redução de impostos nos preços dos combustíveis](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2021/02/governo-trabalha-para-reducao-de-impostos-nos-precos-dos-combustiveis)
