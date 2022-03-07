@@ -28,7 +28,7 @@ Lista de tributos reduzidos pelo governo
  5. Redução de 10% da TEC (Tarifa Externa Comum) do MERCOSUL;
  6. Redução de 25% do IPI (Imposto sobre Produtos Industrializados)
  7. 18% para os semidesmontados (SKD)
-    1. Governo do Brasil realiza nova rodada e zera imposto de importação de mais 30 produtos para o setor aeronáutico e outros. [mais detalhes...](/blob/2022-03-06-reducao-impostos)
+    1. Governo do Brasil realiza nova rodada e zera imposto de importação de mais 30 produtos para o setor aeronáutico e outros. [mais detalhes...](/blog/2022-03-06-reducao-impostos)
  8. 16% para bem completamente desmontado (CKD)
 
 ### Compilação
