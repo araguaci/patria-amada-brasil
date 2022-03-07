@@ -130,28 +130,119 @@ export default function MaisBrasil() {
                   </p>{" "}
                 </td>{" "}
               </tr>{" "}
+              <tr>
+                <td>
+                  <div className="video-container">
+                    <iframe
+                      width="300"
+                      height="200"
+                      src="https://www.youtube.com/embed/mxwrcoYWy3I"
+                      title="Regularização Fundiária"
+                      frameBorder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                    />
+                  </div>{" "}
+                  <p>
+                  Regularização Fundiária: em 2021, o INCRA emitiu mais de 137 mil títulos. A meta do ano era 130 mil.
+                  </p>{" "}
+                </td>{" "}
+                <td>
+                  <div className="video-container">
+                    <iframe
+                      width="300"
+                      height="200"
+                      src="https://www.youtube.com/embed/zATLLew8qBk"
+                      title="Auxílio Emergencial do Governo Federal"
+                      frameBorder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                    />
+                  </div>{" "}
+                  <p>
+                  O Senhor Jhow chegou em Brasília em 1993. Tratorista, pedreiro, cabeleireiro. Foi impactado pelo "fecha-tudo" imposto por governadores e prefeitos, mas, com o Auxílio Emergencial do Governo Federal, Jhow não apenas manteve a dignidade e a esperança, comotambém pôde empreender, abrindo sua barbearia.
+                  </p>{" "}
+                </td>{" "}
+              </tr>{" "}
             </tbody>{" "}
           </table>{" "}
         </div>
-		
-		https://www.youtube.com/watch?v=mxwrcoYWy3I
-		Regularização Fundiária: em 2021, o INCRA emitiu mais de 137 mil títulos. A meta do ano era 130 mil.
-		
-		https://www.youtube.com/watch?v=zATLLew8qBk
-		O Senhor Jhow chegou em Brasília em 1993. Tratorista, pedreiro, cabeleireiro. Foi impactado pelo "fecha-tudo" imposto por governadores e prefeitos, mas, com o Auxílio Emergencial do Governo Federal, Jhow não apenas manteve a dignidade e a esperança, comotambém pôde empreender, abrindo sua barbearia.
+        
 		
         <div className="margin-bottom--lg">
-          <h3 id="legacy"> Legacy  </h3>{" "}
+          <h3 id="legacy"> Mais Brasil, Menos Brasília  </h3>{" "}
           <p>
-            Here you can find documentation for legacy version of Docusaurus.{" "}
+          Entregas por Ministério/Instituição.{" "}
           </p>{" "}
           <table>
             <tbody>
               <tr>
-                <th> 1. x </th>{" "}
                 <td>
-                  <Link href="https://v1.docusaurus.io/docs/en/installation">
-                    Link{" "}
+                  <Link href="/docs/agricultura">
+                  Agricultura{" "}
+                  </Link>{" "}
+                </td>{" "}
+              </tr>
+              <tr>
+                <td>
+                  <Link href="/docs/amazonia">
+                  Amazônia{" "}
+                  </Link>{" "}
+                </td>{" "}
+                </tr>
+              <tr>
+                <td>
+                  <Link href="/docs/economia/banco-central">
+                  Banco Central{" "}
+                  </Link>{" "}
+                </td>{" "}
+                </tr>
+              <tr>
+                <td>
+                  <Link href="/docs/ciencia-tecnologia/entregas">
+                  Ciência, Tecnologia e Inovações{" "}
+                  </Link>{" "}
+                </td>{" "}
+                </tr>
+              <tr>
+                <td>
+                  <Link href="/docs/desenvolvimento-regional">
+                  Desenvolvimento Regional{" "}
+                  </Link>{" "}
+                </td>{" "}
+                </tr>
+              <tr>
+                <td>
+                  <Link href="/docs/economia/fatos-recentes">
+                  Economia{" "}
+                  </Link>{" "}
+                </td>{" "}
+                </tr>
+                <tr>
+                <td>
+                  <Link href="/docs/infraestrutura">
+                  Infraestutura{" "}
+                  </Link>{" "}
+                </td>{" "}
+              </tr>{" "}
+              <tr>
+                <td>
+                  <Link href="/docs/meioambiente">
+                  Meio Ambiente{" "}
+                  </Link>{" "}
+                </td>{" "}
+              </tr>{" "}
+              <tr>
+                <td>
+                  <Link href="/blog/2022-03-02-soberania-nacional">
+                  Soberania Nacional{" "}
+                  </Link>{" "}
+                </td>{" "}
+              </tr>{" "}
+              <tr>
+                <td>
+                  <Link href="/docs/tributos-reduzidos">
+                  Tributos Reduzidos{" "}
                   </Link>{" "}
                 </td>{" "}
               </tr>{" "}
