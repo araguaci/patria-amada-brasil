@@ -1,64 +1,75 @@
 /* stylelint-disable docusaurus/copyright-header */
 
+
 /**
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
 
 .heroBanner {
-  padding: 2rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
+    padding: 2rem 0;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
 }
 
 @media screen and (max-width: 966px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+    .heroBanner {
+        padding: 2rem;
+    }
 }
 
 .heroBanner {
-  background-image: linear-gradient(rgba(0, 139, 0, 0.5), rgba(0, 92, 211, 0.5)),
-    url(/img/patriaamadabr.jpg) !important;
-  background-size: 100%;
-  background-position: 0px;
-  /*opacity: 0.1;*/
+    background-image: linear-gradient(rgba(0, 139, 0, 0.5), rgba(0, 92, 211, 0.5)), url(/img/patriaamadabr.jpg) !important;
+    background-size: 100%;
+    background-position: 0px;
+    /*opacity: 0.1;*/
 }
 
 .heroBanner:hover {
-  background-image: linear-gradient(rgba(0, 139, 0, 0.5), rgba(0, 92, 211, 0.5)),
-    url(/img/patriaamadabr.jpg) !important;
-  /* Firefox */
-  -moz-transition: all 3s ease-in;
-  /* WebKit */
-  -webkit-transition: all 3s ease-in;
-  /* Opera */
-  -o-transition: all 3s ease-in;
-  /* Standard */
-  transition: all 3s ease-in;
+    background-image: linear-gradient(rgba(0, 139, 0, 0.5), rgba(0, 92, 211, 0.5)), url(/img/patriaamadabr.jpg) !important;
+    /* Firefox */
+    -moz-transition: all 3s ease-in;
+    /* WebKit */
+    -webkit-transition: all 3s ease-in;
+    /* Opera */
+    -o-transition: all 3s ease-in;
+    /* Standard */
+    transition: all 3s ease-in;
 }
 
 .headerbg {
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
 }
 
 .hero__subtitle,
 .hero__title {
-  font-weight: bold;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  background-image: linear-gradient(
-    165deg,
-    rgba(0, 139, 0, 0.5),
-    #ffed00,
-    white
-  ) !important;
-  filter: drop-shadow(0.03em 0.03em 0.03em black) !important;
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient( 165deg, rgba(0, 139, 0, 0.5), #ffed00, white) !important;
+    filter: drop-shadow(0.03em 0.03em 0.03em black) !important;
 }
+
 .hero__subtitle {
-  font-size: 30px;
+    font-size: 30px;
+}
+
+.gradient-page {
+    --text-opacity: 1;
+    color: #015AAA;
+    color: rgba(255, 255, 255, var(--text-opacity));
+    background-position: 100% 100%;
+    background-image: url(/img/patriaamadabrail.svg), linear-gradient(125deg, #01652F 0%, #FFF101 100%);
+}
+
+.gradient_title {
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-image: linear-gradient( 165deg, #ffed00, rgba(0, 139, 0, 0.5), #1976d2) !important;
+    filter: drop-shadow(0.03em 0.03em 0.03em #015AAA) !important;
 }

@@ -2,9 +2,6 @@
 title: Mais Brasil
 ---
 
-# Mais Brasil 
-
-
 | Property | Type | Required | Description |
 | --- | --- | --- | --- |
 | name | `string` | true | The name of the command. |
@@ -23,6 +20,9 @@ The above information holds for `@SubCommand()` as well, though `default` under 
 #### @Option()
 
 This method decorator allows for users to pass in extra options for commands defined with `@Command()`. These options allow for the program to act in slightly different, yet predictable ways.
+O Residencial Esperança III e IV foi o primeiro empreendimento dedicado a famílias de baixa renda a ser inaugurado no município. Compromisso do Governo do Brasil com a população mineira.
+
+
 
 | Property | Type | Required | Description |
 | --- | --- | --- | --- |

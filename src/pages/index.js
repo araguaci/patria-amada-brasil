@@ -46,10 +46,11 @@ function HomepageHeader() {
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
+  /** {`${siteConfig.title}`} */
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="Melhorias e Entregas do Governo Federal"
+      title="Melhorias e Entregas do Governo Federal"
+      description="Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa"
     >
       <HomepageHeader />
       <main>

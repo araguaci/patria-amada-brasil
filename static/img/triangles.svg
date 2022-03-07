@@ -1,0 +1,89 @@
+<svg width="900" height="600" xmlns="http://www.w3.org/2000/svg">
+  <g stroke-width=".1" stroke-linejoin="bevel" stroke="#7db4f7">
+    <path d="m446 283 2-45-77.5-23Z" fill="#01652F" />
+    <path d="m370.5 215-73 64 148.5 4Z" fill="#1977f2" />
+    <path d="m448 238-83.5-86 6 63Z" fill="#015AAA" />
+    <path d="M370.5 215 252 261l45.5 18Z" fill="#1a7bf2" />
+    <path d="m396 410 131.5-105-81.5-22Z" fill="#1b7cf2" />
+    <path d="m446 283 81.5 22-79.5-67Z" fill="#015825" />
+    <path d="m448 238 41-112-124.5 26Z" fill="#FFF101" />
+    <path d="M364.5 152 252 261l118.5-46Z" fill="#1a72f2" />
+    <path d="M283.5 365 396 410l-98.5-131Z" fill="#FFFFFF" />
+    <path d="M297.5 279 396 410l50-127Z" fill="#FFF101" />
+    <path d="m252 261 31.5 104 14-86Z" fill="#1978f2" />
+    <path d="M588.5 251 489 126l-41 112Z" fill="#FFFFFF" />
+    <path d="m527.5 305 61-54L448 238Z" fill="#1b7cf2" />
+    <path d="M364.5 152 215 218l37 43Z" fill="#01652F" />
+    <path d="m252 261-52 92 83.5 12Z" fill="#FFF101" />
+    <path d="m139.5 257 60.5 96 52-92Z" fill="#015825" />
+    <path d="m283.5 365 62 137 50.5-92Z" fill="#1a7bf2" />
+    <path d="m698 322-74-85-35.5 14Z" fill="#FFF101" />
+    <path d="m588.5 251 35.5-14-135-111ZM593.5 403l-5-152-61 54Z" fill="#1a7bf2" />
+    <path d="m396 410 197.5-7-66-98Z" fill="#015825" />
+    <path d="m274 548 71.5-46-62-137Z" fill="#FFFFFF" />
+    <path d="m396 410 133.5 84 64-91Z" fill="#1b7cf2" />
+    <path d="m212 59-67.5 158 70.5 1Z" fill="#015AAA" />
+    <path d="m215 218-75.5 39 112.5 4Z" fill="#1978f2" />
+    <path d="m144.5 217-5 40 75.5-39Z" fill="#015825" />
+    <path d="M443 0h-75.5l-3 152Z" fill="#1977f2" />
+    <path d="M364.5 152 212 59l3 159Z" fill="#FFFFFF" />
+    <path d="m443 0-78.5 152L489 126Z" fill="#1a7bf2" />
+    <path d="M603.5 60 443 0l46 126ZM443 546l86.5-52L396 410Z" fill="#01652F" />
+    <path d="M367.5 0 212 59l152.5 93Z" fill="#1976f2" />
+    <path d="M624 237 603.5 60 489 126Z" fill="#015825" />
+    <path d="m345.5 502 97.5 44-47-136ZM529.5 494l93.5-31-29.5-60Z" fill="#015AAA" />
+    <path d="M593.5 403 698 322l-109.5-71Z" fill="#1a7bf2" />
+    <path d="m653 600-30-137-93.5 31Z" fill="#FFF101" />
+    <path d="m696 413 2-91-104.5 81Z" fill="#015AAA" />
+    <path d="m624 237 14-175-34.5-2Z" fill="#01652F" />
+    <path d="M728.5 150 638 62l-14 175Z" fill="#FFFFFF" />
+    <path d="m603.5 60-7-60H443Z" fill="#1978f2" />
+    <path d="m139.5 257-34 113 94.5-17Z" fill="#015825" />
+    <path d="M140.5 498 274 548l9.5-183Z" fill="#FFF101" />
+    <path d="m0 243 105.5 127 34-113Z" fill="#1b7cf2" />
+    <path d="m140.5 498 143-133-83.5-12Z" fill="#FFF101" />
+    <path d="M284.5 600H452l-9-54Z" fill="#1a7bf2" />
+    <path d="M367.5 0H209l3 59Z" fill="#FFF101" />
+    <path d="M212 59 61.5 93l83 124ZM638 62 596.5 0l7 60Z" fill="#01652F" />
+    <path d="m623 463 73-50-102.5-10Z" fill="#1a7bf2" />
+    <path d="M284.5 600 443 546l-97.5-44Z" fill="#FFF101" />
+    <path d="m443 546 94.5 54-8-106Z" fill="#1978f2" />
+    <path d="m623 463 133.5 75L696 413Z" fill="#1976f2" />
+    <path d="m760.5 218-32-68L624 237Z" fill="#01652F" />
+    <path d="m638 62 38-62h-79.5Z" fill="#1976f2" />
+    <path d="M760.5 218 624 237l74 85ZM105.5 370l35 128L200 353Z" fill="#FFF101" />
+    <path d="M224 600h60.5L274 548Z" fill="#1978f2" />
+    <path d="m274 548 10.5 52 61-98Z" fill="#1977f2" />
+    <path d="m784.5 349-24-131L698 322Z" fill="#1a7bf2" />
+    <path d="M452 600h85.5L443 546Z" fill="#1978f2" />
+    <path d="m93.5 0-32 93L212 59Z" fill="#FFFFFF" />
+    <path d="M0 229v14l139.5 14ZM835.5 0H676l52.5 150Z" fill="#1b7cf2" />
+    <path d="M728.5 150 676 0l-38 62ZM140.5 498 224 600l50-52Z" fill="#1a72f2" />
+    <path d="m793.5 430-9-81-88.5 64Z" fill="#015825" />
+    <path d="m696 413 88.5-64-86.5-27Z" fill="#FFFFFF" />
+    <path d="m0 229 139.5 28 5-40Z" fill="#01652F" />
+    <path d="M105.5 370 0 404l140.5 94Z" fill="#015AAA" />
+    <path d="M209 0H93.5L212 59Z" fill="#1a7bf2" />
+    <path d="M61.5 93 0 229l144.5-12Z" fill="#1b7cf2" />
+    <path d="M0 121v108L61.5 93Z" fill="#1976f2" />
+    <path d="M0 0v121l61.5-28Z" fill="#1976f2" />
+    <path d="M537.5 600H653L529.5 494Z" fill="#1b7cf2" />
+    <path d="M0 243v161l105.5-34Z" fill="#1978f2" />
+    <path d="m140.5 498-56 102H224ZM756.5 538l37-108-97.5-17Z" fill="#015AAA" />
+    <path d="m653 600 103.5-62L623 463ZM0 532l84.5 68 56-102Z" fill="#FFFFFF" />
+    <path d="M93.5 0H0l61.5 93ZM0 404v128l140.5-34Z" fill="#1a72f2" />
+    <path d="M900 292v-51l-139.5-23Z" fill="#015AAA" />
+    <path d="M760.5 218 900 78l-171.5 72Z" fill="#015825" />
+    <path d="m900 292-139.5-74 24 131Z" fill="#01652F" />
+    <path d="m900 292-115.5 57 115.5-9Z" fill="#015AAA" />
+    <path d="m900 340-115.5 9 9 81Z" fill="#FFFFFF" />
+    <path d="M900 78 835.5 0l-107 150ZM900 512V340l-106.5 90Z" fill="#01652F" />
+    <path d="M653 600h141.5l-38-62Z" fill="#1978f2" />
+    <path d="M756.5 538 900 512l-106.5-82Z" fill="#FFF101" />
+    <path d="M0 532v68h84.5Z" fill="#01652F" />
+    <path d="M900 241V78L760.5 218Z" fill="#1b7cf2" />
+    <path d="M794.5 600 900 512l-143.5 26Z" fill="#FFFFFF" />
+    <path d="M900 78V0h-64.5Z" fill="#1977f2" />
+    <path d="M794.5 600H900v-88Z" fill="#1b7cf2" />
+  </g>
+</svg>

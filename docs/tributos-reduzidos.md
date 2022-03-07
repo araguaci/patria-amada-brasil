@@ -5,6 +5,18 @@ sidebar_position: 6
 
 Desde de sua posse para Presidente Bolsonaro reduziu impostos de diversos itens que vai da área da tecnologia e games a áreas de mais importância como a da Saúde.
 
+<div className="video-container">
+    <iframe
+        width="100%"
+        height="350"
+        src="https://www.youtube.com/embed/n9f82hnk4kg"
+        title="Pátria Amada Brasil"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+    />
+</div>
+
 ## 2022
 
 Lista de tributos reduzidos pelo governo

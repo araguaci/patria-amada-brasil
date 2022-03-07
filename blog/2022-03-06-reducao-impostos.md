@@ -24,6 +24,18 @@ Governo do Brasil realiza nova rodada e zera imposto de importação de mais 30 
  - ▶️ 18% para os semidesmontados (SKD)
  - ▶️ 16% para bem completamente desmontado (CKD)
 
+<div className="video-container">
+    <iframe
+        width="100%"
+        height="350"
+        src="https://www.youtube.com/embed/n9f82hnk4kg"
+        title="Pátria Amada Brasil"
+        frameBorder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowFullScreen
+    />
+</div>
+
 ## Fonte
 
  - [Governo Federal zera imposto de importação sobre jet-skis, balões e dirigíveis](https://www.gov.br/turismo/pt-br/assuntos/noticias/governo-federal-zera-imposto-de-importacao-sobre-jet-skis-baloes-e-dirigiveis)

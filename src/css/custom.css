@@ -1,61 +1,61 @@
 /* stylelint-disable docusaurus/copyright-header */
+
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
 
+
 /* You can override the default Infima variables here. */
+
 :root[data-theme="dark"] {
-  --ifm-color-primary: #ffed00;
-  --ifm-color-primary-dark: #ffdc00;
-  --ifm-color-primary-darker: #ffcb00;
-  --ifm-color-primary-darkest: #ffba00;
-  --ifm-color-primary-light: #ffef12;
-  --ifm-color-primary-lighter: #fff024;
-  --ifm-color-primary-lightest: #fff237;
-  --ifm-code-font-size: 95%;
+    --ifm-color-primary: #ffed00;
+    --ifm-color-primary-dark: #ffdc00;
+    --ifm-color-primary-darker: #ffcb00;
+    --ifm-color-primary-darkest: #ffba00;
+    --ifm-color-primary-light: #ffef12;
+    --ifm-color-primary-lighter: #fff024;
+    --ifm-color-primary-lightest: #fff237;
+    --ifm-code-font-size: 95%;
 }
 
 html[data-theme="dark"] {
-  --ifm-color-emphasis-0: var(--ifm-color-gray-1000);
-  --ifm-color-emphasis-100: var(--ifm-color-gray-900);
-  --ifm-color-emphasis-200: var(--ifm-color-gray-800);
-  --ifm-color-emphasis-300: var(--ifm-color-gray-700);
-  --ifm-color-emphasis-400: var(--ifm-color-gray-600);
-  --ifm-color-emphasis-500: var(--ifm-color-gray-500);
-  --ifm-color-emphasis-600: var(--ifm-color-gray-400);
-  --ifm-color-emphasis-700: var(--ifm-color-gray-300);
-  --ifm-color-emphasis-800: var(--ifm-color-gray-200);
-  --ifm-color-emphasis-900: var(--ifm-color-gray-100);
-  --ifm-color-emphasis-1000: var(--ifm-color-gray-0);
-  --ifm-background-color: #003322;
-  --ifm-background-surface-color: #003322;
-  --ifm-hover-overlay: rgba(0, 51, 34, 0.05);
-  --ifm-color-content-secondary: rgba(255, 255, 255, 1);
-  --ifm-breadcrumb-separator-filter: invert(64%) sepia(11%) saturate(0%)
-    hue-rotate(149deg) brightness(99%) contrast(95%);
-  --ifm-code-background: hsla(160, 100%, 10%, 0.1);
+    --ifm-color-emphasis-0: var(--ifm-color-gray-1000);
+    --ifm-color-emphasis-100: var(--ifm-color-gray-900);
+    --ifm-color-emphasis-200: var(--ifm-color-gray-800);
+    --ifm-color-emphasis-300: var(--ifm-color-gray-700);
+    --ifm-color-emphasis-400: var(--ifm-color-gray-600);
+    --ifm-color-emphasis-500: var(--ifm-color-gray-500);
+    --ifm-color-emphasis-600: var(--ifm-color-gray-400);
+    --ifm-color-emphasis-700: var(--ifm-color-gray-300);
+    --ifm-color-emphasis-800: var(--ifm-color-gray-200);
+    --ifm-color-emphasis-900: var(--ifm-color-gray-100);
+    --ifm-color-emphasis-1000: var(--ifm-color-gray-0);
+    --ifm-background-color: #003322;
+    --ifm-background-surface-color: #003322;
+    --ifm-hover-overlay: rgba(0, 51, 34, 0.05);
+    --ifm-color-content-secondary: rgba(255, 255, 255, 1);
+    --ifm-breadcrumb-separator-filter: invert(64%) sepia(11%) saturate(0%) hue-rotate(149deg) brightness(99%) contrast(95%);
+    --ifm-code-background: hsla(160, 100%, 10%, 0.1);
 }
 
 .docusaurus-highlight-code-line {
-  background-color: rgba(0, 51, 34, 0.1);
-  display: block;
-  margin: 0 calc(-1 * var(--ifm-pre-padding));
-  padding: 0 var(--ifm-pre-padding);
+    background-color: rgba(0, 51, 34, 0.1);
+    display: block;
+    margin: 0 calc(-1 * var(--ifm-pre-padding));
+    padding: 0 var(--ifm-pre-padding);
 }
 
 html[data-theme="dark"] {
-  background-color: rgba(34, 86, 37, 0.6);
+    background-color: rgba(34, 86, 37, 0.6);
 }
 
 .featureSvg[data-theme="dark"] {
-  background-image: linear-gradient(
-    rgba(0, 92, 211, 0.8),
-    rgba(255, 255, 255, 0.8),
-    rgba(0, 92, 211, 0.8)
-  ) !important;
+    background-image: linear-gradient( rgba(0, 92, 211, 0.8), rgba(255, 255, 255, 0.8), rgba(0, 92, 211, 0.8)) !important;
 }
+
 
 /*
 html[data-theme="dark"], html[data-theme="dark"] .docusaurus-highlight-code-line {
@@ -65,110 +65,88 @@ html[data-theme="dark"], html[data-theme="dark"] .docusaurus-highlight-code-line
 */
 
 .footer--dark {
-  --ifm-footer-background-color: #00130c;
-  --ifm-footer-color: var(--ifm-footer-link-color);
-  --ifm-footer-link-color: var(--ifm-color-secondary);
-  --ifm-footer-title-color: var(--ifm-color-white);
+    --ifm-footer-background-color: #00130c;
+    --ifm-footer-color: var(--ifm-footer-link-color);
+    --ifm-footer-link-color: var(--ifm-color-secondary);
+    --ifm-footer-title-color: var(--ifm-color-white);
 }
 
 .footer {
-  background-color: hsl(134, 71%, 17%);
-  color: var(--ifm-footer-color);
-  padding: var(--ifm-footer-padding-vertical)
-    var(--ifm-footer-padding-horizontal);
+    background-color: hsl(134, 71%, 17%);
+    color: var(--ifm-footer-color);
+    padding: var(--ifm-footer-padding-vertical) var(--ifm-footer-padding-horizontal);
 }
 
 .footer p {
-  color: rgba(255, 235, 59, 1);
+    color: rgba(255, 235, 59, 1);
 }
 
 .navbar[data-theme="dark"] {
-  background-color: #00130c !important;
+    background-color: #00130c !important;
 }
 
 code {
-  background-color: transparent !important;
-  border: none;
+    background-color: transparent !important;
+    border: none;
 }
 
 .buttongradiente {
-  background-image: linear-gradient(
-    rgba(0, 139, 0, 1),
-    rgba(255, 235, 59, 1)
-  ) !important;
+    background-image: linear-gradient( rgba(0, 139, 0, 1), rgba(255, 235, 59, 1)) !important;
 }
 
 .rightBottom {
-  display: inline-block;
-  text-decoration: none;
-  color: #fff;
-  font-weight: bold;
-  background-color: rgba(0, 92, 211, 1);
-  border: 1px solid #2d6898;
-  background-image: linear-gradient(
-    bottom,
-    rgb(0, 92, 211) 0%,
-    rgb(97, 155, 203) 100%
-  );
-  background-image: -o-linear-gradient(
-    bottom,
-    rgb(0, 92, 211) 0%,
-    rgb(97, 155, 203) 100%
-  );
-  background-image: -moz-linear-gradient(
-    bottom,
-    rgb(0, 92, 211) 0%,
-    rgb(97, 155, 203) 100%
-  );
-  background-image: -webkit-linear-gradient(
-    bottom,
-    rgb(0, 92, 211) 0%,
-    rgb(97, 155, 203) 100%
-  );
-  background-image: -ms-linear-gradient(
-    bottom,
-    rgb(0, 92, 211) 0%,
-    rgb(97, 155, 203) 100%
-  );
-
-  background-image: -webkit-gradient(
-    linear,
-    left bottom,
-    left top,
-    color-stop(0, rgb(0, 92, 211)),
-    color-stop(1, rgb(97, 155, 203))
-  );
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
-  text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.5);
-  -webkit-box-shadow: 0px 6px 0px #2b638f, 0px 3px 15px rgba(0, 0, 0, 0.4),
-    inset 0px 1px 0px rgba(255, 255, 255, 0.3),
-    inset 0px 0px 3px rgba(255, 255, 255, 0.5);
-  -moz-box-shadow: 0px 6px 0px #2b638f, 0px 3px 15px rgba(0, 0, 0, 0.4),
-    inset 0px 1px 0px rgba(255, 255, 255, 0.3),
-    inset 0px 0px 3px rgba(255, 255, 255, 0.5);
-  box-shadow: 0px 6px 0px #2b638f, 0px 3px 15px rgba(0, 0, 0, 0.4),
-    inset 0px 1px 0px rgba(255, 255, 255, 0.3),
-    inset 0px 0px 3px rgba(255, 255, 255, 0.5);
-  -webkit-transition: all 0.1s ease-in-out;
-  -moz-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
-  -webkit-transform: rotateX(20deg);
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    background-color: rgba(0, 92, 211, 1);
+    border: 1px solid #2d6898;
+    background-image: linear-gradient( bottom, rgb(0, 92, 211) 0%, rgb(97, 155, 203) 100%);
+    background-image: -o-linear-gradient( bottom, rgb(0, 92, 211) 0%, rgb(97, 155, 203) 100%);
+    background-image: -moz-linear-gradient( bottom, rgb(0, 92, 211) 0%, rgb(97, 155, 203) 100%);
+    background-image: -webkit-linear-gradient( bottom, rgb(0, 92, 211) 0%, rgb(97, 155, 203) 100%);
+    background-image: -ms-linear-gradient( bottom, rgb(0, 92, 211) 0%, rgb(97, 155, 203) 100%);
+    background-image: -webkit-gradient( linear, left bottom, left top, color-stop(0, rgb(0, 92, 211)), color-stop(1, rgb(97, 155, 203)));
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px 6px 0px #2b638f, 0px 3px 15px rgba(0, 0, 0, 0.4), inset 0px 1px 0px rgba(255, 255, 255, 0.3), inset 0px 0px 3px rgba(255, 255, 255, 0.5);
+    -moz-box-shadow: 0px 6px 0px #2b638f, 0px 3px 15px rgba(0, 0, 0, 0.4), inset 0px 1px 0px rgba(255, 255, 255, 0.3), inset 0px 0px 3px rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 6px 0px #2b638f, 0px 3px 15px rgba(0, 0, 0, 0.4), inset 0px 1px 0px rgba(255, 255, 255, 0.3), inset 0px 0px 3px rgba(255, 255, 255, 0.5);
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    -webkit-transform: rotateX(20deg);
 }
 
 .rightBottom:active {
-  transition: margin-top 0.3s ease, margin-left 0.3s ease, box-shadow 0.3s ease;
-
-  margin-left: 3px;
-  margin-top: 3px;
-
-  box-shadow: 0px 0px 0px #1976d2, 0px 0px 0px #1976d2, 0px 0px 0px #1976d2,
-    0px 0px 0px #1976d2;
+    transition: margin-top 0.3s ease, margin-left 0.3s ease, box-shadow 0.3s ease;
+    margin-left: 3px;
+    margin-top: 3px;
+    box-shadow: 0px 0px 0px #1976d2, 0px 0px 0px #1976d2, 0px 0px 0px #1976d2, 0px 0px 0px #1976d2;
 }
 
 @media (max-width: 1024px) {
-  .marginButton {
-    margin-bottom: 20px !important;
-  }
+    .marginButton {
+        margin-bottom: 20px !important;
+    }
+}
+
+.gradient-page {
+    --text-opacity: 1;
+    color: #015AAA;
+    color: rgba(255, 255, 255, var(--text-opacity));
+    background-position: 100% 100%;
+    background-image: url(/img/patriaamadabrail.svg), linear-gradient(125deg, #01652F 0%, #FFF101 100%);
+}
+
+.page_table {
+    vertical-align: top;
+}
+
+.page_table td {
+    width: 50%;
+    vertical-align: top;
+    text-align: center;
 }
