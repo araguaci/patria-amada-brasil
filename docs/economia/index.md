@@ -1,12 +1,11 @@
 ---
 sidebar_position: 1
 ---
-
 # Balanço e Perspectivas
 
 Publicado em 23/12/2021 18h01 Atualizado em 21/01/2022 21h16
 
-![ ](https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/principais-acoes-na-area-economica/balanco-e-perspectivas/balanco-e-perspectivas/@@govbr.institucional.banner/c96c125c-8e90-4425-a1da-5cf2f040a3fe/@@images/9ca72445-b145-45d5-a97b-3f49514356cb.png)
+![ ](/img/balanco-governo.png)
 
 Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração de empregos, digitalização de serviços oferecidos à população, melhoria do ambiente de negócios, maior acesso ao crédito às micro e pequenas empresas, controle fiscal, liberação de recursos para a compra de vacinas e insumos contra a Covid-19, redução tarifária e facilitação do comércio são apenas alguns exemplos da atuação do Ministério da Economia na busca por um país mais justo e igualitário. Olhando para a frente, o Brasil conta com mais de R$ 822 bilhões¹ em investimentos, assegurando o crescimento em 2022 e no futuro. Para o ministro Paulo Guedes e sua equipe técnica, mais um ano chega, mas já com a certeza de que dias melhores virão.
 

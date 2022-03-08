@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Principais Entregas',
+    title: 'Entregas do Governo',
     to: "/docs",
     tolabel: "Ver Entregas",
     Svg: require( '../../static/img/balanco-governo-avaliacao.svg').default,

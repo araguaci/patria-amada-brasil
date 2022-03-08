@@ -66,13 +66,17 @@ module.exports = {
                             to: '/docs/agricultura',
                         },
                         {
+                            label: '⚡️ Desenvolvimento Regional',
+                            to: '/docs/desenvolvimento-regional',
+                        },
+                        {
                             label: '⚡️ Ministério da Infraestrutura',
                             to: '/docs/infraestrutura',
                         },
                         {
                             label: '⚡️ Ministério do Turismo',
                             to: '/docs/turismo',
-                        },
+                        },                        
                     ],
                 },
                 {
