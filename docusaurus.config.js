@@ -52,7 +52,7 @@ module.exports = {
                 href: '/',
             },
             links: [{
-                    title: 'Links',
+                    title: 'Entregas por Órgãos do Governo',
                     items: [{
                             label: '⚡️ 1000 dias de Governo',
                             to: '/docs/1000dias',
@@ -62,12 +62,24 @@ module.exports = {
                             to: '/docs',
                         },
                         {
+                            label: '⚡️ Redução de Tributos',
+                            to: '/docs',
+                        },
+                        {
                             label: '⚡️ Ministério da Agricultura',
                             to: '/docs/agricultura',
                         },
                         {
-                            label: '⚡️ Desenvolvimento Regional',
+                            label: '⚡️ Ministério da Ciência e Tecnologia',
+                            to: '/docs/ciencia-tecnologia/entregas',
+                        },                        
+                        {
+                            label: '⚡️ Ministério de Desenvolvimento Regional',
                             to: '/docs/desenvolvimento-regional',
+                        },
+                        {
+                            label: '⚡️ Ministério da Economia',
+                            to: '/docs/economia',
                         },
                         {
                             label: '⚡️ Ministério da Infraestrutura',
