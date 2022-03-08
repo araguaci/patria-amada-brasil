@@ -28,9 +28,9 @@ module.exports = {
                     type: 'doc',
                     docId: 'index',
                     position: 'left',
-                    label: 'Entregas do Governo',
+                    label: '🎯Entregas do Governo',
                 },
-                { to: '/blog', label: 'Destaques', position: 'left' },
+                { to: '/blog', label: '⚡️ Destaques', position: 'left' },
                 { to: '/mais-brasil', label: 'Mais Brasil', position: 'left' },
                 {
                     href: 'https://www.patreon.com/artesdosul',
@@ -54,23 +54,23 @@ module.exports = {
             links: [{
                     title: 'Links',
                     items: [{
-                            label: '1000 dias de Governo',
+                            label: '⚡️ 1000 dias de Governo',
                             to: '/docs/1000dias',
                         },
                         {
-                            label: 'Principais Entregas',
+                            label: '⚡️ Principais Entregas',
                             to: '/docs',
                         },
                         {
-                            label: 'Ministério da Agricultura',
+                            label: '⚡️ Ministério da Agricultura',
                             to: '/docs/agricultura',
                         },
                         {
-                            label: 'Ministério da Infraestrutura',
+                            label: '⚡️ Ministério da Infraestrutura',
                             to: '/docs/infraestrutura',
                         },
                         {
-                            label: 'Ministério do Turismo',
+                            label: '⚡️ Ministério do Turismo',
                             to: '/docs/turismo',
                         },
                     ],
