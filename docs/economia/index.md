@@ -23,8 +23,6 @@ Para o ministro da Economia, Paulo Guedes, 2021 foi o ano da virada. Geração d
 
 **Os dados em investimentos contratados foram atualizados após a gravação do vídeo do ministro da Economia**
 
-![ ](https://www.gov.br/economia/pt-br/acesso-a-informacao/acoes-e-programas/principais-acoes-na-area-economica/balanco-e-perspectivas/balanco-e-perspectivas/@@govbr.institucional.banner/b485da70-6d67-4e78-8231-a3b6f440d283/@@images/6c61435c-c9c0-45a8-953f-46e2e8817fdb.png)
-
 ## Confira os balanços setoriais do ME
 
 ### Tesouro e Orçamento
