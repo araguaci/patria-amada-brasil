@@ -45,3 +45,8 @@ Operação Samaúma ampliou combate a crimes ambientais e ao desmatamento ilegal
 - Entre outros.
 
 [Fonte](https://t.me/jairbolsonarobrasil/3512)
+
+## Amazônia e Terras Indígenas
+
+ - [**A Amazônia não cansa de surpreender**](/blog/2022-03-06-street-rivera-amazonia)
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional) 
