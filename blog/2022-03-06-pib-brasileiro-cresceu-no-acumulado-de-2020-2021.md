@@ -52,3 +52,17 @@ Governo do Brasil
 ## Link
 
 - [Presidente Bolsonaro](https://t.me/jairbolsonarobrasil/3651)
+
+## Entregas por Ministério/Instituição
+
+ - [**Agricultura**](/docs/agricultura)
+ - [**Amazônia**](/docs/amazonia)
+ - [**Banco Central**](/docs/economia/banco-central)
+ - [**Ciência, Tecnologia e Inovações**](/docs/ciencia-tecnologia/entregas)
+ - [**Desenvolvimento Regional**](/docs/desenvolvimento-regional/)
+ - [**Economia**](/docs/economia/fatos-recentes)
+ - [**Infraestutura**](/docs/infraestrutura)
+ - [**Meio Ambiente**](/docs/meioambiente/)
+ - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
+ - [**Tributos Reduzidos**](/docs/tributos-reduzidos)
+
