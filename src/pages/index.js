@@ -54,6 +54,27 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
+      <div
+          className="container"
+          style={{
+            display: "flex",
+            flexGrow: 1,
+            justifyContent: "center",
+            alignItems: "center",
+            marginTop: "2rem",
+            marginBottom: "2rem",
+          }}
+        >
+          <iframe
+            width="640"
+            height="480"
+            src="https://www.youtube.com/embed/BmTpssbukJk"
+            title="Dentro das 4 Linhas"
+            frameBorder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
         <HomepageFeatures />
         <HomepageShare />
       </main>

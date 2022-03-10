@@ -3,6 +3,7 @@ sidebar_position: 100
 ---
 
 # Sobre Pátria Amada Brasil
+
 ## Seja Bem Vindo
 
 **Este é um projeto voluntário.** 
@@ -11,27 +12,7 @@ Por décadas fomos sobrecarregados com uma imensa quantidade de escandalos de co
 
 O que vejo na imprensa é a tentativa de corroer as ações deste governo partindo de pessoas condenadas e de uma impressa que não viu mais de US$ 300 milhões desviados em fraudes, isto somente da Petrobrás. **Motivado pelo desprezo da nossa imprensa com as melhorias conquistadas neste novo governo, resolvi montar este projeto com as principais conquistas e entregas que não são notícia na imprensa.**
 
-
-> "Um competente trabalho da SECOM onde expõe a nova logo marca do Governo Federal. 
-> A parte mais importante é que a divulgação está sendo lançada na internet com custo zero, 
-> economizando mais de R$1,4 mi aos cofres públicos, se a ação fosse realizada pelos canais 
-> tradicionais de TV." 
-> 
-> ~~**Jair Bolsonaro**
-
-<div className="video-container">
-  <iframe
-    width="100%"
-    height="450"
-    src="https://www.youtube.com/embed/vXZv0QD04PQ"
-    title="Pátria Amada Brasil"
-    frameBorder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowFullScreen
-  />
-</div>
-
- # 1000 Dias de Governo
+## 1000 Dias de Governo
 
 [![**1000 Dias de Governo**](/img/balanco-governo-avaliacao.png)](/docs/1000dias) 
 
