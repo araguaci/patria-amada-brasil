@@ -54,7 +54,8 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-      <div
+        <HomepageFeatures />
+		<div
           className="container"
           style={{
             display: "flex",
@@ -75,7 +76,6 @@ export default function Home() {
             allowFullScreen
           />
         </div>
-        <HomepageFeatures />
         <HomepageShare />
       </main>
     </Layout>
