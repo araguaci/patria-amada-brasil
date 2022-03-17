@@ -1,9 +1,13 @@
 ---
 sidebar_position: 2
 ---
+#Fundação Cultural Palmares 
+
+## Principais Entregas
+
 ![ ](https://blogger.googleusercontent.com/img/a/AVvXsEjwM4lOyS2RmKO-KvP7vvbGNGHhm4_7STBxOgUeO9nSJr5L717Fi3zcRL90Xb-khwWJCW1CcW-Xy17vb_1CLZZTypsdG2kJYkKdSHbq5FQgnf2FRW-58a9k8sT1853j_rjOoSVIod8lNe1uyET0Ma6FlNzyw0ys8XgWa-n9onCIZ9PFSNnnXGr_bu4U=s1080)
 
-## Um novo paradigma
+## Um novo Paradigma
 
 Desde 2020, a Palmares vem passando por mudanças radicais. O resultado central dessas mudanças é que a Fundação deixou de ser um braço da militância esquerdista e uma filial do movimento negro, como foi durante suas três décadas de existência. Agora, a Palmares é, finalmente, uma verdadeira Fundação Cultural.
 
