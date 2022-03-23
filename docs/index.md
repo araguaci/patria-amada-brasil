@@ -5,186 +5,188 @@ sidebar_position: 2
 
 ## Balanço do Governo do Presidente Bolsonaro
 
-Período: Janeiro/2019 à Fevereiro/2022
+Período: Janeiro/2019 à Março/2022
 
-  1. Reforma da Previdência
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEiC6cvzmkdV97FvhWjHToK2N29LopmlylGF-oy6xZ4WeZHIxiBlLO5cCPiTydW-y3eFIpo5KmkumoFCcf0jYZoxehYFMZ6356q0X8EGjPklKvSMYwKx5I7eiSIsQAZcA-ovNA_ply0KuJ0Zn4XuZnJjXEP1har7e_GXaNCwvSPhv5cMdoNtJ6XTjZA3=w571-h379)](https://blogger.googleusercontent.com/img/a/AVvXsEiC6cvzmkdV97FvhWjHToK2N29LopmlylGF-oy6xZ4WeZHIxiBlLO5cCPiTydW-y3eFIpo5KmkumoFCcf0jYZoxehYFMZ6356q0X8EGjPklKvSMYwKx5I7eiSIsQAZcA-ovNA_ply0KuJ0Zn4XuZnJjXEP1har7e_GXaNCwvSPhv5cMdoNtJ6XTjZA3)
 
-  2. PEC Emergencial
+  
 
-  3. Marco do Gás
+1) Reforma da Previdência
 
-  4. Nova Lei de Falências
+2) PEC Emergencial
 
-  5. Marco Legal do Saneamento
+3) Marco do Gás
 
-  6. Independência do Banco Central
+4) Nova Lei de Falências
 
-  7. Privatização da Eletrobrás
+5) Marco Legal do Saneamento
 
-  8. Lei da Liberdade Econômica
+6) Independência do Banco Central
 
-  9. Lei Combate à fraude Previdenciária
+7) Privatização da Eletrobrás
 
-  10. Marco Startups
+8) Lei da Liberdade Econômica
 
-  11. Marco Telecom e Agencias de Regulação
+9) Lei Combate à fraude Previdenciária
 
-  12. Privatização da BR Distribuidora
+10) Marco Startups
 
-  13. Início da Privatização dos Correios
+11) Marco Telecom e Agencias de Regulação
 
-  14. Privatização TAG (Petrobras)
+12) Privatização da BR Distribuidora
 
-  15. Privatização da Companhia Energética Manauara
+13) Início da Privatização dos Correios
 
-  16. Digitalização de Serviços
+14) Privatização TAG (Petrobras)
 
-  17. CNH 10 Anos
+15) Privatização da Companhia Energética Manauara
 
-  19. Open Banking
+16) Digitalização de Serviços
 
-  20. Venda Imóveis da União
+17) CNH 10 Anos
 
-  21. Privatização da Termoelétrica Potiguar
+19) Open Banking
 
-  22. Privatização da Gaspetro
+20) Venda Imóveis da União
 
-  23. 80 Leilões - Minfra
+21) Privatização da Termoelétrica Potiguar
 
-  24. Marco das Ferrovias
+22) Privatização da Gaspetro
 
-  25. Marco do câmbio
+23) 80 Leilões - Minfra
 
-  26. Leilão 5G
+24) Marco das Ferrovias
 
-  27. Criação do PIX
+25) Marco do câmbio
 
-  28. Lei das Assinaturas Eletrônicas.
+26) Leilão 5G
 
-  29. +5 mil Obras Entregues
+27) Criação do PIX
 
-  30. +231 mil moradias no Nordeste
+28) Lei das Assinaturas Eletrônicas.
 
-  31. Entrega Transposição S. Francisco
+29) +5 mil Obras Entregues
 
-  32. CNH 40 pontos
+30) +231 mil moradias no Nordeste
 
-  33. FMI - Realocação Inteligente de Recursos Pandemia
+31) Entrega Transposição S. Francisco
 
-  34. Endividamento Patamar Pré-Pandemia
+32) CNH 40 pontos
 
-  35. LC 176/20: Resolução do Passivo Lei Kandir
+33) FMI - Realocação Inteligente de Recursos Pandemia
 
-  36. Marco da Cabotagem (BR do Mar)
+34) Endividamento Patamar Pré-Pandemia
 
-  37. DTe Caminhoneiros
+35) LC 176/20: Resolução do Passivo Lei Kandir
 
-  38. Marco das Garantias
+36) Marco da Cabotagem (BR do Mar)
 
-  39. Convite OCDE
+37) DTe Caminhoneiros
 
-  40. Cadastro Positivo
+38) Marco das Garantias
 
-  41. Nova Lei de Licitações
+39) Convite OCDE
 
-  42. Novo FGTS
+40) Cadastro Positivo
 
-  43. +1000 Obras de Infra Turísticas Concluídas
+41) Nova Lei de Licitações
 
-  44. Auxílio Brasil (R$ 400,00)
+42) Novo FGTS
 
-  45. Disque Direitos Humanos (Disque 100)
+43) +1000 Obras de Infra Turísticas Concluídas
 
-  46. Central de Atendimento à Mulher (Ligue 180)
+44) Auxílio Brasil (R$ 400,00)
 
-  47. Programa Viver - Envelhecimento Ativo e Saudável
+45) Disque Direitos Humanos (Disque 100)
 
-  48. Nova Lei Rouneat
+46) Central de Atendimento à Mulher (Ligue 180)
 
-  49. Programa Lixão Zero
+47) Programa Viver - Envelhecimento Ativo e Saudável
 
-  50. +230 mil Títulos de Propriedades Rurais
+48) Nova Lei Rouneat
 
-  51. Programa Wi-Fi Brasil (14,5 mil pontos)
+49) Programa Lixão Zero
 
-  52. 130 Escolas Cívico-Militares
+50) +230 mil Títulos de Propriedades Rurais
 
-  53. +2.500 Obras Escolares
+51) Programa Wi-Fi Brasil (14,5 mil pontos)
 
-  54. Revogaço (23 mil atos revogados)
+52) 130 Escolas Cívico-Militares
 
-  55. Extinção de 27 mil Cargos Públicos
+53) +2.500 Obras Escolares
 
-  56. Lei Superendividamento CPF
+54) Revogaço (23 mil atos revogados)
 
-  57. Operação Guardiões do Bioma
+55) Extinção de 27 mil Cargos Públicos
 
-  58. De 124ª para 65ª no Ranking Doing Business do Banco Mundial
+56) Lei Superendividamento CPF
 
-  59. Privatização CODESA (Portos)
+57) Operação Guardiões do Bioma
 
-  60. Projeto de Desestatização de Portos
+58) De 124ª para 65ª no Ranking Doing Business do Banco Mundial
 
-  61. PL Regulamentação do Lobby
+59) Privatização CODESA (Portos)
 
-  62. TranformaGov - Moderniza a Gestão da Administração Pública
+60) Projeto de Desestatização de Portos
 
-  63. Auxílio-Emergencial (R$ 600,00)
+61) PL Regulamentação do Lobby
 
-  64. Venda/Transferência de Veículos por meio Digital
+62) TranformaGov - Moderniza a Gestão da Administração Pública
 
-  65. Programa Pró-Trilhos
+63) Auxílio-Emergencial (R$ 600,00)
 
-  66. Programa de Apoio à Elaboração de Planos de Mobilidade Urbana Municipais
+64) Venda/Transferência de Veículos por meio Digital
 
-  67. Programa Brasil M.A.I.S - Apoio de perícias, investigações e operações
+65) Programa Pró-Trilhos
 
-  68. +600 milhões de doses de Vacina COVID-19 Adquiridas
+66) Programa de Apoio à Elaboração de Planos de Mobilidade Urbana Municipais
 
-  69. 78 Pedidos de Autorização Ferroviária
+67) Programa Brasil M.A.I.S - Apoio de perícias, investigações e operações
 
-  70. 30 Contratos de Novas Ferrovias
+68) +600 milhões de doses de Vacina COVID-19 Adquiridas
 
-  71. 10.000/km de Malha Ferroviária
+69) 78 Pedidos de Autorização Ferroviária
 
-  72. Inova Simples – Startups
+70) 30 Contratos de Novas Ferrovias
 
-  73. 34 Aeroportos Privatizados
+71) 10.000/km de Malha Ferroviária
 
-  74. `+` 90 Ativos da União Vendidos
+72) Inova Simples – Startups
 
-  75. Escritório de Representação do Ministério da Economia em Washington (EUA)
+73) 34 Aeroportos Privatizados
 
-  76. Antecipação da Neutralidade Climática de 2060 para 2050
+74) + 90 Ativos da União Vendidos
 
-  77. Programa Caminho da Escola – 5,9 mil Ônibus fabricados
+75) Escritório de Representação do Ministério da Economia em Washington (EUA)
 
-  78. 1º Escritório Regional da OMT (Organização Mundial do Turismo) nas Américas
+76) Antecipação da Neutralidade Climática de 2060 para 2050
 
-  79. Super Renegociação do FIES
+77) Programa Caminho da Escola – 5,9 mil Ônibus fabricados
 
-  80. FI-AGRO / CPR Verde
+78) 1º Escritório Regional da OMT (Organização Mundial do Turismo) nas Américas
 
-  81. RG Único (Centralização do CPF)
+79) Super Renegociação do FIES
 
-  83. Novo Inmetro – Modelo Regulatório Pró-Mercado
+80) FI-AGRO / CPR Verde
 
-  84. Redução de 25% do IPI (Imposto Sobre Produtos Industrializados)
+81) RG Único (Centralização do CPF)
 
-  85. Zerar IOF (Imposto Sobre Operações Financeiras) gradualmente até 2029
+83) Novo Inmetro – Modelo Regulatório Pró-Mercado
 
-  86. Sistema Balcão Único – abrir empresas em poucas horas 
+84) Redução de 25% do IPI (Imposto Sobre Produtos Industrializados)
 
+85) Zerar IOF (Imposto Sobre Operações Financeiras) gradualmente até 2029
+
+86) Sistema Balcão Único – abrir empresas em poucas horas 
+
+  
+
+### Fontes
+ - [https://www.gov.br/fazenda/pt-br/orgaos/spe/estudos-economicos](https://www.gov.br/fazenda/pt-br/orgaos/spe/estudos-economicos)
+ - [https://www.gov.br/secom/pt-br](https://www.gov.br/secom/pt-br)_
 ### Compilação
 
  - [**Rafael Lougon**](https://www.entregasdogoverno.com/2022/02/balanco-do-governo-bolsonaro-principais.html)
-
-### Fontes
-
-  - [fazenda](https://www.gov.br/fazenda/pt-br/orgaos/spe/estudos-economicos) 
-
-  - [secom](https://www.gov.br/secom/pt-br)
-
 
 ## 5,5 mil Obras e Projetos em 2021
 
