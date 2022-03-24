@@ -73,3 +73,13 @@
     background-image: linear-gradient( 165deg, #ffed00, rgba(0, 139, 0, 0.5), #1976d2) !important;
     filter: drop-shadow(0.03em 0.03em 0.03em #015AAA) !important;
 }
+
+.destaquesimg {
+    height: 200px !important;
+    max-height: 200px !important;
+}
+
+.imgtext {
+    float: left;
+    margin: 10px;
+}

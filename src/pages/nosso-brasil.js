@@ -159,15 +159,49 @@ Somos um povo que luta para se superar todos os dias. Sabemos da nossa força e 
                   </p>{" "}
                 </td>{" "}
               </tr>{" "}
+              <tr>
+                <td>
+                  <div className="video-container">
+                    <iframe
+                      width="300"
+                      height="200"
+                      src="https://www.youtube.com/embed/rNwUumGflws"
+                      title="1000 dias de Governo: Confira as entregas na Região Sul"
+                      frameBorder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                    />
+                  </div>{" "}
+                  <p>
+                  O Governo Federal trabalha há 1000 dias para melhorar a vida dos brasileiros e garantir a dignidade de toda a população. Muitos foram os avanços desde o início de 2019 em todas as regiões do país.
+                  </p>{" "}
+                </td>{" "}
+                <td>
+                  <div className="video-container">
+                    <iframe
+                      width="300"
+                      height="200"
+                      src="https://www.youtube.com/embed/JLm1bf9F1IU"
+                      title="1000 dias de Governo"
+                      frameBorder="0"
+                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                      allowFullScreen
+                    />
+                  </div>{" "}
+                  <p>
+                  O Governo Federal trabalha há 1000 dias para melhorar a vida dos brasileiros e garantir a dignidade de toda a população. Muitos foram os avanços desde o início de 2019 em todas as regiões do país.
+                  </p>{" "}
+                </td>{" "}
+              </tr>{" "}
             </tbody>{" "}
           </table>{" "}
         </div>
         
 		
-        <div className="margin-bottom--lg">
+        <div className="margin-bottom--lg destaques">
           <h3 id="legacy"> Força-Tarefa das Águas  </h3>{" "}
           <p>
-            ![ ](https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/arquivos/ft2_agua_doce.jpg)
+          <img src="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/arquivos/ft2_agua_doce.jpg" className="imgtext_src-pages-index-module"></img>
           A Força-Tarefa das Águas é um esforço concentrado de diversos órgãos do Governo Federal para levar água de qualidade a brasileiros que moram em comunidades rurais desassistidas pelas companhias de saneamento. Desde 2019, mais de 850 mil pessoas dessas comunidades mais afastadas passaram a ter acesso diário a água por meio de equipamentos entregues pelo governo, como poços - furados ou recuperados -, pequenas estações de tratamento, equipamentos de dessalinização, e outros sistemas de abastecimento, eliminando a dependência dos carros-pipa. 
 
 Com a Força-tarefa das Águas, o Governo Federal vai viabilizar água tratada permanente para mais de 600 mil pessoas nas regiões mais necessitadas do país, totalizando cerca de 1,5 milhão de brasileiros beneficiados até o final de 2022. 
@@ -179,20 +213,20 @@ Para atingir esse número, os ministérios do Desenvolvimento Regional, Saúde, 
               <tr>
                 <td>
                   <Link href="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/conheca-a-forca-tarefa-das-aguas">
-                  <img src="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/forca-tarefa-das-aguas/@@collective.nitf.backgound/ebb4540b-2f58-40c4-95a5-05853ac675c2/@@images/2681b1cb-45fc-42e2-a5ca-740387d81f8b.jpeg"></img>
-                  Força Tarefa das Águas{" "}
+                  <img className="destaquesimg_src-pages-index-module" src="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/forca-tarefa-das-aguas/@@collective.nitf.backgound/ebb4540b-2f58-40c4-95a5-05853ac675c2/@@images/2681b1cb-45fc-42e2-a5ca-740387d81f8b.jpeg"></img>
+                  <br />Força Tarefa das Águas{" "}
                   </Link>{" "}
                 </td>{" "}
                 <td>
                   <Link href="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/15-milhao-de-brasileiros-em-comunidades-rurais-terao-acesso-a-agua-ate-2022">
-                  <img src="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/15-milhao-de-brasileiros-em-comunidades-rurais-terao-acesso-a-agua-ate-2022/size_960_16_9_idosa-falta-agua3.jpg/@@images/c6536000-fc55-4758-af1b-69c7d42437a1.jpeg"></img>
-                  R$ 4,5 bilhões para a ampliação de oferta de água no País{" "}
+                  <img className="destaquesimg_src-pages-index-module" src="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/15-milhao-de-brasileiros-em-comunidades-rurais-terao-acesso-a-agua-ate-2022/size_960_16_9_idosa-falta-agua3.jpg/@@images/c6536000-fc55-4758-af1b-69c7d42437a1.jpeg"></img>
+                  <br />R$ 4,5 bilhões para oferta de água no País{" "}
                   </Link>{" "}
                 </td>{" "}
                 <td>
                   <Link href="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/forca-tarefa-das-aguas-no-ceara">
-                  <img src="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/forca-tarefa-das-aguas-no-ceara/agua-de-beber-agua-de-brincar-raquel-franzim-alana-foto-sasin-pixabay-800x445.jpg/@@images/208d2349-493e-4a1d-937e-db411d0a4010.jpeg"></img>
-                  Força-Tarefa das Águas no Ceará{" "}
+                  <img className="destaquesimg_src-pages-index-module" src="https://www.gov.br/pt-br/campanhas/nosso-brasil/forca-tarefa-das-aguas/forca-tarefa-das-aguas-no-ceara/agua-de-beber-agua-de-brincar-raquel-franzim-alana-foto-sasin-pixabay-800x445.jpg/@@images/208d2349-493e-4a1d-937e-db411d0a4010.jpeg"></img>
+                  <br />Força-Tarefa das Águas no Ceará{" "}
                   </Link>{" "}
                 </td>{" "}
               </tr>              
