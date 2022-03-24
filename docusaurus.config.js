@@ -30,8 +30,9 @@ module.exports = {
                     position: 'left',
                     label: '🎯Entregas do Governo',
                 },
-                { to: '/blog', label: '⚡️ Destaques', position: 'left' },
-                { to: '/mais-brasil', label: 'Mais Brasil', position: 'left' },
+                { to: '/blog', label: '⚡️Destaques', position: 'left' },
+                { to: '/mais-brasil', label: '💚Mais Brasil', position: 'left' },
+                { to: '/nosso-brasil', label: '💛Nosso Brasil', position: 'left' },
                 {
                     href: 'https://www.patreon.com/artesdosul',
                     label: 'Patreon',
