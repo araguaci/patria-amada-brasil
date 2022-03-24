@@ -28,7 +28,7 @@ module.exports = {
                     type: 'doc',
                     docId: 'index',
                     position: 'left',
-                    label: '🎯Entregas do Governo',
+                    label: '🎯Entregas',
                 },
                 { to: '/blog', label: '⚡️Destaques', position: 'left' },
                 { to: '/mais-brasil', label: '💚Mais Brasil', position: 'left' },
