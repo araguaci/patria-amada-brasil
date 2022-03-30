@@ -3,7 +3,7 @@ slug: 2022-03-30-governanca
 title: Práticas de Governança
 author: secomvc
 author_title: secomvc
-author_url: (https://www.instagram.com/p/CbvvSnELkzC/)
+author_url: https://www.instagram.com/p/CbvvSnELkzC/
 author_image_url: /img/nossobrasil.png
 tags: [governança, investimentos, obras, empregos, assistência social]
 ---
