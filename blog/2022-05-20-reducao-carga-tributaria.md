@@ -8,6 +8,8 @@ author_image_url: /img/nossobrasil.png
 tags: [governança, impostos]
 ---
 
+![ ](/img/carga-tributaria.jpg)
+
 CARGA TRIBUTÁRIA TERÁ REDUÇÃO DE R$ 62,9 BILHÕES EM 3 ANOS.
 
 Decreto do Governo Federal promoveu a redução geral de 25% das alíquotas dos produtos classificados nos códigos relacionados na Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi).
