@@ -3,9 +3,9 @@ slug: 2022-05-21-mais-de-130-milhoes-para-ampliar-acesso-a-agua-no-semiarido-bra
 title: Governo Federal investe mais R$ 130 milhões para ampliar acesso à água no semiárido brasileiro
 author: Presidente Bolsonaro 
 author_title: Presidente Bolsonaro
-author_url: https://t.me/jairbolsonarobrasil/3938   
+author_url: https://t.me/jairbolsonarobrasil/4071   
 author_image_url: /img/nossobrasil.png
-tags: [governança, impostos]
+tags: [dessalinizadores, projeto]
 ---
 
 # Governo Federal investe mais R$ 130,3 milhões para ampliar acesso à água no semiárido brasileiro
