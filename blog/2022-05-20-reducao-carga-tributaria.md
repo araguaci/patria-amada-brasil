@@ -1,6 +1,6 @@
 ---
 slug: 2022-05-20-reducao-carga-tributaria
-title: Carga Tibutária
+title: Carga Tributária
 author: Presidente Bolsonaro 
 author_title: Presidente Bolsonaro
 author_url: https://t.me/jairbolsonarobrasil/3938   
