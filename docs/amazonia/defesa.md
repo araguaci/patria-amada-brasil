@@ -6,7 +6,7 @@ sidebar_position: 2
 
 O país que mais preserva defende sua soberania contra crimes e ameaças no território mais cobiçado do mundo
 
-![ ](img/defesa-amazonia.jpg) 
+![ ](/img/defesa-amazonia.jpg) 
 
 ## OPERAÇÕES MILITARES CONTRA CRIMES AMBIENTAIS NA AMAZÔNIA
 
