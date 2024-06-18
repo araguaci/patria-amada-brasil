@@ -49,7 +49,7 @@ export default function Home() {
   /** {`${siteConfig.title}`} */
   return (
     <Layout
-      title="Melhorias e Entregas do Governo Federal"
+      title="Melhorias e Entregas Governo Pátria Amada Brasil"
       description="Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa"
     >
       <HomepageHeader />

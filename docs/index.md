@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
 ---
-# Entregas do Governo 
+# Governo Pátria Amada Brasil 
 
-## Balanço do Governo do Presidente Bolsonaro
+## Balanço de Entregas do Governo do Presidente Bolsonaro
 
 Período: Janeiro/2019 à Março/2022
 

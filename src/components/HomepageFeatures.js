@@ -22,7 +22,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Entregas do Governo',
+    title: 'Entregas Governo Pátria Amada Brasil',
     to: "/docs",
     tolabel: "Ver Entregas",
     Svg: require( '../../static/img/balanco-governo-avaliacao.svg').default,

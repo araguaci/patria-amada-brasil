@@ -1,5 +1,5 @@
 ---
-slug: 2022-06-28-retomada-pos-covid
+slug: 2022-06-28-fim-da-industria-da-seca
 title: Fim da Industria da Seca
 author: Presidente Bolsonaro 
 author_title: Presidente Bolsonaro
