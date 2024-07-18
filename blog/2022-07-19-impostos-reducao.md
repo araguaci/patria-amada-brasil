@@ -5,97 +5,223 @@ author: Presidente Bolsonaro
 author_title: Presidente Bolsonaro
 author_url: https://t.me/jairbolsonarobrasil/4471
 author_image_url: /img/caminho-certo.jpg
-tags: [brasil, governança, impostos] 
+tags: [brasil, governança, impostos, tributos] 
 ---
+## Impostos Reduzidos em 2019, 2020, 2021, 2022
 
-## AGOSTO 2019
- - Redução das tarlfas de importação de medicamento de HIV no Mercosul;
- - Redução de Imposto sobre jogos eletrônicos e videogames;
- - Redução de Impostos de importação de remédios contra câncer e HIV;
+### Agosto 2019
 
-## SETEMBRO 2019
- - Redução de Impostos de importação para 532 bens de capital;
+● mais de 261 bens de capital, produtos de informação e telecomunicações, como centros de usinagem, tornos CNC, máquinas alimentícias, máquinas têxteis, motores diesel, empilhadeiras, etc. (imposto de importação).
 
-## JANEIRO 2020
- - Desoneração da folha de pagamento para contratação;
+● ampliação do limite para isenção sobre mercadoria de quem chega do exterior (impostos de importação).
 
-## MARÇO 2020
- - Alíquota de Importação zerada para 61 produtos usados no combate à COVID-19;
+● reduzida a Tarifa Externa Comum do MERCOSUL (TEC) sobre remédios para câncer e AIDS (até 21).
 
-## ABRIL 2020
- - Zerada cobrança de imposto sobre produtos médicos;
- - Alíquota de Importação de cilindros de oxigênio zerada;
+● imposto sobre produtos industrializados (IPI) sobre jogos eletrônicos e videogame, de 50% para 40% quando console; de 40% para 32%, quando acessório; de 20% para 16%, quando game com tela incorporada.
 
-## MAIO 2020
- - Nova redução de impostos sobre remédios e produtos contra a COVID-19;
- - IOF zerado para distribuidoras de energia elétrica em 2020;
+### Setembro 2019
 
-## JULHO 2020
- - Imposto zerado para remédios de (AME);
- - Impostos de Importação zerados para mais de 37 medicamentos contra a COVID-19;
- - Impostos de Importação zerados para equipamentos de Energia Solar:
+● impostos de importação sobre 532 bens de capital, como impressoras, disco rígido, repetidores de sinal de internet, capacitores, etc.
 
-## SETEMBRO 2020
- - Impostos de Importação do arroz zerados até o fim de 2020;
- - Impostos de Importação zerados para centenas de equipamentos médicos;
+### Novembro 2019
 
-## OUTUBRO 2020
- - Impostos de Importação de soja e milho zerados até janeiro de 2021;
- - Nova redução de impostos sobre jogos eletrônicos e videogames;
+● Imposto de Renda Retido na Fonte (IRRF) sobre gastos pessoais em viagens (até o fim de 2024).
 
-## FEVEREIRO 2021
- - Reduzidos Impostos de importação de 25 produtos produzidos no Mercosul;
- - Impostos de Importação de produtos para combate à Covid-19 zerados;
- - Governo zera por dois meses impostos federais sobre o Diesel;
- - Zerados Impostos federais sobre o gás de cozinha;
+● IRRF sobre aluguel de aviões (até o fim de 2022).
 
-## MARCO 2021
- - Governo reduz em 10% o imposto de importação para eletrônicos e bens de capital;
+● contribuição Previdenciária isenta para Contrato de Trabalho Verde e Amarelo (até o fim de 2024).
 
-## ABRIL 2021
- - Governo reduz Impostos para importação de instrumentos musicais e skates;
+● IRPJ, CSLL, PIS e COFINS sobre gorjetas.
 
-## MAIO 2021
- - Zerados os Impostos de importação de mais 118 produtos e medicamentos para combater a Covid-19;
+● ampliação do limite para isenção de bens de viajantes que ingressam no país (impostos de importação).
 
-## JUNHO 2021
- - Reduzido Imposto de Importação para mais 23 produtos como insumos agrícolas, equipamentos para geradores de energia, insumos químicos, entre outros;
+### Janeiro 2020
 
-## AGOSTO 2021
- - Governo autoriza nova redução de impostos para jogos eletrônicos;
+● contribuição patronal ao INSS para contratação de jovens; alíquotas do Sistema S; Salário Educação.
 
-## SETEMBRO 2021
- - Zerado por 1 ano o imposto de importação de vacinas contra a outras doenças;
- - Zerado o Imposto de importação de 5 produtos para pessoas com deficiência;
- - Governo suspende a cobrança de PIS e Cofins na importação de milho;
- - Zerado o Imposto de importação de mais de 20 itens e Bens de Informática e Telecomunicações;
- - Zerado Imposto de importação de 5 produtos para pessoas com necessidades especiais;
+● redução da contribuição do FGTS para empresas para contratação de jovens.
 
-## OUTUBRO 2021
- - Zerado Imposto de importação de mais de novas listas de bens de capital (equipamentos médico-hospitalares);
- - Congelamento do ICMS cobrado em combustíveis de 1/11/21 até 31/01/22;
+### Março 2020
 
-## NOVEMBRO 2021
- - Redução de 10% nas alíquotas do imposto de importação de feijão, carne, massas, arroz, materiais de construção, entre outros;
- - Zerados os Impostos de importação para compra de veleiros;
+● impostos de importação e IPI sobre 61 produtos usados no combate à Covid-19, como artigos de laboratório ou de farmácia, luvas, mitenes e semelhantes (exceto para cirurgia) e termômetros clínicos. (até 20).
 
-## DEZEMBRO 2021
-.Zerado PIS/CofIns para cateteres intravenosos periféricos e os artigos para fístula arteriovenosa;
+### Abril 2020
 
-## JANEIRO 2022
- - Zeradas as alíquotas aplicadas na importação de produtos para uso em laboratórios, clínicas, hospitais, consultórios e campanhas;
- - Brasil se compromete a zerar o IOD cambial até 2029 para acelerar o processo de adesão à OCDE:
+● PIS/Cofins sobre sulfato de zinco (até 20).
 
-## MARÇO 2022
- - Zerado Imposto de importação de alimentos (café, margarina, queijo, macarrão, açúcar, óleo
-de soja) do etanol (para reduzir o preço da gasolina);
- - Zerado o Imposto de importação do gás de cozinha; (geladeiras, fogões, máquinas de lavar, automóveis, etc.);
+● impostos de importação e IPI sobre mais de 141 produtos médicos como tecidos para fabricação de máscaras, painel touch screen, válvulas para uso em ventiladores pulmonares, cilindros de oxigênio, etc. (até 20).
 
-## ABRIL 2022
-.Zerados Impostos de importação de módulos solares fotovoltaicos, equipamentos de adaptação para deficientes nos servíços de tecnologia, equipamentos médicos e de telecomunicações;
+● IOF de operações financeiras como empréstimos para micro e pequenas empresas (por 3 meses).
 
-## FEVEREIRO 2022
-.Redução de até 25% nas alíquotas de IPI dos produtos da linha branca e automotivos (geladeiras, fogões, máquinas de lavar, automóveis, etc.);
-.Zerado o Imposto de importação de mais 30 produtos para o setor aeronáutico e outros.
-(Impressoras, asas delta, motos aquáticas, balões, máquinas de corte etc.);
+### Maio 2020
+
+● impostos de importação sobre medicamentos e produtos contra a Covid-19, como dipirona, neostigmina, atropina, amicacina e ocitocina.
+
+### Junho 2020
+
+● impostos de importação sobre produtos de combate à Covid-19, como álcool em gel e insumo para fabricação de álcool em gel, aventais médicos, máscaras, luvas, etc. (até 20).
+
+### Julho 2020
+
+● operações financeiras como empréstimo, financiamento, arrendamento mercantil (IOF, por 3 meses).
+
+● impostos de importação sobre medicamentos para atrofia muscular espinhal (AME).
+
+● impostos de importação sobre mais de 37 medicamentos como ivermectina, fondaparinux, varfarina, nitazoxanida, edoxabana e rivaroxabana. (até 20).
+
+● impostos de importação sobre equipamentos de energia solar (até final de 2021).
+
+### Agosto 2020
+
+● impostos de importação sobre equipamentos de combate à Covid-19, como fios de borracha vulcanizada, exceto recobertos com silicone e câmera termográfica própria para medição de temperatura (até 20).
+
+### Setembro 2020
+
+● impostos de importação sobre arroz (até o fim de 2020).
+
+● prorrogação da isenção de impostos de importação sobre produtos contra Covid-19 (até 20).
+
+### Outubro 2020
+
+● IPI e PIS/Cofins sobre produtos de combate à Covid-19, como álcool etílico, desinfetantes, gel antisséptico, etc. (até 20).
+
+● IPI sobre jogos eletrônicos e videogames, de 40% para 30% quando console, de 32% para 22% quando acessório e de 16% para 6% quando game com tela incorporada.
+
+● impostos de importação sobre soja e milho (até 21).
+
+● prorrogada a isenção de impostos para operações financeiras como empréstimo, financiamento, arrendamento mercantil (IOF - até 20).
+
+### Dezembro 2020
+
+● prorrogada a isenção de impostos para operações financeiras como empréstimo, financiamento, arrendamento mercanti (IOF - por 15 dias).
+
+● impostos de importação sobre produtos para combate à Covid-19, como álcool etílico, desinfetantes, gel antisséptico, etc. (até 21).
+
+### Janeiro 2021
+
+● impostos de importação sobre produtos de combate à Covid-19, como agulhas, seringas, cilindros de oxigênio e outros itens médicos (até 21).
+
+● impostos de importação sobre pneus de caminhão (até 21).
+
+### Fevereiro 2021
+
+● impostos de importação sobre 25 produtos produzidos no Mercosul, como medicamentos, preparações químicas para uso fotográfico, discos para cunhagem de moeda, fios à base de níquel-titânio, folhas de alumínio, comutadores a vácuo, lentes para câmeras fotográficas e máscaras contra gases.(11 definitivamente, 14 temporariamente).
+
+### Março 2021
+
+● PIS/Cofins sobre diesel (por 2 meses).
+
+● PIS/Cofins sobre gás de cozinha (permanente).
+
+● impostos de importação sobre dezenas de bens de capital e informática, como guindastes, escavadeiras, empilhadeiras, locomotivas, contêineres, etc.
+
+● impostos de importação sobre produtos de combate à Covid-19, medicamentos para alívio de dor, sedação, intubação e respiração artificial, entre anestésicos, calmantes, analgésicos e antibióticos. (até final do ano).
+
+● PIS/Cofins, CSLL e IRPJ para setor de eventos (até 26).
+
+● impostos de importação sobre eletroeletrônicos e bens de capital, como aparelhos celulares, notebooks, equipamentos médicos de raio-X e microscópios óticos, máquinas para panificação e fabricação de cerveja.
+
+### Abril 2021
+
+● impostos de importação sobre soja e milho (até 21).
+
+● impostos de importação sobre instrumentos musicais e skates.
+
+### Maio 2021
+
+● impostos de importação sobre produtos de combate à Covid-19, como como álcool etílico, desinfetantes, gel antisséptico, etc. (até 21).
+
+### Junho 2021
+
+● impostos de importação sobre produtos de combate à Covid-19 como artigos de laboratório ou de farmácia, luvas, mitenes e semelhantes (exceto para cirurgia) e termômetros clínicos. (até 21).
+
+### Agosto 2021
+
+● imposto sobre produtos industrializados sobre videogame com tela incorporada.
+
+● IPI sobre jogos eletrônicos e videogames, de 30% para 20% quando console e de 22% para 12% quando acessório.
+
+### Setembro 2021
+
+● impostos de importação sobre 9 vacinas, contra gripe, hepatite B, difteria, tétano, pertussis, hepatite A, etc. (por um ano).
+
+● impostos de importação sobre medicamento para tratamento de câncer, 3 tipos de próteses de perna e 2 tipos de teclados especiais para computadores.
+
+● PIS, PASEP e Cofins sobre importação de milho.
+
+### Outubro 2021
+
+● impostos de importação sobre medicamentos para o tratamento de diversos tipos de câncer e outras doenças.
+
+### Novembro 2021
+
+● impostos de importação sobre bens comercializados, como feijão, carne, massas, biscoitos, arroz, materiais de construção, dentre outros. (até 22).
+
+● impostos de importação sobre produtos ligados à produção de energia.
+
+● impostos de importação sobre absorventes e fraldas.
+
+### Dezembro 2021
+
+● IPI sobre automóveis de passageiros para pessoas com deficiência auditiva.
+
+● Ampliado o limite para venda de mercadoria importada em fronteira, com zeramento de impostos de Importação.
+
+### Janeiro 2022
+
+● redução do Adicional ao frete para renovação da marinha mercante (AFRMM) sobre cabotagem (até 27).
+
+### Fevereiro 2022
+
+● IPI sobre automóveis e eletrodomésticos da linha branca.
+
+● IPI sobre grande maioria dos produtos, como veículos; produtos industrializados nacionais e importados, com exceção de produtos nocivos à saúde, como cigarros com tabaco.
+
+### Março 2022
+
+● início da redução gradual do IOF cambial até chegar a zero em 2029.
+
+● PIS/Cofins sobre diesel, GLP e querosene de avião (até 22).
+
+● IOF sobre energia elétrica (até 22).
+
+● zeramento de impostos de importação sobre seis alimentos (café, margarina, queijo, macarrão, açúcar e óleo de soja) e etanol (até final de 2022).
+
+### Abril 2022
+
+● impostos de importação sobre módulos solares fotovoltaicos, impressoras e equipamentos para impressão (até final de 2025).
+
+● impostos de importação sobre baricitinibe para tratamento contra Covid-19.
+
+### Maio 2022
+
+● impostos de importação sobre ácido sulfúrico e alimentos da cesta básica, como carne de boi desossadas, carne de frango, pedaços e miudezas, congelados, trigo e farinha de trigo; milho em grão, etc. (até final de 2022).
+
+● impostos de importação sobre alguns alimentos e materiais de construção, como feijão, carne, massas, biscoitos, arroz e materiais de construção, dentre outros itens. (até 23).
+
+● impostos de importação sobre fio-máquina de ferro, vergalhão de aço e mancozeb técnico.
+
+### Junho 2022
+
+● impostos de importação sobre videogames, de 16% para 12% quando console.
+
+● redução do limite da alíquota do ICMS sobre combustíveis para 18%.
+
+● impostos de importação sobre videogames com telas incorporadas.
+
+● Cide-Combustíveis e PIS/Cofins da gasolina zerados até dezembro de 2022.
+
+### Julho 2022
+
+● impostos de importação sobre medicamentos para tratamento de câncer e de doença pulmonar e equipamentos médicos.
+
+● impostos de importação sobre tintas para impressão de livros, lentes de contato, resinas de polipropileno.
+
+● nova redução do IPI, de 25% para 35%, para carros, motos, bicicletas, TVs, celulares, eletrodomésticos, aparelho de ar-condicionado, equipamento de ginástica, calçados e computadores.
+
+### Agosto 2022
+
+● redução de itens de nutrição esportiva de 11,2 para 4%.
+
+● zerados impostos de importação de outros suplementos alimentares e diversos itens de nutrição esportiva.
 
