@@ -57,7 +57,7 @@ Lista de tributos reduzidos pelo governo
 
 ---
 
-## Listagem 2019, 2020, 2021, 2022
+## Impostos Reduzidos em 2019, 2020, 2021, 2022
 
 ### Agosto 2019
 
