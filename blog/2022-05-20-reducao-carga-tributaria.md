@@ -5,7 +5,7 @@ author: Presidente Bolsonaro
 author_title: Presidente Bolsonaro
 author_url: https://t.me/jairbolsonarobrasil/3938   
 author_image_url: /img/nossobrasil.png
-tags: [governança, impostos]
+tags: [governança, impostos, tributos]
 ---
 
 ![ ](/img/carga-tributaria.jpg)
