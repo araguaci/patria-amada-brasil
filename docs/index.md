@@ -295,3 +295,4 @@ SecomVc
 *   [MDR conclui 6,2 mil obras em 2020 e entrega 410 mil moradias em todo o País](/blog/2020-12-22-obras-concluidas-e-410-mil-moradias-em-todo-o-pais)
 *   [Água para Todos universaliza acesso à água em Ibotirama](/blog/2019-05-22-agua-para-todos-universaliza-acesso-a-agua-em-ibotirama)
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app/docs%2F&labelColor=%230d4a1b&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app%2F)
