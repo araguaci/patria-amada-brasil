@@ -151,7 +151,7 @@ module.exports = {
         },
       ],
 
-      copyright: `<p><b>Pátria Amada Brasil - Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa.</b></p>✠ Projeto Voluntário ✠ © ${new Date().getFullYear()} <a href="https://www.artesdosul.com/" title="Thank you to artesdosul">Artes do Sul</a> ✠ Brasil Acima de Tudo ✠ DEUS ACIMA DE TODOS ✠`,
+      copyright: `<p><b>Pátria Amada Brasil - Um novo Brasil de resultados e melhorias acontecendo que não é mostrado na imprensa.</b></p>✠ Projeto Voluntário ✠ © ${new Date().getFullYear()} <a href="https://www.artesdosul.com/" title="Thank you to artesdosul">Artes do Sul</a> ✠ Brasil Acima de Tudo ✠ DEUS ACIMA DE TODOS ✠<br /><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app%2F&labelColor=%230d4a1b&countColor=%23263759" /></a>`,
     },
     metadata: [
       {
