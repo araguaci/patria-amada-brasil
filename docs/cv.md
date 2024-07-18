@@ -67,3 +67,5 @@ Criação de aplicações Electron, Node e Websites em React-JS e Javasript. Mon
  - Auxílio no desenvolvimento de Sistemas para Odontologia em VB3 e banco de dados proprietário, Dental Manager (Dental Manager, 93-94).
 
 **[`^        back to top        ^`](#)**
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app/cv%2F&labelColor=%230d4a1b&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app%2F)
