@@ -304,3 +304,6 @@ Lista de tributos reduzidos pelo governo
  - [**Infraestutura**](/docs/infraestrutura)
  - [**Meio Ambiente**](/docs/meioambiente/)
  - [**Soberania Nacional**](/blog/2022-03-02-soberania-nacional)
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app/impostos%2F&labelColor=%230d4a1b&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fpatria-amada-brasil.vercel.app%2F)
