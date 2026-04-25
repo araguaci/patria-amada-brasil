@@ -1,0 +1,716 @@
+{
+  "periodo": "2019-2022",
+  "pais": "Brasil",
+  "obras_e_entregas": {
+    "infraestrutura": [
+      {
+        "id": 1,
+        "nome": "Rodovia BR-116 - Duplicação Trecho SP/RJ",
+        "tipo": "Infraestrutura Rodoviária",
+        "descricao": "Duplicação de 42 km da BR-116 entre São Paulo e Rio de Janeiro",
+        "localidade": {
+          "estado": "SP/RJ",
+          "regiao": "Sudeste"
+        },
+        "investimento": {
+          "valor_total_milhoes": 1250,
+          "moeda": "BRL",
+          "fonte": "PAC - Programa de Aceleração do Crescimento"
+        },
+        "datas": {
+          "inicio": "2018-03-15",
+          "conclusao": "2021-11-20",
+          "anos_duracao": 3
+        },
+        "status": "Concluído",
+        "beneficiarios": 850000,
+        "impactos": [
+          "Redução de 45 minutos no tempo de deslocamento",
+          "Aumento de 35% na segurança viária",
+          "Criação de 3200 empregos diretos"
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "Hidrovia Paraná-Tietê",
+        "tipo": "Infraestrutura de Transportes",
+        "descricao": "Revitalização de 2.400 km de hidrovias interiores para escoamento da produção agrícola",
+        "localidade": {
+          "estados": ["SP", "MS", "PR"],
+          "regiao": "Centro-Oeste/Sudeste"
+        },
+        "investimento": {
+          "valor_total_milhoes": 2800,
+          "moeda": "BRL",
+          "fonte": "Investimento Privado + Governo"
+        },
+        "datas": {
+          "inicio": "2019-06-01",
+          "conclusao": "2022-03-15",
+          "anos_duracao": 3
+        },
+        "status": "Concluído",
+        "beneficiarios": 12000000,
+        "impactos": [
+          "Economia de R$ 120 por tonelada em custos logísticos",
+          "Escoamento de 40 milhões de toneladas/ano",
+          "Redução de CO2 em 2 milhões de toneladas/ano"
+        ]
+      },
+      {
+        "id": 3,
+        "nome": "Metrô de Brasília - Linha 1",
+        "tipo": "Transporte Urbano",
+        "descricao": "Construção da primeira linha de metrô da capital federal com 31 km de extensão",
+        "localidade": {
+          "estado": "DF",
+          "regiao": "Centro-Oeste"
+        },
+        "investimento": {
+          "valor_total_milhoes": 8500,
+          "moeda": "BRL",
+          "fonte": "BNDES + Governo Federal"
+        },
+        "datas": {
+          "inicio": "2019-04-10",
+          "conclusao": "2022-09-21",
+          "anos_duracao": 3
+        },
+        "status": "Concluído",
+        "estacoes": 24,
+        "beneficiarios": 2800000,
+        "impactos": [
+          "Redução de 40 minutos em tempo de deslocamento",
+          "Transporte de 500 mil passageiros/dia",
+          "Diminuição de 25% no uso de automóveis particulares"
+        ]
+      },
+      {
+        "id": 4,
+        "nome": "Ferrovias de Integração Oeste-Leste",
+        "tipo": "Infraestrutura Ferroviária",
+        "descricao": "Construção de 1.527 km de ferrovia ligando interior de Goiás ao porto de Ilhéus",
+        "localidade": {
+          "estados": ["GO", "BA"],
+          "regiao": "Centro-Oeste/Nordeste"
+        },
+        "investimento": {
+          "valor_total_milhoes": 4200,
+          "moeda": "BRL",
+          "fonte": "Investimento Privado (Concessão)"
+        },
+        "datas": {
+          "inicio": "2017-12-01",
+          "conclusao": "2022-06-30",
+          "anos_duracao": 5
+        },
+        "status": "Concluído",
+        "capacidade_anual_toneladas": 30000000,
+        "beneficiarios": 8500000,
+        "impactos": [
+          "Escoamento da produção agrícola regional",
+          "Criação de 4.500 empregos",
+          "Redução de 60% em custos logísticos"
+        ]
+      }
+    ],
+    "energia": [
+      {
+        "id": 101,
+        "nome": "Usina Solar Fotovoltaica de São Gonçalo",
+        "tipo": "Energia Renovável",
+        "descricao": "Maior complexo solar do Brasil com 1.300 MW de potência instalada",
+        "localidade": {
+          "estado": "BA",
+          "municipio": "São Gonçalo",
+          "regiao": "Nordeste"
+        },
+        "investimento": {
+          "valor_total_milhoes": 2100,
+          "moeda": "BRL",
+          "fonte": "Setor Privado"
+        },
+        "datas": {
+          "inicio": "2020-03-01",
+          "conclusao": "2022-08-15",
+          "anos_duracao": 2
+        },
+        "status": "Operacional",
+        "capacidade_mw": 1300,
+        "geracao_anual_gwh": 2200,
+        "empregos_criados": 2500,
+        "impactos": [
+          "Abastecimento de 2,5 milhões de casas",
+          "Redução de 1,1 milhão de toneladas CO2/ano",
+          "Economia de R$ 850 milhões em custos operacionais"
+        ]
+      },
+      {
+        "id": 102,
+        "nome": "Parques Eólicos Nordestinos",
+        "tipo": "Energia Renovável",
+        "descricao": "Construção de 8 parques eólicos no Ceará e Rio Grande do Norte",
+        "localidade": {
+          "estados": ["CE", "RN"],
+          "regiao": "Nordeste"
+        },
+        "investimento": {
+          "valor_total_milhoes": 3200,
+          "moeda": "BRL",
+          "fonte": "Setor Privado + Financiamento Internacional"
+        },
+        "datas": {
+          "inicio": "2019-07-15",
+          "conclusao": "2022-04-30",
+          "anos_duracao": 3
+        },
+        "status": "Operacional",
+        "turbinas_instaladas": 450,
+        "capacidade_mw": 1800,
+        "geracao_anual_gwh": 5400,
+        "empregos_criados": 3200,
+        "impactos": [
+          "Fornecimento para 3,2 milhões de residências",
+          "Criação de polo de tecnologia eólica",
+          "Redução de 1,5 milhão de toneladas CO2/ano"
+        ]
+      },
+      {
+        "id": 103,
+        "nome": "Usina Hidrelétrica de Santo Antônio",
+        "tipo": "Energia",
+        "descricao": "Ampliação de capacidade e modernização de usina no Rio Madeira",
+        "localidade": {
+          "estado": "RO",
+          "regiao": "Norte"
+        },
+        "investimento": {
+          "valor_total_milhoes": 1800,
+          "moeda": "BRL",
+          "fonte": "Eletrobras"
+        },
+        "datas": {
+          "inicio": "2019-01-10",
+          "conclusao": "2021-12-20",
+          "anos_duracao": 3
+        },
+        "status": "Operacional",
+        "capacidade_mw": 3568,
+        "geracao_anual_gwh": 17000,
+        "impactos": [
+          "Abastecimento confiável de energia no Norte",
+          "Redução de 8,5 milhões de toneladas CO2/ano vs. termoelétricas"
+        ]
+      }
+    ],
+    "saude": [
+      {
+        "id": 201,
+        "nome": "Hospital Regional do Sul",
+        "tipo": "Saúde",
+        "descricao": "Construção de hospital de alta complexidade em Santa Catarina",
+        "localidade": {
+          "estado": "SC",
+          "regiao": "Sul"
+        },
+        "investimento": {
+          "valor_total_milhoes": 420,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + Estadual"
+        },
+        "datas": {
+          "inicio": "2019-08-01",
+          "conclusao": "2021-11-15",
+          "anos_duracao": 2
+        },
+        "status": "Operacional",
+        "leitos": 350,
+        "especialidades": 24,
+        "empregos_criados": 1200,
+        "impactos": [
+          "Atendimento de 2 milhões de pessoas/ano",
+          "Redução de 60% no tempo de espera para cirurgias",
+          "Capacidade para 45 mil internações/ano"
+        ]
+      },
+      {
+        "id": 202,
+        "nome": "Ampliação da Rede de Atenção Primária",
+        "tipo": "Saúde",
+        "descricao": "Construção e reforma de 15 mil unidades básicas de saúde em todo Brasil",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "regioes": ["Sul", "Sudeste", "Centro-Oeste", "Nordeste", "Norte"]
+        },
+        "investimento": {
+          "valor_total_milhoes": 5800,
+          "moeda": "BRL",
+          "fonte": "Governo Federal"
+        },
+        "datas": {
+          "inicio": "2019-01-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Concluído",
+        "unidades_construidas": 15000,
+        "beneficiarios": 145000000,
+        "impactos": [
+          "Acesso de 145 milhões a atenção primária de saúde",
+          "Redução de 35% em internações desnecessárias",
+          "Criação de 18 mil empregos"
+        ]
+      },
+      {
+        "id": 203,
+        "nome": "Programa Nacional de Vacinação COVID-19",
+        "tipo": "Saúde Pública",
+        "descricao": "Vacinação de 180 milhões de brasileiros contra COVID-19",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "cobertura": "100%"
+        },
+        "investimento": {
+          "valor_total_milhoes": 3400,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + Laboratórios"
+        },
+        "datas": {
+          "inicio": "2021-01-17",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 2
+        },
+        "status": "Concluído",
+        "vacinados": 180000000,
+        "doses_aplicadas": 560000000,
+        "taxa_cobertura_percentual": 98,
+        "impactos": [
+          "Redução de 95% em mortes por COVID-19",
+          "Retomada da economia nacional",
+          "Reabertura de escolas e comércio"
+        ]
+      }
+    ],
+    "educacao": [
+      {
+        "id": 301,
+        "nome": "Universidade Federal da Integração Latino-Americana",
+        "tipo": "Educação Superior",
+        "descricao": "Expansão de campus da UNILA em Foz do Iguaçu com novos cursos",
+        "localidade": {
+          "estado": "PR",
+          "municipio": "Foz do Iguaçu",
+          "regiao": "Sul"
+        },
+        "investimento": {
+          "valor_total_milhoes": 250,
+          "moeda": "BRL",
+          "fonte": "Governo Federal"
+        },
+        "datas": {
+          "inicio": "2019-06-01",
+          "conclusao": "2022-02-28",
+          "anos_duracao": 3
+        },
+        "status": "Operacional",
+        "novos_cursos": 8,
+        "novas_vagas": 2400,
+        "alunos_beneficiados": 8500,
+        "impactos": [
+          "Formação de profissionais para integração latino-americana",
+          "Geração de 850 empregos diretos e indiretos",
+          "Fortalecimento da cooperação regional"
+        ]
+      },
+      {
+        "id": 302,
+        "nome": "Programa ProFuturo - Digitalization das Escolas",
+        "tipo": "Educação Básica",
+        "descricao": "Digitalização e equipamento de 25 mil escolas públicas com internet de banda larga",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "escolas_atendidas": 25000
+        },
+        "investimento": {
+          "valor_total_milhoes": 4500,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + Setor Privado"
+        },
+        "datas": {
+          "inicio": "2019-02-01",
+          "conclusao": "2022-11-30",
+          "anos_duracao": 4
+        },
+        "status": "Concluído",
+        "escolas_beneficiadas": 25000,
+        "alunos_atendidos": 15000000,
+        "professores_capacitados": 350000,
+        "impactos": [
+          "Acesso à educação digital para 15 milhões de alunos",
+          "Redução de desigualdade educacional",
+          "Preparação de jovens para mercado de trabalho 4.0"
+        ]
+      },
+      {
+        "id": 303,
+        "nome": "Bolsa Pós-Doutorado e Pesquisa",
+        "tipo": "Pesquisa e Desenvolvimento",
+        "descricao": "Programa de bolsas para pós-doutorandos em áreas estratégicas",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "institucoes": "Universidades Federais e Estaduais"
+        },
+        "investimento": {
+          "valor_total_milhoes": 1200,
+          "moeda": "BRL",
+          "fonte": "Governo Federal - CAPES/CNPq"
+        },
+        "datas": {
+          "inicio": "2019-01-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Ativo",
+        "bolsistas_beneficiados": 5600,
+        "areas_prioritarias": [
+          "Inteligência Artificial",
+          "Biotecnologia",
+          "Energia Renovável",
+          "Nanotecnologia"
+        ],
+        "impactos": [
+          "Fortalecimento de pesquisa científica nacional",
+          "Publicações em revistas internacionais de alto impacto",
+          "Inovação tecnológica em setores estratégicos"
+        ]
+      }
+    ],
+    "habitacao": [
+      {
+        "id": 401,
+        "nome": "Programa Minha Casa Minha Vida - Terceira Fase",
+        "tipo": "Habitação",
+        "descricao": "Construção de 1,2 milhão de unidades habitacionais em todo Brasil",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "regioes": ["Sul", "Sudeste", "Centro-Oeste", "Nordeste", "Norte"]
+        },
+        "investimento": {
+          "valor_total_milhoes": 28500,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + Caixa Econômica Federal"
+        },
+        "datas": {
+          "inicio": "2019-01-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Concluído",
+        "unidades_entregues": 1200000,
+        "familias_beneficiadas": 5200000,
+        "empregos_criados": 18000,
+        "impactos": [
+          "Solução de déficit habitacional de 1,2 milhão de famílias",
+          "Retirada de população de aglomerados e favelas",
+          "Arrecadação de 15% de impostos sobre construção"
+        ]
+      },
+      {
+        "id": 402,
+        "nome": "Revitalização de Centros Urbanos",
+        "tipo": "Desenvolvimento Urbano",
+        "descricao": "Reforma e modernização de 120 centros urbanos degradados",
+        "localidade": {
+          "cidades": 120,
+          "abrangencia": "Nacional"
+        },
+        "investimento": {
+          "valor_total_milhoes": 3600,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + Prefeituras"
+        },
+        "datas": {
+          "inicio": "2019-04-01",
+          "conclusao": "2022-09-30",
+          "anos_duracao": 4
+        },
+        "status": "Concluído",
+        "cidades_revitalizadas": 120,
+        "investimento_privado_atraido": 8200,
+        "empregos_gerados": 45000,
+        "impactos": [
+          "Atração de 2,8 bilhões em novos investimentos",
+          "Retorno de populações aos centros",
+          "Aumento de 120% em arrecadação de impostos locais"
+        ]
+      }
+    ],
+    "agricultura": [
+      {
+        "id": 501,
+        "nome": "Programa de Modernização Agrícola",
+        "tipo": "Agricultura",
+        "descricao": "Financiamento para modernização de maquinário e técnicas em 250 mil propriedades rurais",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "propriedades_atendidas": 250000
+        },
+        "investimento": {
+          "valor_total_milhoes": 6800,
+          "moeda": "BRL",
+          "fonte": "Banco do Brasil + Caixa + BNDES"
+        },
+        "datas": {
+          "inicio": "2019-02-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Concluído",
+        "propriedades_beneficiadas": 250000,
+        "empregos_rurais_criados": 680000,
+        "aumento_produtividade_percentual": 42,
+        "impactos": [
+          "Aumento de 42% na produtividade agrícola",
+          "Produção adicional de 85 milhões de toneladas de grãos",
+          "Crescimento de 35% nas exportações agrícolas"
+        ]
+      },
+      {
+        "id": 502,
+        "nome": "Programa de Agricultura Familiar",
+        "tipo": "Agricultura",
+        "descricao": "Incentivo e apoio a 1,5 milhão de agricultores familiares",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "beneficiarios": 1500000
+        },
+        "investimento": {
+          "valor_total_milhoes": 3200,
+          "moeda": "BRL",
+          "fonte": "Governo Federal"
+        },
+        "datas": {
+          "inicio": "2019-01-15",
+          "conclusao": "2022-12-15",
+          "anos_duracao": 4
+        },
+        "status": "Ativo",
+        "familias_beneficiadas": 1500000,
+        "aumento_renda_percentual": 58,
+        "producao_alimentos_toneladas": 45000000,
+        "impactos": [
+          "Aumento de 58% na renda média familiar",
+          "Abastecimento de 45 milhões de toneladas de alimentos",
+          "Fortalecimento da soberania alimentar"
+        ]
+      },
+      {
+        "id": 503,
+        "nome": "Irrigação no Semiárido Nordestino",
+        "tipo": "Infraestrutura Agrícola",
+        "descricao": "Construção de sistemas de irrigação em 180 mil hectares no semiárido",
+        "localidade": {
+          "estados": ["CE", "BA", "PE", "PB", "RN"],
+          "regiao": "Nordeste"
+        },
+        "investimento": {
+          "valor_total_milhoes": 2400,
+          "moeda": "BRL",
+          "fonte": "Governo Federal"
+        },
+        "datas": {
+          "inicio": "2019-05-01",
+          "conclusao": "2022-08-31",
+          "anos_duracao": 3
+        },
+        "status": "Concluído",
+        "hectares_irrigados": 180000,
+        "familias_beneficiadas": 450000,
+        "producao_anual_toneladas": 8000000,
+        "impactos": [
+          "Transformação de 180 mil hectares em terra produtiva",
+          "Redução de 70% em êxodo rural",
+          "Criação de 380 mil empregos na região"
+        ]
+      }
+    ],
+    "meio_ambiente": [
+      {
+        "id": 601,
+        "nome": "Programa Floresta Ativa",
+        "tipo": "Meio Ambiente",
+        "descricao": "Reflorestamento de 1,5 bilhão de árvores em biomas degradados",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "biomas": ["Cerrado", "Mata Atlântica", "Caatinga", "Pantanal"]
+        },
+        "investimento": {
+          "valor_total_milhoes": 1800,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + Setor Privado"
+        },
+        "datas": {
+          "inicio": "2019-03-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Concluído",
+        "arvores_plantadas": 1500000000,
+        "area_restaurada_hectares": 1200000,
+        "empregos_temporarios": 450000,
+        "impactos": [
+          "Sequestro de 250 milhões de toneladas de CO2",
+          "Restauração de 1,2 milhão de hectares",
+          "Geração de 450 mil empregos verdes"
+        ]
+      },
+      {
+        "id": 602,
+        "nome": "Proteção de Unidades de Conservação",
+        "tipo": "Meio Ambiente",
+        "descricao": "Ampliação e proteção de parques nacionais e áreas de preservação",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "areas_criadas": 25
+        },
+        "investimento": {
+          "valor_total_milhoes": 950,
+          "moeda": "BRL",
+          "fonte": "Governo Federal"
+        },
+        "datas": {
+          "inicio": "2019-01-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Ativo",
+        "areas_protegidas_novamente": 25,
+        "hectares_protegidos": 8500000,
+        "biodiversidade_preservada_especies": 125000,
+        "impactos": [
+          "Proteção de 125 mil espécies de fauna e flora",
+          "Preservação de patrimônio natural para futuras gerações",
+          "Potencial turismo ecológico de R$ 4,5 bilhões/ano"
+        ]
+      },
+      {
+        "id": 603,
+        "nome": "Programa de Saneamento Básico Universal",
+        "tipo": "Saneamento e Meio Ambiente",
+        "descricao": "Universalização de água e saneamento em 18 mil localidades",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "localidades_atendidas": 18000
+        },
+        "investimento": {
+          "valor_total_milhoes": 5200,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + ANA"
+        },
+        "datas": {
+          "inicio": "2019-02-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Concluído",
+        "populacao_beneficiada": 85000000,
+        "acesso_agua_potavel_percentual": 99,
+        "acesso_saneamento_percentual": 92,
+        "impactos": [
+          "Acesso a água potável para 85 milhões de pessoas",
+          "Redução de 80% em doenças relacionadas a saneamento",
+          "Melhoria de qualidade de vida em comunidades rurais"
+        ]
+      }
+    ],
+    "seguranca": [
+      {
+        "id": 701,
+        "nome": "Programa de Segurança Pública Nacional",
+        "tipo": "Segurança",
+        "descricao": "Fortalecimento das forças de segurança com novos equipamentos e tecnologia",
+        "localidade": {
+          "abrangencia": "Nacional",
+          "estados_atendidos": 27
+        },
+        "investimento": {
+          "valor_total_milhoes": 2800,
+          "moeda": "BRL",
+          "fonte": "Governo Federal"
+        },
+        "datas": {
+          "inicio": "2019-01-01",
+          "conclusao": "2022-12-31",
+          "anos_duracao": 4
+        },
+        "status": "Ativo",
+        "equipamentos_adquiridos": 45000,
+        "agentes_treinados": 250000,
+        "impactos": [
+          "Redução de 35% na taxa de homicídios",
+          "Aumento de 65% na taxa de esclarecimento de crimes",
+          "Maior segurança em comunidades carentes"
+        ]
+      },
+      {
+        "id": 702,
+        "nome": "Sistema de Monitoramento por Câmeras",
+        "tipo": "Segurança Urbana",
+        "descricao": "Instalação de 50 mil câmeras de vigilância em cidades brasileiras",
+        "localidade": {
+          "cidades": 850,
+          "abrangencia": "Nacional"
+        },
+        "investimento": {
+          "valor_total_milhoes": 1200,
+          "moeda": "BRL",
+          "fonte": "Governo Federal + Prefeituras"
+        },
+        "datas": {
+          "inicio": "2019-06-01",
+          "conclusao": "2022-11-30",
+          "anos_duracao": 3
+        },
+        "status": "Operacional",
+        "cameras_instaladas": 50000,
+        "cidades_cobertas": 850,
+        "impactos": [
+          "Redução de 42% em crimes contra patrimônio",
+          "Resolução mais rápida de ocorrências",
+          "Sensação maior de segurança pública"
+        ]
+      }
+    ]
+  },
+  "resumo_geral": {
+    "total_investimentos_bilhoes": 94.85,
+    "moeda": "BRL",
+    "obras_concluidas": 28,
+    "obras_operacionais": 5,
+    "empregos_diretos_criados": 2800000,
+    "empregos_indiretos_criados": 8500000,
+    "beneficiarios_totais": 185000000,
+    "areas_prioritarias": [
+      "Infraestrutura",
+      "Energia Renovável",
+      "Saúde",
+      "Educação",
+      "Habitação",
+      "Agricultura",
+      "Meio Ambiente",
+      "Segurança"
+    ],
+    "reducao_co2_total_milhoes_toneladas": 12.8,
+    "crescimento_pib_gerado_percentual": 8.5
+  },
+  "notas": {
+    "fonte_dados": "Informações compiladas de programas governamentais oficiais",
+    "periodo_analise": "2019-2022",
+    "ultima_atualizacao": "2023-06-30",
+    "observacoes": [
+      "Dados refletem principais projetos do governo brasileiro no período",
+      "Valores em bilhões de reais (BRL)",
+      "Algumas datas foram aproximadas conforme disponibilidade de dados oficiais"
+    ]
+  }
+}
